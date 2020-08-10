@@ -22,3 +22,4 @@ INSERT INTO `m_item_category` VALUES (/*item_list_category_type*/18, /*name*/"k.
 INSERT INTO `m_item_category` VALUES (/*item_list_category_type*/19, /*name*/"k.m_item_category_accessory_rarity_up", /*item_list_tab_type*/5, /*display_order*/2);
 INSERT INTO `m_item_category` VALUES (/*item_list_category_type*/20, /*name*/"k.m_item_category_live_skip_ticket", /*item_list_tab_type*/1, /*display_order*/3);
 INSERT INTO `m_item_category` VALUES (/*item_list_category_type*/21, /*name*/"k.m_item_category_story_unlock", /*item_list_tab_type*/1, /*display_order*/4);
+INSERT INTO `m_item_category` VALUES (/*item_list_category_type*/255, /*name*/"k.m_item_category_21012", /*item_list_tab_type*/2, /*display_order*/3);

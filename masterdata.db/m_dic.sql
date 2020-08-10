@@ -10,7 +10,7 @@ INSERT INTO `m_dic` VALUES (/*id*/18, /*text*/"k.story_l_p201");
 INSERT INTO `m_dic` VALUES (/*id*/19, /*text*/"k.story_l_p202");
 INSERT INTO `m_dic` VALUES (/*id*/20, /*text*/"k.story_l_p501");
 INSERT INTO `m_dic` VALUES (/*id*/21, /*text*/"k.global_menu_pickup_info_1");
-INSERT INTO `m_dic` VALUES (/*id*/22, /*text*/"k.live_campaign_global_menu_info");
+INSERT INTO `m_dic` VALUES (/*id*/22, /*text*/"k.global_menu_pickup_info_2");
 INSERT INTO `m_dic` VALUES (/*id*/23, /*text*/"k.global_menu_pickup_info_3");
 INSERT INTO `m_dic` VALUES (/*id*/24, /*text*/"k.global_menu_pickup_info_4");
 INSERT INTO `m_dic` VALUES (/*id*/25, /*text*/"k.global_l_325");
