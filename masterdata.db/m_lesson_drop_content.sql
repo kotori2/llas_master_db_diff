@@ -194,3 +194,11 @@ INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/8, /*conten
 INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/8, /*content_type*/12, /*content_id*/1942, /*content_amount*/4, /*weight*/1000, /*rarity*/3, /*display_order*/50);
 INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/8, /*content_type*/12, /*content_id*/1942, /*content_amount*/5, /*weight*/500, /*rarity*/3, /*display_order*/20);
 INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/8, /*content_type*/12, /*content_id*/1700, /*content_amount*/2, /*weight*/2000, /*rarity*/1, /*display_order*/50);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/1, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/1600, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/2, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/1600, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/3, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/6400, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/4, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/6400, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/5, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/1600, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/6, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/3200, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/7, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/3200, /*rarity*/1, /*display_order*/1);
+INSERT INTO `m_lesson_drop_content` VALUES (/*lesson_menu_master_id*/8, /*content_type*/6, /*content_id*/21011, /*content_amount*/10, /*weight*/3200, /*rarity*/1, /*display_order*/1);
