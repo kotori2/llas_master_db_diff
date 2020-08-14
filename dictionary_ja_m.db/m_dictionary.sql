@@ -909,6 +909,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003204", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003301", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「決意の光」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003302", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 三船 栞子をライブ編成にいれて5回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003303", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 三船 栞子のキズナボードの強化マスを15回解放する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003401", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「Margaret」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003402", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 中須 かすみをライブ編成にいれて5回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003403", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「Fire Bird」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003404", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 朝香 果林をライブ編成にいれて5回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003501", /*message*/"[ニジガク 2nd ライブ応援課題] ストーリー3章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003502", /*message*/"[ニジガク 2nd ライブ応援課題] ストーリー4章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003503", /*message*/"[ニジガク 2nd ライブ応援課題] ストーリー5章をクリアする");
@@ -1331,6 +1335,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400229", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400230", /*message*/"「決意の光」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400231", /*message*/"「決意の光」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400232", /*message*/"「決意の光」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400233", /*message*/"「Margaret」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400234", /*message*/"「Margaret」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400235", /*message*/"「Margaret」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400236", /*message*/"「Fire Bird」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400237", /*message*/"「Fire Bird」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400238", /*message*/"「Fire Bird」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -2333,6 +2343,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"秘
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"クッキング矢澤");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ラブニコ弁当♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"二人でにっこりトラベル♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"可愛く撮ってね♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"あなたはどこが好き？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"ライオン怪獣ちかちー！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"靴とばししようよ");
@@ -2369,6 +2380,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"秘
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"ミッドナイト・ガールズトーク");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"米粒ひとつにも愛を込めて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_2", /*message*/"秘密のメイドさん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_1", /*message*/"プールと浮き輪の思い出");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013002_2", /*message*/"Present for you");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"特製パンの差し入れ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"勝ち服ゲット！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"最高のプレゼントを求めて");

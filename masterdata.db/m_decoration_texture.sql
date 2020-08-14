@@ -553,6 +553,8 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20209/tex_banner_notice_s_20209", /*path*/"W7F");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10047/tex_banner_notice_l_10047", /*path*/"l.M");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10047/tex_banner_notice_s_10047", /*path*/"oxA");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20204/tex_banner_notice_l_20204", /*path*/"AAK");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20204/tex_banner_notice_s_20204", /*path*/"i9x");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32001/tex_banner_notice_l_32001", /*path*/"Q6v");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32001/tex_banner_notice_s_32001", /*path*/"9;^");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Notice/90006/tex_banner_notice_90006_01", /*path*/"twe");
@@ -570,3 +572,7 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00051/tex_banner_notice_l_00051", /*path*/"<63");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00051/tex_banner_notice_s_00051", /*path*/"E]$");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10050/tex_banner_notice_l_10050", /*path*/"9`e");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00055/tex_banner_notice_l_00055", /*path*/"V>\"");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00055/tex_banner_notice_s_00055", /*path*/"W%O");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Tower/dlp/tex_banner_notice_l_dlp", /*path*/"tBx");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Tower/dlp/tex_banner_notice_s_dlp", /*path*/"R8-");
