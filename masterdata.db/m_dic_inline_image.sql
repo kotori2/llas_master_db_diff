@@ -10,7 +10,7 @@ INSERT INTO `m_dic_inline_image` VALUES (/*id*/4, /*text*/"inline_image.m_dic_in
 INSERT INTO `m_dic_inline_image` VALUES (/*id*/5, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_1300_s");
 INSERT INTO `m_dic_inline_image` VALUES (/*id*/6, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_1301_s");
 INSERT INTO `m_dic_inline_image` VALUES (/*id*/7, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_2200_s");
-INSERT INTO `m_dic_inline_image` VALUES (/*id*/8, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_15012_s");
+INSERT INTO `m_dic_inline_image` VALUES (/*id*/8, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_15013_s");
 INSERT INTO `m_dic_inline_image` VALUES (/*id*/9, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_16001_s");
 INSERT INTO `m_dic_inline_image` VALUES (/*id*/10, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_icon_info_01");
 INSERT INTO `m_dic_inline_image` VALUES (/*id*/11, /*text*/"inline_image.m_dic_inline_image_tex_inlineimage_item_17001_s");
