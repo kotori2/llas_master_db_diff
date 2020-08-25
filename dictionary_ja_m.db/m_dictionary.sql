@@ -2284,6 +2284,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102101001_1", /*message*/"真
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102101002_1", /*message*/"迷いながら、進みたい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102102001_1", /*message*/"戦友と！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200012001_1", /*message*/"選べない！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_1", /*message*/"ひとりじめにしてもいい？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200013001_2", /*message*/"一番近くで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_1", /*message*/"手を繋いで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200023001_2", /*message*/"キミの声");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200032001_1", /*message*/"ことりのおまじない");
@@ -2302,6 +2304,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200093001_2", /*message*/"ナ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201012001_1", /*message*/"仲居の高海さん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"海の魔法");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"会いたかった！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"あなたの声をずっと聞いていたい");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"大人の女性になれてる？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"ダイヤさんのオススメ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"キュートにキメて！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"海色デート☆");
@@ -2354,6 +2358,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"笑
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"夢中にさせて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"なんでもお見通し！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"思い出写真");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"巫女舞");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_1", /*message*/"いたいのいたいの、とんでいけ〜♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300073001_2", /*message*/"目を閉じて！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082001_1", /*message*/"愛情たっぷりおにぎり");
@@ -2427,6 +2432,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"氷
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"熱血MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082001_1", /*message*/"パン天国");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082002_1", /*message*/"スマイル＆スマイル");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"レインボー日本語講座");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"みんな幸せに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"食いしん坊の赤ずきん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"璃奈ちゃんボード会議！");
