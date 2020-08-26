@@ -950,6 +950,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003513", /*message*/"[ニジガク 2nd ライブ応援課題] ストーリー15章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003514", /*message*/"[ニジガク 2nd ライブ応援課題] ストーリー16章をクリアする 2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003515", /*message*/"[ニジガク 2nd ライブ応援課題] ストーリー16章をクリアする 1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003601", /*message*/"[Aqours CLUB CD SET 2020発売記念] 「JIMO-AI Dash!」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003602", /*message*/"[Aqours CLUB CD SET 2020発売記念] 「JIMO-AI Dash!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
