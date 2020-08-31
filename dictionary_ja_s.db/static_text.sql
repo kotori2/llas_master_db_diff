@@ -862,7 +862,7 @@ INSERT INTO `static_text` VALUES (/*textid*/6255264877491074870, /*guid*/"7993e4
 INSERT INTO `static_text` VALUES (/*textid*/6810445891633888941, /*guid*/"7993e486ca05c4710a132918393e9fb1", /*message*/"イベント");
 INSERT INTO `static_text` VALUES (/*textid*/812008409455871934, /*guid*/"7993e486ca05c4710a132918393e9fb1", /*message*/"運営");
 INSERT INTO `static_text` VALUES (/*textid*/8323006801416565256, /*guid*/"7993e486ca05c4710a132918393e9fb1", /*message*/"注意事項");
-INSERT INTO `static_text` VALUES (/*textid*/3843390140063712263, /*guid*/"7a1a7e35fd5e60848a76f0029ef766e8", /*message*/"(仮)初回無料");
+INSERT INTO `static_text` VALUES (/*textid*/3843390140063712263, /*guid*/"7a1a7e35fd5e60848a76f0029ef766e8", /*message*/"初回無料");
 INSERT INTO `static_text` VALUES (/*textid*/7551423035758542619, /*guid*/"7a1a7e35fd5e60848a76f0029ef766e8", /*message*/"おまけ");
 INSERT INTO `static_text` VALUES (/*textid*/1148381496, /*guid*/"7b3283c212009fc41ae4628dd40ea852", /*message*/"レアリティアップ");
 INSERT INTO `static_text` VALUES (/*textid*/1166663837, /*guid*/"7b3283c212009fc41ae4628dd40ea852", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_parameter_01\" margin-left=\"9px\" margin-right=\"1px\" offsety=\"-3px\" height=\"20px\" width=\"20px\"/>アピール");
