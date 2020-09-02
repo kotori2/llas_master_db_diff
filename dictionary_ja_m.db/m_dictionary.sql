@@ -998,6 +998,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003901", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003902", /*message*/"[ビッグライブ課題] 「僕らは今のなかで」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*message*/"[ビッグライブ課題] 「未来の僕らは知ってるよ」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[ビッグライブ課題] 「TOKIMEKI Runners 17章Ver.」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004001", /*message*/"[Just Believe!!!発売記念！] 「Just Believe!!!」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004002", /*message*/"[Just Believe!!!発売記念！] 「Just Believe!!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
