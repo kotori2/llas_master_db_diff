@@ -196,6 +196,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000137", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000138", /*message*/"ライブを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000139", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000140", /*message*/"ログインボーナスを受け取る");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000141", /*message*/"「どんなときもずっと」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000142", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000143", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"「僕らは今のなかで」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"イベントポイントを900獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"ライブを5回クリアする");
@@ -752,6 +755,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000811", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000812", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000813", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000814", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000901", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000902", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000903", /*message*/"期間中4回ログインボーナスを受け取る");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000904", /*message*/"期間中8回ログインボーナスを受け取る");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000905", /*message*/"合宿を10回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000906", /*message*/"合宿を20回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000907", /*message*/"ライブを10回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000908", /*message*/"ライブを25回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000909", /*message*/"ライブを30回クリアする　9/7 15:00 ~ 9/10 3:59");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000910", /*message*/"ライブを30回クリアする　9/10 4:00 ~ 9/12 3:59");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000911", /*message*/"ライブを30回クリアする　9/12 4:00 ~ 9/15 14:59");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000912", /*message*/"衣装を1着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000913", /*message*/"衣装を2着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401000914", /*message*/"衣装を3着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"「僕らは今のなかで」を10回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"「僕らは今のなかで」を20回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300103", /*message*/"ライブを10回プレイする");
@@ -1014,6 +1031,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"第5話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"第6話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"第7話");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31009", /*message*/"チョイ悪イメチェン計画");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"プレイベント ドリームライブパレード");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ドリームライブパレード");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
