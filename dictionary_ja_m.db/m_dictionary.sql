@@ -1017,6 +1017,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[ビッグライブ課題] 「TOKIMEKI Runners 17章Ver.」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004001", /*message*/"[Just Believe!!!発売記念！] 「Just Believe!!!」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004002", /*message*/"[Just Believe!!!発売記念！] 「Just Believe!!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004401", /*message*/"[セブン‐イレブンコラボ！] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004402", /*message*/"[セブン‐イレブンコラボ！1] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004403", /*message*/"[セブン‐イレブンコラボ！2] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004404", /*message*/"[セブン‐イレブンコラボ！3] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004405", /*message*/"[セブン‐イレブンコラボ！4] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004406", /*message*/"[セブン‐イレブンコラボ！5] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004407", /*message*/"[セブン‐イレブンコラボ！6] ライブを7回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004408", /*message*/"[セブン‐イレブンコラボ！7] ライブを7回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
