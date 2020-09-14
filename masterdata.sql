@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"b83adabebad89cf852884d22279f9161ee9f14c4", /*hash*/"8f34fef9566ad29cab92a195579518bb7e5dbab2", /*size*/6283667);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"e4d44d19eda9833a74c18d3b016974d0614c0b07", /*hash*/"814329b78cacd58d95c25a49556ace93f763bbbf", /*size*/6283675);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"15685c1bd3f19f7aa238e7ba1bdbc61e97086de6", /*hash*/"f743eac35f2e2423c5048972f41ceee7b7206ca3", /*size*/37042);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"ec055c65d17d1ac1bf28f82be56e96dadafb189e", /*hash*/"c910d95a61a0c46b899391afa9b9f33f430fffb8", /*size*/8430);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"9b4f10a6e60c4f9d7065d3afd0a571cda0b0e983", /*hash*/"06f15cf819c726cdcc4089b0567f970fed7eec02", /*size*/2682);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"3976507bf690f5dd9111f5edabdf2d9dabe514ba", /*hash*/"3c1bb383825a56e4bfd19fb080f45bda32329f08", /*size*/111941);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_v.db", /*keys*/"dd845d280267182f93f94b9ded9bfc266b6ca253", /*hash*/"7d66450194ddf563d36715b776e5762d68265b27", /*size*/537);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"6dc80e809e63935a7a7176b5dd24582e0e91bdfa", /*hash*/"cd9c9598b65b4113a9e2ccca4a156b67a8fbcf21", /*size*/780819);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"b124617e2f1dcfd34868e212d28c06461bde98be", /*hash*/"221523f24c6efa1675ef45a7537f9cae208ac14f", /*size*/6530484);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"98f83ac61725cdd45524a479e5f18d73f3af39af", /*hash*/"8abe7c1f899d97644248d76fc41a5169f65cdc78", /*size*/6529857);
