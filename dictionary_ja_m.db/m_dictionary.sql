@@ -1017,6 +1017,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003904", /*message*/"[ビッグライブ課題] 「TOKIMEKI Runners 17章Ver.」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004001", /*message*/"[Just Believe!!!発売記念！] 「Just Believe!!!」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004002", /*message*/"[Just Believe!!!発売記念！] 「Just Believe!!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004301", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでスクールアイドル1人のPPを回復する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004304", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでスクールアイドル3人のPPを回復する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004401", /*message*/"[セブン‐イレブンコラボ！] ライブを7回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004402", /*message*/"[セブン‐イレブンコラボ！1] ライブを7回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004403", /*message*/"[セブン‐イレブンコラボ！2] ライブを7回プレイする");
@@ -1042,6 +1046,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_title_31009", /*message*/"チョイ悪イメチェン計画");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"プレイベント ドリームライブパレード");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ドリームライブパレード");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"ドリームライブパレード～Aqours～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"ドリームライブパレード～Aqours～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
