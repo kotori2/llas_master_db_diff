@@ -16,6 +16,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035034_00", /*message*/"スケー
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"伊豆箱根鉄道ホーム(昼晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"中華飯店");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"おもちゃ屋店頭(昼晴)  ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"秋の河原(昼晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"イベントルール 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"イベントルール 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"イベントルール 3/5");
@@ -137,6 +138,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30014_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30015_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1", /*message*/"イベントルール 1/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/"イベントルール 2/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"イベントルール 3/3");
