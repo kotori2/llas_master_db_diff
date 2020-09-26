@@ -119,6 +119,12 @@ Purpose: to enable you to save and continue your games within your profile acros
 No. 3
 Processed personal data: IP address, your country (no other geographical information will be included), and other similar technologies
 Purpose: to assist debugging, and to improve our service and its stability
+No. 4
+Processed personal data: IP  address,  cookies,  user ID (hashed),  useragent, referrer data
+Purpose: to prevent auto-operational tools that are prohibitedin the Terms of Use
+No. 5
+Processed personal data: Device information, application-related data
+Purpose: to detect the use of automated programs in order toprevent cheating
 
 2.2 Subscription to Service-Related Information
 If you would like to be informed about the latest news and upcoming events you will have the option of using your email address for this purpose (or your SNS account). We will use your email address or SNS account for regularly sending you service-related information. Providing your email address or SNS account for this purpose is voluntary. However, without providing your email address or SNS account you will not receive information about news and upcoming events from those sources. The legal basis for the processing of your personal data for sending service-related information is your consent (Art. 6 (1) lit. a GDPR). If you have declared your consent you can withdraw your consent at any time with future effect under: gdpr@support.klab.com. Please note that a withdrawal will not affect the lawfulness of the processing prior to the consent.

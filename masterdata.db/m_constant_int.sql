@@ -136,7 +136,7 @@ INSERT INTO `m_constant_int` VALUES (/*constant_int*/131, /*value*/1);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/132, /*value*/3);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/133, /*value*/6);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/134, /*value*/1);
-INSERT INTO `m_constant_int` VALUES (/*constant_int*/135, /*value*/2);
+INSERT INTO `m_constant_int` VALUES (/*constant_int*/135, /*value*/3);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/136, /*value*/2);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/137, /*value*/10000);
 INSERT INTO `m_constant_int` VALUES (/*constant_int*/138, /*value*/100);
