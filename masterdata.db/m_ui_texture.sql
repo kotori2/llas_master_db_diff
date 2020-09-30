@@ -88,7 +88,7 @@ INSERT INTO `m_ui_texture` VALUES (/*id*/86, /*asset_path*/"a9m");
 INSERT INTO `m_ui_texture` VALUES (/*id*/87, /*asset_path*/"p{O");
 INSERT INTO `m_ui_texture` VALUES (/*id*/88, /*asset_path*/"0YB");
 INSERT INTO `m_ui_texture` VALUES (/*id*/89, /*asset_path*/"TXe");
-INSERT INTO `m_ui_texture` VALUES (/*id*/90, /*asset_path*/".qP");
+INSERT INTO `m_ui_texture` VALUES (/*id*/90, /*asset_path*/"!HV");
 INSERT INTO `m_ui_texture` VALUES (/*id*/91, /*asset_path*/"??+");
 INSERT INTO `m_ui_texture` VALUES (/*id*/92, /*asset_path*/"6=r");
 INSERT INTO `m_ui_texture` VALUES (/*id*/93, /*asset_path*/"6=r");
