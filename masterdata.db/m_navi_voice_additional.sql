@@ -1707,6 +1707,7 @@ INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100075);
 INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100076);
 INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100077);
 INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100078);
+INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100079);
 INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100080);
 INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100081);
 INSERT INTO `m_navi_voice_additional` VALUES (/*id*/102100082);
