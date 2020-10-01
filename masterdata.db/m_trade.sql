@@ -70,6 +70,7 @@ INSERT INTO `m_trade` VALUES (/*id*/21013, /*category_pattern_id*/0, /*display_o
 INSERT INTO `m_trade` VALUES (/*id*/21014, /*category_pattern_id*/0, /*display_order*/930, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21015, /*category_pattern_id*/0, /*display_order*/920, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/21017, /*category_pattern_id*/0, /*display_order*/910, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
+INSERT INTO `m_trade` VALUES (/*id*/21018, /*category_pattern_id*/0, /*display_order*/900, /*monthly_reset*/0, /*description*/"k.trade_description_21001");
 INSERT INTO `m_trade` VALUES (/*id*/31001, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31001");
 INSERT INTO `m_trade` VALUES (/*id*/31002, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31002");
 INSERT INTO `m_trade` VALUES (/*id*/31003, /*category_pattern_id*/31000, /*display_order*/100, /*monthly_reset*/0, /*description*/"k.shop_event_exchange_content_description_31003");

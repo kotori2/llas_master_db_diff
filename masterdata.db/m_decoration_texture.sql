@@ -649,3 +649,4 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Noti
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32007/tex_banner_notice_l_32007", /*path*/"Bpw");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32007/tex_banner_notice_s_32007", /*path*/"A\"^");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20216/tex_banner_notice_l_20216", /*path*/"^1r");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Location/50010/tex_banner_notice_l_50010", /*path*/"-Fm");

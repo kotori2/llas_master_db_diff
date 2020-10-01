@@ -1087,6 +1087,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004502", /*message*/"[ビッグライブ課題] 「ユメノトビラ」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004503", /*message*/"[ビッグライブ課題] 「MIRACLE WAVE」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004504", /*message*/"[ビッグライブ課題] 「決意の光」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004601", /*message*/"[ODAIBAゲーマーズコラボ課題！] 合宿を20回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004602", /*message*/"[ODAIBAゲーマーズコラボ課題！] 合宿を50回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004603", /*message*/"[ODAIBAゲーマーズコラボ課題！] 合宿を100回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004604", /*message*/"[ODAIBAゲーマーズコラボ課題！] 合宿を150回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004801", /*message*/"[LOST WORLD開催記念！] 「青空Jumping Heart」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004802", /*message*/"[LOST WORLD開催記念！] 「Wake up, Challenger!!」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004803", /*message*/"[LOST WORLD開催記念！] 「君のこころは輝いてるかい？」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004804", /*message*/"[LOST WORLD開催記念！] 「HAPPY PARTY TRAIN」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

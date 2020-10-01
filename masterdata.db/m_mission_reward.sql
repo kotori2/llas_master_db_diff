@@ -2679,6 +2679,14 @@ INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004501, /*display_order*
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004502, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004503, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004504, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004601, /*display_order*/1, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004602, /*display_order*/1, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004603, /*display_order*/1, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004604, /*display_order*/1, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004801, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004802, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004803, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
+INSERT INTO `m_mission_reward` VALUES (/*mission_id*/900004804, /*display_order*/1, /*content_type*/1, /*content_id*/0, /*content_amount*/10);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/190000001, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/5);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/190000002, /*display_order*/1, /*content_type*/28, /*content_id*/16001, /*content_amount*/5);
 INSERT INTO `m_mission_reward` VALUES (/*mission_id*/190000003, /*display_order*/1, /*content_type*/4, /*content_id*/1100, /*content_amount*/10000);
