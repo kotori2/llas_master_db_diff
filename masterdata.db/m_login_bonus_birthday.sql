@@ -33,3 +33,4 @@ INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/206, /*start_at*/1576422000, 
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/207, /*start_at*/1596812400, /*end_at*/1596898800, /*suit_master_id*/102072001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/208, /*start_at*/1580828400, /*end_at*/1580914800, /*suit_master_id*/202083001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/209, /*start_at*/1573570800, /*end_at*/1573657200, /*suit_master_id*/102092001);
+INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/121002, /*start_at*/1601823600, /*end_at*/1601910000, /*suit_master_id*/102102001);

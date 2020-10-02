@@ -41,8 +41,8 @@ INSERT INTO `m_trade` VALUES (/*id*/20172, /*category_pattern_id*/0, /*display_o
 INSERT INTO `m_trade` VALUES (/*id*/20185, /*category_pattern_id*/0, /*display_order*/21, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20187, /*category_pattern_id*/0, /*display_order*/22, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20188, /*category_pattern_id*/0, /*display_order*/23, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
-INSERT INTO `m_trade` VALUES (/*id*/20190, /*category_pattern_id*/0, /*display_order*/20191, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
-INSERT INTO `m_trade` VALUES (/*id*/20191, /*category_pattern_id*/0, /*display_order*/20190, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
+INSERT INTO `m_trade` VALUES (/*id*/20190, /*category_pattern_id*/0, /*display_order*/24, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
+INSERT INTO `m_trade` VALUES (/*id*/20191, /*category_pattern_id*/0, /*display_order*/23, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20202, /*category_pattern_id*/0, /*display_order*/20202, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20204, /*category_pattern_id*/0, /*display_order*/20204, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20205, /*category_pattern_id*/0, /*display_order*/20205, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
@@ -52,7 +52,7 @@ INSERT INTO `m_trade` VALUES (/*id*/20209, /*category_pattern_id*/0, /*display_o
 INSERT INTO `m_trade` VALUES (/*id*/20210, /*category_pattern_id*/0, /*display_order*/20210, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20212, /*category_pattern_id*/0, /*display_order*/20212, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20213, /*category_pattern_id*/0, /*display_order*/20213, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
-INSERT INTO `m_trade` VALUES (/*id*/20215, /*category_pattern_id*/0, /*display_order*/20240, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
+INSERT INTO `m_trade` VALUES (/*id*/20215, /*category_pattern_id*/0, /*display_order*/20239, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20216, /*category_pattern_id*/0, /*display_order*/20212, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20238, /*category_pattern_id*/0, /*display_order*/20239, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");
 INSERT INTO `m_trade` VALUES (/*id*/20239, /*category_pattern_id*/0, /*display_order*/20238, /*monthly_reset*/0, /*description*/"k.trade_description_gacha_point_shiny_quartz");

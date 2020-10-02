@@ -321,3 +321,6 @@ INSERT INTO `m_petag` VALUES (/*petag_id*/315, /*petag*/"petag.petag_subscriptio
 INSERT INTO `m_petag` VALUES (/*petag_id*/316, /*petag*/"petag.petag_subscription_desc_empty_android");
 INSERT INTO `m_petag` VALUES (/*petag_id*/317, /*petag*/"petag.petag_subscription_help_empty_ios");
 INSERT INTO `m_petag` VALUES (/*petag_id*/318, /*petag*/"petag.petag_subscription_help_empty_android");
+INSERT INTO `m_petag` VALUES (/*petag_id*/319, /*petag*/"petag.petag_icon_gacha_ticket_9032_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/320, /*petag*/"petag.petag_icon_gacha_ticket_9032_32_empty");
+INSERT INTO `m_petag` VALUES (/*petag_id*/321, /*petag*/"petag.petag_icon_gacha_ticket_9032_28_empty");

@@ -1055,7 +1055,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003805", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003806", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 宮下 愛をライブ編成にいれて5回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003807", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「Märchen Star」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003808", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 近江 彼方をライブ編成にいれて5回クリアする　※スキップチケット対象外");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003809", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「LIKE IT! LOVE IT!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003809", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「LIKE IT！LOVE IT！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003810", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 優木 せつ菜をライブ編成にいれて5回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003811", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] 「哀温ノ詩」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900003812", /*message*/"[あつあつ！ニジガクサマーキャンペーン課題] エマ・ヴェルデをライブ編成にいれて5回クリアする　※スキップチケット対象外");
@@ -1523,9 +1523,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400247", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400248", /*message*/"「Märchen Star」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400249", /*message*/"「Märchen Star」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400250", /*message*/"「Märchen Star」を100回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400251", /*message*/"「LIKE IT! LOVE IT!」を10回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400252", /*message*/"「LIKE IT! LOVE IT!」を50回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400253", /*message*/"「LIKE IT! LOVE IT!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400251", /*message*/"「LIKE IT！LOVE IT！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400252", /*message*/"「LIKE IT！LOVE IT！」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400253", /*message*/"「LIKE IT！LOVE IT！」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400254", /*message*/"「哀温ノ詩」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400255", /*message*/"「哀温ノ詩」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400256", /*message*/"「哀温ノ詩」を100回クリアする");
