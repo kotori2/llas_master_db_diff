@@ -3075,7 +3075,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_1", /*message*/"�
 　次はμ&apos;sに会いに行きたいけど……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_10", /*message*/"　3回戦は海未vsしずくによるボーカル対決！
 　ずっと表現力を磨いてきたしずくの歌は素晴らしいものだったが、スイッチがはいり抜群のパフォーマンスをみせた海未の得点が上回った。現時点での勝敗結果を受け虹ヶ咲メンバーは……。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_2", /*message*/"　スクールアイドルのファンサイトで応募した、μ&apos;s密着取材に当選したあなたは、期待に胸を膨らませ音ノ木坂学園に行った。実際にあったμ&apos;sのメンバーはとても気さくで取材が楽しみなあなた。
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_2", /*message*/"　スクールアイドルのファンサイトで応募した、μ&apos;s密着取材に当選したあなたは、期待に胸を膨らませ音ノ木坂学院に行った。実際にあったμ&apos;sのメンバーはとても気さくで取材が楽しみなあなた。
 　最初の取材相手は……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_3", /*message*/"　まずは穂乃果・海未・ことりにインタビューをしたあなた。ちょうど次のステージのための打ち合わせをするらしい。μ&apos;sは一体どんな綿密な打ち合わせをしているのかと思ったら想像とは違って……。首を傾げつつも、次は１年生の話を聞く。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_5_4", /*message*/"　凛・真姫・花陽のインタビューをしたあなた。ここでは真姫の曲作りを見学させてもらえることになった。ピアノに向かう真姫の周りでマラカスを振って応援している凛と花陽。その自由な作曲風景に面食らいながらもインタビューは続く。");
