@@ -219,6 +219,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000146", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000147", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000148", /*message*/"ログインボーナスを受け取る");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000149", /*message*/"メンバーズチャレンジのデイリー課題をすべてクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000157", /*message*/"「Landing action Yeah!!」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000158", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000159", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"「僕らは今のなかで」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"イベントポイントを900獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"ライブを5回クリアする");
