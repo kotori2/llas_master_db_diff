@@ -2547,6 +2547,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"動
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"我が家が竜宮城！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"生徒会で大切なこと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"優しさの花束");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"すっぱい涙");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"怖がりの帰り道");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"緑の優しさ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"伝説のメイド、降臨！");
@@ -2616,6 +2617,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"ダ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"あの夏の約束");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"デートのお誘い？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"恥ずかしくて死んじゃいます");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"キラキラしてる笑顔はだれのもの？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"もっともっと、一緒にね！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"秘密の友達");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"ミッドナイト・ガールズトーク");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013001_1", /*message*/"米粒ひとつにも愛を込めて");
@@ -2835,7 +2838,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_6", /*message*/"第6
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_7", /*message*/"第7話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_8", /*message*/"第8話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_index_title_9", /*message*/"第9話");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards", /*message*/"期間限定クリア報酬");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_additional_rewards", /*message*/"スペシャルクリア報酬");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_1", /*message*/"上原歩夢 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"中須かすみ 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"獲得したアイテムを使って<color value=\"#ffa800\">特訓</color>することで
