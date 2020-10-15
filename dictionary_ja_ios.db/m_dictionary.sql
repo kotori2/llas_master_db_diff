@@ -30,6 +30,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_act_on_specified_commercial_tran
 
 提供時期
         代金の支払い後、直に利用可能。
+        ただし、スクスタパスの継続特典は、利用可能になるまで最大1時間の遅延が発生します。
 
 返品、キャンセル
         サービスの性質上、返品、キャンセルは出来ません。

@@ -1115,6 +1115,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004801", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004802", /*message*/"[LOST WORLD開催記念！] 「Wake up, Challenger!!」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004803", /*message*/"[LOST WORLD開催記念！] 「君のこころは輝いてるかい？」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004804", /*message*/"[LOST WORLD開催記念！] 「HAPPY PARTY TRAIN」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004901", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1134,6 +1137,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ドリームライブパレード");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"ドリームライブパレード～Aqours～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"ドリームライブパレード～Aqours～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"ドリームライブパレード～ニジガク～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"ドリームライブパレード～ニジガク～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
