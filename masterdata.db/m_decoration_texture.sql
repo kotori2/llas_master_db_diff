@@ -680,3 +680,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00066/tex_banner_notice_l_00066", /*path*/"/f5");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00065/tex_banner_notice_l_00065", /*path*/"@AM");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/00065/tex_banner_notice_s_00065", /*path*/"wao");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0002/tex_banner_notice_birthday_l_0002_2", /*path*/"?9z");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/Birthday/0002/tex_banner_notice_birthday_s_0002_2", /*path*/"~%z");
