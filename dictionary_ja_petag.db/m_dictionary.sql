@@ -301,7 +301,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_ios", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_android", /*message*/"なお、基準日はプラットフォーム基準のタイムゾーン（UTC）で決定されるため、時差による有効期間の差異が発生する場合がございます。
 
 例）契約日時：2021/2/28 15:00 UTC
-有効期間(UTC)：2021/2/28 15:00 から 2020/3/28 15:00
+有効期間(UTC)：2021/2/28 15:00 から 2021/3/28 15:00
 有効期間(JST)：2021/3/1 00:00 から 2021/3/29 00:00");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_ios", /*message*/"なお、基準日はプラットフォーム基準のタイムゾーン（PST：サマータイム適用あり）で決定されるため、時差による有効期間の差異が発生する場合がございます。
 
