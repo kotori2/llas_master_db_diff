@@ -1156,6 +1156,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004902", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900004903", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005001", /*message*/"[虹色Passions！発売記念課題！]  「虹色Passions！」を5回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005002", /*message*/"[虹色Passions！発売記念課題！]  「虹色Passions！」を10回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005101", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005102", /*message*/"[ビッグライブ課題] 「PSYCHIC FIRE」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005103", /*message*/"[ビッグライブ課題] 「Wake up, Challenger!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005104", /*message*/"[ビッグライブ課題] 「Just Believe!!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1315,6 +1319,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800013", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800014", /*message*/"ストーリー17章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800015", /*message*/"ストーリー18章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800016", /*message*/"ストーリー19章をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800017", /*message*/"ストーリー20章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"キズナエピソードを1話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"キズナエピソードを5話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"キズナエピソードを10話視聴する");
@@ -1607,6 +1612,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400268", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400269", /*message*/"「未体験HORIZON」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400270", /*message*/"「未体験HORIZON」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400271", /*message*/"「未体験HORIZON」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400311", /*message*/"「Happy maker!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400312", /*message*/"「Happy maker!」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400313", /*message*/"「Happy maker!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400314", /*message*/"「Landing action Yeah!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400315", /*message*/"「Landing action Yeah!!」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400316", /*message*/"「Landing action Yeah!!」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -2928,6 +2939,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_17", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_18", /*message*/"いざ！　秘密の特訓へ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_19", /*message*/"ゾンビとの戦い");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"チャンスをつかめ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_20", /*message*/"スクールアイドル同好会
+VSスクールアイドル部！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine・前編");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・後編");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;sの秘密を探れ！");
@@ -2947,6 +2960,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_17", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_18", /*message*/"第18章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_19", /*message*/"第19章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"第2章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_20", /*message*/"第20章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"第3章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"第4章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
@@ -2956,6 +2970,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_8", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_9", /*message*/"第9章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_description_99991", /*message*/"ドキドキ・ワクワクの無人島合同合宿！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_1", /*message*/"First Season");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_2", /*message*/"2nd Season");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_part_title_99991", /*message*/"Intermission");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_10_1", /*message*/"　生徒会長選挙に敗れ、落ち込むせつ菜だったが、本音を吐露し同好会に戻ってきた。無事にスクールアイドル同好会再始動！　かと思いきや栞子から「スクールアイドル同好会の廃部通告」を受ける……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_10_10", /*message*/"　とうとう中間テスト全て終了！　みんな気が抜ける中でも、愛の勧めでテスト後の復習まできちんと行った。そしていよいよ運命の日、同好会は存続できるのか……！？");
@@ -3081,6 +3096,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_8", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_1_9", /*message*/"　以前の部員だった彼方とエマも戻って光が見えてきた同好会メンバー。
 　次に誘いに行くのは、読者モデルとしてバリバリ活躍している果林！
 　果林には譲れないこだわりがあって……。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_10", /*message*/"　みんなで力を合わせて開催したゲリラライブ。しかしスクールアイドル部が緊急ライブをぶつけてきたことで、ほとんどのお客さんが向こうに行ってしまった。でも、残ってくれた人を大事に！　もっともっと頑張ろう！！　そう決意したはずが……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_1a", /*message*/"　充実（？）した合宿を終え、日々の練習に励みつつもあなたのいない毎日に寂しさが募っていたメンバー。ついに、あなたが帰ってくる！！　さっそく学園に向かったあなたが見たステージとは……！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_1b", /*message*/"　講堂で行われていたパフォーマンスに圧倒されたあなた。そしてそのステージにはあなたの見たことのない子が立っている。あの子は一体誰なのか……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_2", /*message*/"　講堂でライブをしていたのは、スクールアイドル部！？　あなたのいない間になんだか大変なことが起こっているみたい。「これは戦争ですよ！」と憤るかすみに連れられて行った先で聞いた衝撃的な事実とは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_3", /*message*/"　香港からやってきて、あっという間にスクールアイドル部を立ち上げたというランジュは、なんと理事長の娘。その地位をいいことに、同好会にスクールアイドル活動禁止令を出したのだという。そして、ランジュからの勧誘を受け、愛と果林はスクールアイドル部に転部！プロがバックアップするというスクールアイドル部と同好会、どっちがいいの！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_4", /*message*/"　どうせ活動できないなら、と部に転部した愛と果林と、たとえ活動できなくても同好会にいたいメンバーの間の話し合いは平行線。あなたはランジュに話し合いを申し込みに行く……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_5", /*message*/"　ランジュに話し合いを申し込みに行ったあなた。ランジュの作ったというスクールアイドル部の設備のすごさに驚かされっぱなし。すごいのは設備だけではなく、世界中でヒットソングを連発しているミアをも連れてきていた。圧倒的な差を見せつけられ、同好会のみんなのためには、果たしてどちらの環境がいいのか、わからなくなってきたあなたは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_6", /*message*/"　栞子から、ランジュがそう悪い人間ではないと聞き、ますます思い悩むあなた。同好会のみんなのために本当にいいことってなんだろう？　思い悩む日々だが、μ&apos;s、Aqoursの面々に会い、久しぶりに笑顔が戻る");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_7", /*message*/"　ニジガクでは活動を禁止されていることを話したら、「うちにきて練習すればいいんだよ！」と音ノ木坂に誘ってくれた穂乃果。その言葉に甘えて、久しぶりに思いっきり練習ができるニジガクメンバーは、打倒・スクールアイドル部を誓う！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_8", /*message*/"　打倒・スクールアイドル部のため、ゲリラライブを敢行することにした同好会メンバー。しかし、ゲリラライブといっても人が来てくれないことには始まらない。監視委員会の目を盗んで人を集める方法とは……！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_20_9", /*message*/"　ゲリラライブが行われるらしいという噂を密かに広めることに成功した同好会メンバー。これで、ついにライブができる！！　見てもらえさえすれば、同好会のパフォーマンスを好きになってもらえるはず！！　待ちに待ったライブに胸の高鳴りが止まない！！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_2_1", /*message*/"　まさか優木せつ菜が生徒会長だったなんて！
 　あなたを合わせて10人が揃い、晴れて再出発となった虹ヶ咲学園スクールアイドル同好会。
 次の目標に向けて一歩一歩！");
@@ -3342,6 +3368,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_6", /*message*/"ア
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_7", /*message*/"みんなで挑戦しよう！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_8", /*message*/"一人じゃないよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_1_9", /*message*/"それぞれの輝き");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_10", /*message*/"しずくの決意");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_1a", /*message*/"ただいま、みんな！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_1b", /*message*/"パニック！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_2", /*message*/"上陸！　超級タイフーン！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_3", /*message*/"交わらない想い");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_4", /*message*/"ショウ・タイム！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_5", /*message*/"足枷にはなりたくない");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_6", /*message*/"楽に呼吸ができる場所");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_7", /*message*/"μ&apos;sと一緒！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_8", /*message*/"ひみつの作戦会議！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_20_9", /*message*/"GO！　GO！
+ゲリラライブ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_1", /*message*/"メインステージを目指して");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_10a", /*message*/"夢のメインステージへ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_2_10b", /*message*/"夢のメインステージへ！");
