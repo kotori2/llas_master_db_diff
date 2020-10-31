@@ -2911,6 +2911,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_2", /*message*/"中須かすみ 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_3", /*message*/"優木せつ菜 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_4", /*message*/"宮下 愛 新衣装解放特訓セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_5", /*message*/"エマ・ヴェルデ 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"獲得したアイテムを使って<color value=\"#ffa800\">特訓</color>することで
 新衣装の獲得、スクールアイドルの覚醒などが行えます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"特訓アイテム獲得");
@@ -2920,10 +2921,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"　ある日、一番のりで部室に来たかすみ。一人で部室にいると、同好会を一人で守っていたときのことを思い出す……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"　せつ菜は、部室でひとり、５人で同好会の活動をしていたときにつけていた練習ノートを手にしていた。せつ菜はあのころの自分の行動を後悔しているようで……。　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"　同好会入部前から仲が良かった愛と璃奈。歩夢との会話の中で、入部前の璃奈とのことを思い出した。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*message*/"　一緒に部室の掃除をしていたエマと彼方。彼方は、エマがいつも果林のお世話をしている理由を聞いてみた……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"どんな思い出も……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"信じて待つもん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"せつ菜のノート");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"笑顔を見せて！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*message*/"お世話好きの秘密");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"みんなで叶える物語");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新生徒会長の無理難題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目指せスクフェス！
