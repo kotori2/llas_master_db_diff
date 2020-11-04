@@ -8,6 +8,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹ヶ咲
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"スタジオ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"浦の星女学院　屋上(夜：天体観測)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"門前仲町(雨)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"噴水広場(都内)(昼晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"お台場の海岸(夕晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"公園(小)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"プラネタリウム(オーロラ有)");
@@ -177,6 +178,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_006", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1", /*message*/"イベントルール 1/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/"イベントルール 2/3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"イベントルール 3/3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_001", /*message*/"イベントルール 1/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_002", /*message*/"イベントルール 2/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_003", /*message*/"イベントルール 3/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_004", /*message*/"イベントルール 4/6");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_005", /*message*/"イベントルール 5/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_001", /*message*/"イベントルール 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_002", /*message*/"イベントルール 2/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33002_003", /*message*/"イベントルール 3/6");

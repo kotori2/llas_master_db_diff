@@ -302,6 +302,9 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_store_name_empty_ios", /*petag*/"peta
 INSERT INTO `m_petag` VALUES (/*id*/"petag_store_name_empty_android", /*petag*/"petag.petag_store_name_empty_android");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_c_positive_start", /*petag*/"petag.petag_c_positive_start");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_c_positive_close", /*petag*/"petag.petag_c_positive_close");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_skill_01_empty", /*petag*/"petag.petag_icon_skill_01_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_skill_02_empty", /*petag*/"petag.petag_icon_skill_02_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_skill_03_empty", /*petag*/"petag.petag_icon_skill_03_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9029_empty", /*petag*/"petag.petag_icon_gacha_ticket_9029_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9029_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9029_32_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9029_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9029_28_empty");
