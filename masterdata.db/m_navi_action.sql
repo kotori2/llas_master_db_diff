@@ -289,6 +289,10 @@ INSERT INTO `m_navi_action` VALUES (/*id*/1006122, /*navi_action_comment_id*/100
 INSERT INTO `m_navi_action` VALUES (/*id*/1006123, /*navi_action_comment_id*/1006123, /*navi_action_timeline_id*/1006123);
 INSERT INTO `m_navi_action` VALUES (/*id*/1006124, /*navi_action_comment_id*/1006124, /*navi_action_timeline_id*/1006124);
 INSERT INTO `m_navi_action` VALUES (/*id*/1006125, /*navi_action_comment_id*/1006125, /*navi_action_timeline_id*/1006125);
+INSERT INTO `m_navi_action` VALUES (/*id*/1006132, /*navi_action_comment_id*/1006132, /*navi_action_timeline_id*/1006132);
+INSERT INTO `m_navi_action` VALUES (/*id*/1006133, /*navi_action_comment_id*/1006133, /*navi_action_timeline_id*/1006133);
+INSERT INTO `m_navi_action` VALUES (/*id*/1006134, /*navi_action_comment_id*/1006134, /*navi_action_timeline_id*/1006134);
+INSERT INTO `m_navi_action` VALUES (/*id*/1006135, /*navi_action_comment_id*/1006135, /*navi_action_timeline_id*/1006135);
 INSERT INTO `m_navi_action` VALUES (/*id*/1007014, /*navi_action_comment_id*/1007014, /*navi_action_timeline_id*/1007014);
 INSERT INTO `m_navi_action` VALUES (/*id*/1007015, /*navi_action_comment_id*/1007015, /*navi_action_timeline_id*/1007015);
 INSERT INTO `m_navi_action` VALUES (/*id*/1007024, /*navi_action_comment_id*/1007024, /*navi_action_timeline_id*/1007024);
@@ -485,6 +489,10 @@ INSERT INTO `m_navi_action` VALUES (/*id*/1101132, /*navi_action_comment_id*/110
 INSERT INTO `m_navi_action` VALUES (/*id*/1101133, /*navi_action_comment_id*/1101133, /*navi_action_timeline_id*/1101133);
 INSERT INTO `m_navi_action` VALUES (/*id*/1101134, /*navi_action_comment_id*/1101134, /*navi_action_timeline_id*/1101134);
 INSERT INTO `m_navi_action` VALUES (/*id*/1101135, /*navi_action_comment_id*/1101135, /*navi_action_timeline_id*/1101135);
+INSERT INTO `m_navi_action` VALUES (/*id*/1101142, /*navi_action_comment_id*/1101142, /*navi_action_timeline_id*/1101142);
+INSERT INTO `m_navi_action` VALUES (/*id*/1101143, /*navi_action_comment_id*/1101143, /*navi_action_timeline_id*/1101143);
+INSERT INTO `m_navi_action` VALUES (/*id*/1101144, /*navi_action_comment_id*/1101144, /*navi_action_timeline_id*/1101144);
+INSERT INTO `m_navi_action` VALUES (/*id*/1101145, /*navi_action_comment_id*/1101145, /*navi_action_timeline_id*/1101145);
 INSERT INTO `m_navi_action` VALUES (/*id*/1102014, /*navi_action_comment_id*/1102014, /*navi_action_timeline_id*/1102014);
 INSERT INTO `m_navi_action` VALUES (/*id*/1102015, /*navi_action_comment_id*/1102015, /*navi_action_timeline_id*/1102015);
 INSERT INTO `m_navi_action` VALUES (/*id*/1102024, /*navi_action_comment_id*/1102024, /*navi_action_timeline_id*/1102024);
