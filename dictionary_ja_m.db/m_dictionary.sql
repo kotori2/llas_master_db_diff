@@ -1179,6 +1179,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005103", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005104", /*message*/"[ビッグライブ課題] 「Just Believe!!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005201", /*message*/"[NEO SKY, NEO MAP!発売記念課題！]  「TOKIMEKI Runners」を5回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005202", /*message*/"[NEO SKY, NEO MAP!発売記念課題！]  「TOKIMEKI Runners」を10回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005301", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1200,6 +1203,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002_000", /*message*/"ドリームライブパレード～Aqours～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"ドリームライブパレード～ニジガク～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"ドリームライブパレード～ニジガク～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004", /*message*/"ドリームライブパレード～μ&apos;s～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004_000", /*message*/"ドリームライブパレード～μ&apos;s～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
