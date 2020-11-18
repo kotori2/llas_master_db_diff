@@ -11,6 +11,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"門前仲
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033009_00", /*message*/"噴水広場(都内)(昼晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033011_01", /*message*/"お台場の海岸(夕晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035008_00", /*message*/"公園(小)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035016_00", /*message*/"遊園地(昼晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035019_00", /*message*/"プラネタリウム(オーロラ有)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035031_01", /*message*/"芝生(花畑)(昼晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035032_00", /*message*/"下町の町並みA(昼晴)");
