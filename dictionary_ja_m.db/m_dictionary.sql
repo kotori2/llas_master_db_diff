@@ -2978,6 +2978,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_5", /*message*/"エマ・ヴェルデ 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_6", /*message*/"天王寺璃奈 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_7", /*message*/"近江彼方 新衣装解放特訓セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_8", /*message*/"桜坂しずく 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"獲得したアイテムを使って<color value=\"#ffa800\">特訓</color>することで
 新衣装の獲得、スクールアイドルの覚醒などが行えます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"特訓アイテム獲得");
@@ -2990,6 +2991,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_5", /*message*/"　一緒に部室の掃除をしていたエマと彼方。彼方は、エマがいつも果林のお世話をしている理由を聞いてみた……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_6", /*message*/"　ある日、一番乗りで部室にやって来た璃奈。久しぶりの一人の時間に、同好会入部前のことを思い出す……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_7", /*message*/"　今日は月に一回の彼方のスイーツパーティの日！いつも美味しいお菓子を作ってくれる彼方にお返しをしたいというしずくに対して、彼方は……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*message*/"　ある日、突然練習から飛び出していったしずく。しずくを心配して追いかけてきたかすみに対して、しずくは……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"どんな思い出も……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"信じて待つもん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"せつ菜のノート");
@@ -2997,6 +2999,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_5", /*message*/"お世話好きの秘密");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_6", /*message*/"あの頃の私、今の私");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_7", /*message*/"スイーツパーティの秘密");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*message*/"迫真の……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"みんなで叶える物語");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新生徒会長の無理難題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目指せスクフェス！
