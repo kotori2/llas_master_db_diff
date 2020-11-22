@@ -230,6 +230,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000164", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000165", /*message*/"「Love U my friends」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000166", /*message*/"ライブを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000167", /*message*/"合宿を2回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000168", /*message*/"「Love U my friends」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000169", /*message*/"イベントポイントを900獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000170", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000171", /*message*/"合宿を2回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000172", /*message*/"ログインボーナスを受け取る");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"「僕らは今のなかで」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"イベントポイントを900獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"ライブを5回クリアする");
