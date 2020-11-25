@@ -449,4 +449,8 @@ INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232091, /*training_tree_cell
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232092, /*training_tree_cell_content_m_id*/232092, /*training_tree_design_m_id*/13);
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232093, /*training_tree_cell_content_m_id*/232093, /*training_tree_design_m_id*/13);
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232094, /*training_tree_cell_content_m_id*/232094, /*training_tree_design_m_id*/13);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232101, /*training_tree_cell_content_m_id*/232101, /*training_tree_design_m_id*/13);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232102, /*training_tree_cell_content_m_id*/232102, /*training_tree_design_m_id*/13);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232103, /*training_tree_cell_content_m_id*/232103, /*training_tree_design_m_id*/13);
+INSERT INTO `m_training_tree_mapping` VALUES (/*id*/232104, /*training_tree_cell_content_m_id*/232104, /*training_tree_design_m_id*/13);
 INSERT INTO `m_training_tree_mapping` VALUES (/*id*/930032, /*training_tree_cell_content_m_id*/930032, /*training_tree_design_m_id*/13);
