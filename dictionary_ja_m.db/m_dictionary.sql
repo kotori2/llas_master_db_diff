@@ -3070,7 +3070,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_19", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_2", /*message*/"チャンスをつかめ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_20", /*message*/"スクールアイドル同好会
 VSスクールアイドル部！？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_21", /*message*/"悩めるしずくのイノセント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_3", /*message*/"only our shine・前編");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・後編");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;sの秘密を探れ！");
@@ -3091,7 +3090,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_18", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_19", /*message*/"第19章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_2", /*message*/"第2章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_20", /*message*/"第20章");
-INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_21", /*message*/"第21章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_3", /*message*/"第3章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"第4章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
