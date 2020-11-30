@@ -60,6 +60,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200802", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200803", /*message*/"イベントルール 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200804", /*message*/"イベントルール 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200805", /*message*/"イベントルール 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200901", /*message*/"イベントルール 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200902", /*message*/"イベントルール 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200903", /*message*/"イベントルール 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200904", /*message*/"イベントルール 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200905", /*message*/"イベントルール 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");
@@ -165,6 +170,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30016_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30017_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"イベントルール 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"イベントルール 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"イベントルール 2/6");

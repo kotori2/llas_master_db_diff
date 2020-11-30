@@ -4883,6 +4883,8 @@ INSERT INTO `m_navi_timeline` VALUES (/*id*/102100038, /*timeline_asset_path*/"Z
 INSERT INTO `m_navi_timeline` VALUES (/*id*/102100039, /*timeline_asset_path*/"?))");
 INSERT INTO `m_navi_timeline` VALUES (/*id*/102100040, /*timeline_asset_path*/"~y+");
 INSERT INTO `m_navi_timeline` VALUES (/*id*/102100041, /*timeline_asset_path*/"-Gd");
+INSERT INTO `m_navi_timeline` VALUES (/*id*/102100042, /*timeline_asset_path*/"(e2");
+INSERT INTO `m_navi_timeline` VALUES (/*id*/102100043, /*timeline_asset_path*/"Gsi");
 INSERT INTO `m_navi_timeline` VALUES (/*id*/102100044, /*timeline_asset_path*/"x?R");
 INSERT INTO `m_navi_timeline` VALUES (/*id*/102100045, /*timeline_asset_path*/"Y|:");
 INSERT INTO `m_navi_timeline` VALUES (/*id*/102100046, /*timeline_asset_path*/"P<[");
