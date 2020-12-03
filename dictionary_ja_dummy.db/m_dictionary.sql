@@ -5,6 +5,7 @@ CREATE TABLE m_dictionary(
 );
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"浦の星女学院　通学路バス停前(朝晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021006_01", /*message*/"虹ヶ咲学園 講堂(消灯・夜) ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_022012_01", /*message*/"せつ菜の部屋(クリスマス・昼) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_035003_00", /*message*/"スタジオ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_011003_00", /*message*/"浦の星女学院　屋上(夜：天体観測)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_033008_01", /*message*/"門前仲町(雨)");
