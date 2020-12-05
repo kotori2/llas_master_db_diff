@@ -8,5 +8,7 @@ CREATE TABLE m_live_movie(
 );
 INSERT INTO `m_live_movie` VALUES (/*live_id*/12040, /*codec*/"h264", /*movie_asset_path*/"2)Q", /*stage_background_asset_path*/"I=u");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/12040, /*codec*/"prime", /*movie_asset_path*/"}'Y", /*stage_background_asset_path*/"I=u");
+INSERT INTO `m_live_movie` VALUES (/*live_id*/12041, /*codec*/"h264", /*movie_asset_path*/"dK=", /*stage_background_asset_path*/"I=u");
+INSERT INTO `m_live_movie` VALUES (/*live_id*/12041, /*codec*/"prime", /*movie_asset_path*/"ssC", /*stage_background_asset_path*/"I=u");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92999, /*codec*/"h264", /*movie_asset_path*/"uD5", /*stage_background_asset_path*/"Bl7");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92999, /*codec*/"prime", /*movie_asset_path*/"}qi", /*stage_background_asset_path*/"Bl7");
