@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"54ab4c380c848fe7a8e0578bcc18ff59323a7875", /*hash*/"8aa77d9db99c5f5e9639767cf6734cdd9b2770c1", /*size*/6785844);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"444da0b114f1334a70fcc9a766d61c6e448f2518", /*hash*/"8b6951b0a5ee134a1d3092e044c175ce8f3afc96", /*size*/6785843);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"bff2c4ea01c4f3d4ac0bd2ef8541b7b35f2d602e", /*hash*/"50cff0c3920b9e2c88e5cac5be6771292d974632", /*size*/891581);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"4b0277ce830c7f9d294b7081c94b6458e90128c2", /*hash*/"9b72ad1afec3fade47d5007312581a2ef0188df1", /*size*/86210);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"afa9e4f7d40ed0f359ee69dcdbbda9d7aee08018", /*hash*/"c1513294327f811a3bac83a58594ea80d8e5e0df", /*size*/3695);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"b804dc30bf89bce9c69eae3530e567f2ba28088b", /*hash*/"b94126d4e6e784d4d0c713f053341e0432624b3f", /*size*/9608);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"bd746c35e7183f2887a6d1a4cd9ed7c372f51003", /*hash*/"55635dda32f3a80f065a363b3fdbb36b58091859", /*size*/127005);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"b5a5aa621074cc2b206a0436838c8d56f87939ee", /*hash*/"8ed8606953709ed123a4b7740795fb8b7d36b347", /*size*/37207);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"dde473fed3af0a6d05dfd48fb4bd9ecbd68d5a94", /*hash*/"0cba2197c06caa257fcc2dfeec517616686ff5f6", /*size*/7627355);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"dde473fed3af0a6d05dfd48fb4bd9ecbd68d5a94", /*hash*/"c7910da07eb3b0cfd04ac1432d8b798a8290d7bf", /*size*/7625867);
