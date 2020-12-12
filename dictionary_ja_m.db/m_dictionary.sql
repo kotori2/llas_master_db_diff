@@ -3094,6 +3094,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_description_9000
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_chapter_title_900001", /*message*/"TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」連動ストーリー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_1", /*message*/"　幼馴染である歩夢とあなた。ある日街を歩いていて、昔のことを思い出し……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_10", /*message*/"　ある日の練習のこと。強力なライバルでもあるニジガクの先輩たちに負けないように、秘密特訓が必要だとかすみが意気込んでいて……。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_11", /*message*/"　ある日のお昼、なんだか元気のない歩夢を見て心配する愛とせつ菜。２人が歩夢に理由をたずねると……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_2", /*message*/"　ある日、一番のりで部室に来たかすみ。一人で部室にいると、同好会を一人で守っていたときのことを思い出す……。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_3", /*message*/"　せつ菜は、部室でひとり、５人で同好会の活動をしていたときにつけていた練習ノートを手にしていた。せつ菜はあのころの自分の行動を後悔しているようで……。　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_4", /*message*/"　同好会入部前から仲が良かった愛と璃奈。歩夢との会話の中で、入部前の璃奈とのことを思い出した。");
@@ -3104,6 +3105,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　いつもエマにお世話をしてもらっている果林。このままではいけないと思い、自立しようとする果林だったが……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"どんな思い出も……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"負けないぞ！　一年生トリオ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"あの子のために！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_2", /*message*/"信じて待つもん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_3", /*message*/"せつ菜のノート");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_4", /*message*/"笑顔を見せて！");
