@@ -2781,6 +2781,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"秘
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"クッキング矢澤");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ラブニコ弁当♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_2", /*message*/"二人でにっこりトラベル♡");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_1", /*message*/"寒い時は……ね？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093002_2", /*message*/"雪の妖精");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301012001_1", /*message*/"可愛く撮ってね♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"あなたはどこが好き？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"ライオン怪獣ちかちー！");
@@ -2795,6 +2797,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"お
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"心も体もリラックス");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"最大の理解者");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042002_1", /*message*/"スマイル大事！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"これからも一緒に");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"お願い事は？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"かわいいはかわいい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"心強い！");
