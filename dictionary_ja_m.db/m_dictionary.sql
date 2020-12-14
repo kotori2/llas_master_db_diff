@@ -1285,6 +1285,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005503", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005504", /*message*/"[ビッグライブ課題] 「TOKIMEKI Runners」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005601", /*message*/"[挿入歌シングル第二弾発売記念課題！]  ライブを5回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005602", /*message*/"[挿入歌シングル第二弾発売記念課題！]  ライブを10回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005701", /*message*/"[挿入歌シングル第三弾発売記念課題！]  ライブを5回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005702", /*message*/"[挿入歌シングル第三弾発売記念課題！]  ライブを10回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
