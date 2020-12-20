@@ -845,3 +845,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Even
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20338/tex_banner_notice_s_20338", /*path*/"#Gr");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20338/tex_banner_gacha_top_20338_1", /*path*/"$7.");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20338/tex_banner_gacha_text_20338_1", /*path*/"=!_");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Tower/330004/tex_banner_notice_l_330004", /*path*/"_.'");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Tower/330004/tex_banner_notice_s_330004", /*path*/"xHX");
