@@ -238,6 +238,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000172", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000173", /*message*/"「ジングルベルがとまらない」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000174", /*message*/"ライブを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000175", /*message*/"合宿を2回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000176", /*message*/"「ジングルベルがとまらない」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000177", /*message*/"イベントポイントを900獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000178", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000179", /*message*/"合宿を2回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000180", /*message*/"ログインボーナスを受け取る");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"「僕らは今のなかで」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"イベントポイントを900獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"ライブを5回クリアする");
@@ -1310,6 +1315,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005901", /*message*/"[A song for You! You? You!! リリースイベント] 「A song for You! You? You!!」の初級以上を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005902", /*message*/"[A song for You! You? You!! リリースイベント] 「A song for You! You? You!!」の中級以上を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900005903", /*message*/"[A song for You! You? You!! リリースイベント] 「A song for You! You? You!!」の上級を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006501", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを10にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006502", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを20にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006503", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを30にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006504", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを40にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006505", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを50にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006506", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを60にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900006507", /*message*/"[らっきー☆チケットプレゼント課題！] プレイヤーランクを70にする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1324,6 +1336,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_4", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_5", /*message*/"第5話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_6", /*message*/"第6話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_mining_story_title_7", /*message*/"第7話");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_countdown", /*message*/"イベントルール 1/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002_countdown", /*message*/"イベントルール 2/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_003_countdown", /*message*/"イベントルール 3/4");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_countdown", /*message*/"イベントルール 4/4");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001", /*message*/"プレイベント ドリームライブパレード");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33001_000", /*message*/"ドリームライブパレード");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33002", /*message*/"ドリームライブパレード～Aqours～");
@@ -1332,6 +1348,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33003_000", /*message*/"ドリームライブパレード～ニジガク～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004", /*message*/"ドリームライブパレード～μ&apos;s～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33004_000", /*message*/"ドリームライブパレード～μ&apos;s～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005", /*message*/"2020カウントダウンライブ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33005_000", /*message*/"2020カウントダウンライブ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");

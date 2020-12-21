@@ -197,9 +197,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_004_2", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_005", /*message*/"イベントルール 5/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_005_2", /*message*/"イベントルール 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_006", /*message*/"イベントルール 6/6");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1", /*message*/"イベントルール 1/3");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2", /*message*/"イベントルール 2/3");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_3", /*message*/"イベントルール 3/3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_1_countdown", /*message*/"イベントルール 1/2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_2_countdown", /*message*/"イベントルール 2/2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_001", /*message*/"イベントルール 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_002", /*message*/"イベントルール 2/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_33001_003", /*message*/"イベントルール 3/6");
