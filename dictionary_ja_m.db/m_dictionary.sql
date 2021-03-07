@@ -1126,6 +1126,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001414", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001415", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001416", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001417", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001501", /*message*/"「虹色Passions！」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001502", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001503", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001504", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001505", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001506", /*message*/"期間中4回ログインボーナスを受け取る");
@@ -1496,6 +1499,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007601", /*message*/"[Hanamaru Kunikida First Solo Concert Album発売記念] 「未体験HORIZON」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007602", /*message*/"[Hanamaru Kunikida First Solo Concert Album発売記念] 国木田 花丸が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007701", /*message*/"[Kakushiaji！配信記念課題] 「Kakushiaji！」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008001", /*message*/"[1.5 Anniversaryプロローグ課題] ストーリー24章をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008002", /*message*/"[1.5 Anniversaryプロローグ課題] プレイヤーランクを20にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008003", /*message*/"[1.5 Anniversaryプロローグ課題] キズナボードのボーナスを合計1回獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
