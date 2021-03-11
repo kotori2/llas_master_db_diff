@@ -21,9 +21,11 @@ INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/302092002, /*view_status*/2,
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402092004, /*view_status*/2, /*model_asset_path*/"jpK");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/402093002, /*view_status*/2, /*model_asset_path*/"3A}");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320903, /*view_status*/2, /*model_asset_path*/"QEu");
+INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320904, /*view_status*/2, /*model_asset_path*/"Fdx");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320905, /*view_status*/2, /*model_asset_path*/"PNd");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320906, /*view_status*/2, /*model_asset_path*/"xgZ");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320907, /*view_status*/2, /*model_asset_path*/"QZA");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320908, /*view_status*/2, /*model_asset_path*/"MLJ");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/202093101, /*view_status*/2, /*model_asset_path*/"XX8");
 INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320909, /*view_status*/2, /*model_asset_path*/"uZ.");
+INSERT INTO `m_suit_view` VALUES (/*suit_master_id*/320911, /*view_status*/2, /*model_asset_path*/"0gt");

@@ -1499,6 +1499,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007601", /*message*/"[Hanamaru Kunikida First Solo Concert Album発売記念] 「未体験HORIZON」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007602", /*message*/"[Hanamaru Kunikida First Solo Concert Album発売記念] 国木田 花丸が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007701", /*message*/"[Kakushiaji！配信記念課題] 「Kakushiaji！」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007901", /*message*/"[虹ヶ咲校内シャッフルフェスティバル開催記念課題] ストーリー24章をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007902", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007903", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900007904", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008001", /*message*/"[1.5 Anniversaryプロローグ課題] ストーリー24章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008002", /*message*/"[1.5 Anniversaryプロローグ課題] プレイヤーランクを20にする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008003", /*message*/"[1.5 Anniversaryプロローグ課題] キズナボードのボーナスを合計1回獲得する");
