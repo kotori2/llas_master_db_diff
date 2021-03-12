@@ -8,6 +8,7 @@ CREATE TABLE m_live_difficulty_another(
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/10001401, /*category*/2, /*start_at*/1592460000, /*end_at*/1750226400);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/10011401, /*category*/2, /*start_at*/1577080800, /*end_at*/1579672800);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/10011402, /*category*/2, /*start_at*/1608616800, /*end_at*/1750226400);
+INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/10014401, /*category*/2, /*start_at*/1615528800, /*end_at*/1750226400);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/10118401, /*category*/2, /*start_at*/1590040800, /*end_at*/1591336800);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/11002401, /*category*/2, /*start_at*/1607666400, /*end_at*/1750226400);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/11007401, /*category*/2, /*start_at*/1592460000, /*end_at*/1750226400);
