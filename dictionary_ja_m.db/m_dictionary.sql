@@ -3035,6 +3035,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"淑女のように");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"パワースイーツ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"閃きとセンス");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"ぽかぽかの手");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"綺麗な心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"ひとつひとつ、積み重ね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"好きでいる幸せ");
@@ -3086,6 +3087,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042003_1", /*message*/"こ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042004_1", /*message*/"愛しの妹へ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_1", /*message*/"お願い事は？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043001_2", /*message*/"かわいいはかわいい！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_1", /*message*/"Aqoursのパワーアップ作戦！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301043002_2", /*message*/"静謐なる神殿にて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"心強い！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052002_1", /*message*/"可愛い彼女");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052003_1", /*message*/"ギャップ萌え眼鏡勝負！");
