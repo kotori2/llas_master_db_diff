@@ -27,6 +27,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"秋の河
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"夜景の見えるパーティ会場 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"ゲームイベントスペース");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"時空の扉研究室");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035079_00", /*message*/"サバゲースペース");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200101", /*message*/"イベントルール 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200102", /*message*/"イベントルール 2/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3200103", /*message*/"イベントルール 3/5");

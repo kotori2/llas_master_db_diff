@@ -42,6 +42,7 @@ INSERT INTO `background` VALUES (/*asset_path*/"?;v", /*pack_name*/"rqrvhp", /*h
 INSERT INTO `background` VALUES (/*asset_path*/"&~V", /*pack_name*/"54iseg", /*head*/56283, /*size*/1059115, /*key1*/510451428, /*key2*/737201429);
 INSERT INTO `background` VALUES (/*asset_path*/"W+p", /*pack_name*/"nt6zct", /*head*/52545, /*size*/889607, /*key1*/-1643540428, /*key2*/355436330);
 INSERT INTO `background` VALUES (/*asset_path*/"fP!", /*pack_name*/"uvbz4x", /*head*/55206, /*size*/993989, /*key1*/-1983618727, /*key2*/1252406273);
+INSERT INTO `background` VALUES (/*asset_path*/"]yS", /*pack_name*/"uukckv", /*head*/54890, /*size*/1148660, /*key1*/-1062786298, /*key2*/481576695);
 INSERT INTO `background` VALUES (/*asset_path*/"-H", /*pack_name*/"jbx9n0", /*head*/0, /*size*/1102595, /*key1*/-536215682, /*key2*/419943187);
 INSERT INTO `background` VALUES (/*asset_path*/">A", /*pack_name*/"jbx9n0", /*head*/1102595, /*size*/1000086, /*key1*/-1956811013, /*key2*/-1040963417);
 INSERT INTO `background` VALUES (/*asset_path*/"&f", /*pack_name*/"jbx9n0", /*head*/2102681, /*size*/1020675, /*key1*/984469820, /*key2*/-638931906);

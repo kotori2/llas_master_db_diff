@@ -19,3 +19,4 @@ INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/110
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/12001401, /*category*/2, /*start_at*/1577080800, /*end_at*/1579672800);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/12001402, /*category*/2, /*start_at*/1592460000, /*end_at*/1750226400);
 INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/12062401, /*category*/2, /*start_at*/1611727200, /*end_at*/1750226400);
+INSERT INTO `m_live_difficulty_another` VALUES (/*live_difficulty_master_id*/12063401, /*category*/2, /*start_at*/1616122800, /*end_at*/1750226400);
