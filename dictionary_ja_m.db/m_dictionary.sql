@@ -1215,6 +1215,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001514", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001515", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001516", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001517", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001601", /*message*/"「MIRAI TICKET」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001602", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001603", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001604", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001605", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001606", /*message*/"期間中4回ログインボーナスを受け取る");
@@ -1600,6 +1603,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008202", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008203", /*message*/"[ビッグライブ課題] 「SKY JOURNEY」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008204", /*message*/"[ビッグライブ課題] 「オードリー」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008301", /*message*/"[smile smile ship Start!発売記念課題] 「smile smile ship Start!」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008401", /*message*/"[始まりは君の空発売記念課題] 「始まりは君の空」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

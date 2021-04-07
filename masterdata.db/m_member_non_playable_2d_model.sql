@@ -5,3 +5,8 @@ CREATE TABLE m_member_non_playable_2d_model(
   FOREIGN KEY (member_master_id) REFERENCES m_member_non_playable(id)
 );
 INSERT INTO `m_member_non_playable_2d_model` VALUES (/*member_master_id*/210, /*path*/"D!/");
+INSERT INTO `m_member_non_playable_2d_model` VALUES (/*member_master_id*/991, /*path*/"D!/");
+INSERT INTO `m_member_non_playable_2d_model` VALUES (/*member_master_id*/992, /*path*/"D!/");
+INSERT INTO `m_member_non_playable_2d_model` VALUES (/*member_master_id*/993, /*path*/"D!/");
+INSERT INTO `m_member_non_playable_2d_model` VALUES (/*member_master_id*/994, /*path*/"D!/");
+INSERT INTO `m_member_non_playable_2d_model` VALUES (/*member_master_id*/995, /*path*/"D!/");
