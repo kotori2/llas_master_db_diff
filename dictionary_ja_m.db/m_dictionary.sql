@@ -1608,6 +1608,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008601", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008602", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 上原 歩夢のキズナエピソードを12話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008603", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 上原 歩夢のキズナエピソードを21話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008604", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 「Say Good-Bye 涙」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -1643,6 +1646,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33007_000", /*message*/"ドリームライブパレード- ピュア／スマイルオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"ドリームライブパレード- ニジガクオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"ドリームライブパレード- ニジガクオンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009", /*message*/"ドリームライブパレード- クール／アクティブオンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009_000", /*message*/"ドリームライブパレード- クール／アクティブオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -3168,6 +3173,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"レ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"一番かわいい雪だるま！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"動物と穂乃果");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"我が家が竜宮城！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"甘い昼下がり");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_2", /*message*/"輝く海の彼方へ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"生徒会で大切なこと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022002_1", /*message*/"優しさの花束");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"すっぱい涙");
@@ -3283,6 +3290,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_1", /*message*/"Cel
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"ラブリースマイル♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"アルバムの意味");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"癒しの膝枕");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"極楽マッサージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ねむくなっちゃう服");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"手と手を取り合って");
