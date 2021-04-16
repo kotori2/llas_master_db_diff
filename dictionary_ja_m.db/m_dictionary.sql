@@ -1604,10 +1604,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008203", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008204", /*message*/"[ビッグライブ課題] 「オードリー」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008301", /*message*/"[smile smile ship Start!発売記念課題] 「smile smile ship Start!」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008401", /*message*/"[始まりは君の空発売記念課題] 「始まりは君の空」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008501", /*message*/"[LoveLive! Sunshine!! Watanabe You First Solo Concert Album発売記念課題] 「恋になりたいAQUARIUM」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008502", /*message*/"[LoveLive! Sunshine!! Watanabe You First Solo Concert Album発売記念課題] 渡辺 曜が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008601", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 上原 歩夢をライブ編成にいれて1回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008602", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 上原 歩夢のキズナエピソードを12話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008603", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 上原 歩夢のキズナエピソードを21話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008604", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第1話再放送記念課題] 「Say Good-Bye 涙」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008701", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第2話再放送記念課題] 中須 かすみをライブ編成にいれて1回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008702", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第2話再放送記念課題] 中須 かすみのキズナエピソードを12話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008703", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第2話再放送記念課題] 中須 かすみのキズナエピソードを21話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008704", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第2話再放送記念課題] 「Margaret」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
