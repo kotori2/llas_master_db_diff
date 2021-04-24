@@ -254,6 +254,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000188", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000189", /*message*/"「もぎゅっと“love”で接近中!」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000190", /*message*/"ライブを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000191", /*message*/"合宿を2回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000192", /*message*/"ライブを3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000007", /*message*/"「僕らは今のなかで」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000008", /*message*/"イベントポイントを900獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_110000009", /*message*/"ライブを5回クリアする");
@@ -1639,6 +1640,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008704", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008901", /*message*/"[きらめきバカンス] ストーリー25章をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008902", /*message*/"[きらめきバカンス] キズナエピソードを84話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900008903", /*message*/"[きらめきバカンス] キズナエピソードを140話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009001", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 優木 せつ菜をライブ編成にいれて1回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009002", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 優木 せつ菜のキズナエピソードを12話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009003", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 優木 せつ菜のキズナエピソードを21話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009004", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 「LIKE IT！LOVE IT！」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009301", /*message*/"[チャンネル応援課題] 合宿を30回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009302", /*message*/"[チャンネル応援課題] ライブを60回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
