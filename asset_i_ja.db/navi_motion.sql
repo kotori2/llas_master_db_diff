@@ -8,7 +8,7 @@ CREATE TABLE navi_motion(
   PRIMARY KEY (asset_path)
 );
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"RX", /*pack_name*/"30l4ae", /*head*/0, /*size*/75476, /*key1*/-642326848, /*key2*/217675516);
-INSERT INTO `navi_motion` VALUES (/*asset_path*/"*g", /*pack_name*/"7mygt5", /*head*/1852938, /*size*/19280, /*key1*/-248451959, /*key2*/1521327591);
+INSERT INTO `navi_motion` VALUES (/*asset_path*/"*g", /*pack_name*/"x1xgzx", /*head*/0, /*size*/19937, /*key1*/1513095433, /*key2*/-1623404190);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"jC", /*pack_name*/"vciwfw", /*head*/0, /*size*/79227, /*key1*/-847418880, /*key2*/-674123706);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"Uo", /*pack_name*/"30l4ae", /*head*/75476, /*size*/84221, /*key1*/1606110516, /*key2*/1826339096);
 INSERT INTO `navi_motion` VALUES (/*asset_path*/"Kq", /*pack_name*/"vciwfw", /*head*/79227, /*size*/62667, /*key1*/-1552232595, /*key2*/293210335);
