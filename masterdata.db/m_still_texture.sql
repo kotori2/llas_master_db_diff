@@ -105,6 +105,9 @@ INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301031501, /*display_or
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301061501, /*display_order*/1, /*still_asset_path*/"$Eu");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301081501, /*display_order*/1, /*still_asset_path*/"M7&");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/301091501, /*display_order*/1, /*still_asset_path*/"uXN");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302022401, /*display_order*/1, /*still_asset_path*/"n`u");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302022401, /*display_order*/2, /*still_asset_path*/"T\"d");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302022401, /*display_order*/3, /*still_asset_path*/")c]");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010101, /*display_order*/1, /*still_asset_path*/"Mb\");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1010301, /*display_order*/1, /*still_asset_path*/"}Q'");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1011001, /*display_order*/1, /*still_asset_path*/"/u|");
@@ -180,6 +183,7 @@ INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1250201, /*display_orde
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1250201, /*display_order*/2, /*still_asset_path*/"LX#");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1250701, /*display_order*/1, /*still_asset_path*/"U!s");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1250701, /*display_order*/2, /*still_asset_path*/"J,e");
+INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1260401, /*display_order*/1, /*still_asset_path*/"q?/");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302011201, /*display_order*/1, /*still_asset_path*/"q%Q");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/302011201, /*display_order*/2, /*still_asset_path*/"Q-C");
 INSERT INTO `m_still_texture` VALUES (/*still_master_id*/1151001, /*display_order*/1, /*still_asset_path*/";1^");
