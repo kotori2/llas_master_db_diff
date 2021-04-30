@@ -1647,6 +1647,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009002", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 優木 せつ菜のキズナエピソードを12話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009003", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 優木 せつ菜のキズナエピソードを21話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009004", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第3話再放送記念課題] 「LIKE IT！LOVE IT！」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009101", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009102", /*message*/"[ビッグライブ課題] 「Just Believe!!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009103", /*message*/"[ビッグライブ課題] 「虹色Passions！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009104", /*message*/"[ビッグライブ課題] 「NEO SKY, NEO MAP!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009201", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第4話再放送記念課題] 宮下 愛をライブ編成にいれて1回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009202", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第4話再放送記念課題] 宮下 愛のキズナエピソードを12話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009203", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第4話再放送記念課題] 宮下 愛のキズナエピソードを21話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009204", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第4話再放送記念課題] 「楽しいの天才」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009301", /*message*/"[チャンネル応援課題] 合宿を30回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009302", /*message*/"[チャンネル応援課題] ライブを60回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009701", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
