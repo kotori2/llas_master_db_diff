@@ -1657,6 +1657,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009203", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009204", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第4話再放送記念課題] 「楽しいの天才」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009301", /*message*/"[チャンネル応援課題] 合宿を30回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009302", /*message*/"[チャンネル応援課題] ライブを60回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009401", /*message*/"[チャンネル応援課題] 合宿を30回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009402", /*message*/"[チャンネル応援課題] ライブを60回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009701", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009702", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009703", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");

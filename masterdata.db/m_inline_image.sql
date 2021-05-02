@@ -969,6 +969,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineim
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_9033_s", /*path*/"/`K");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_9034_s", /*path*/"pJB");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_9035_s", /*path*/"wJ/");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_9036_s", /*path*/"6T0");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_21001_s", /*path*/"2b`");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_21002_s", /*path*/"NIN");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_21003_s", /*path*/"G6?");
@@ -1299,6 +1300,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_9032", /*path*/
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_9033", /*path*/"F&V");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_9034", /*path*/"'~Y");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_9035", /*path*/"jP[");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_9036", /*path*/"Fm,");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_21001", /*path*/"c_@");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_21002", /*path*/"X#2");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Item/tex_item_21003", /*path*/"Q{'");
