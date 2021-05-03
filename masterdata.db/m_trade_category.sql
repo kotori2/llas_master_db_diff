@@ -45,4 +45,6 @@ INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/13, /*name*/"k
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/14, /*name*/"k.m_trade_category_14", /*display_order*/71002);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/15, /*name*/"k.m_trade_category_15", /*display_order*/71001);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/16, /*name*/"k.m_trade_category_16", /*display_order*/1000011);
+INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/17, /*name*/"k.m_trade_category_24", /*display_order*/90002);
+INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/18, /*name*/"k.m_trade_category_25", /*display_order*/90001);
 INSERT INTO `m_trade_category` VALUES (/*pattern_id*/31000, /*id*/0, /*name*/"k.m_trade_category_0", /*display_order*/0);
