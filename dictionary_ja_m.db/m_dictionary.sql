@@ -1678,6 +1678,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009502", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009503", /*message*/"[期間限定課題] 「DIVE！」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009504", /*message*/"[期間限定課題] 「サイコーハート」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009505", /*message*/"[期間限定課題] 「La Bella Patria」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009506", /*message*/"[期間限定課題] 「ツナガルコネクト」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009507", /*message*/"[期間限定課題] 「Butterfly」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009701", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009702", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009703", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
