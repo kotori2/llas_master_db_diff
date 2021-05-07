@@ -1255,6 +1255,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001614", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001615", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001616", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001617", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001701", /*message*/"「Cutie Panther」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001702", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001703", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001704", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001705", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401001706", /*message*/"期間中4回ログインボーナスを受け取る");
@@ -1682,6 +1685,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009506", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009507", /*message*/"[期間限定課題] 「Butterfly」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009508", /*message*/"[期間限定課題] 「Solitude Rain」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009509", /*message*/"[期間限定課題] 「VIVID WORLD」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009510", /*message*/"[期間限定課題] 「Awakening Promise」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009511", /*message*/"[期間限定課題] 「夢がここからはじまるよ」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009601", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第5話再放送記念課題] エマ・ヴェルデをライブ編成にいれて1回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009602", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第5話再放送記念課題] エマ・ヴェルデのキズナエピソードを12話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009603", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第5話再放送記念課題] エマ・ヴェルデのキズナエピソードを21話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009604", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第5話再放送記念課題] 「哀温ノ詩」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009701", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009702", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009703", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
