@@ -1731,6 +1731,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33008_000", /*message*/"ドリームライブパレード- ニジガクオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009", /*message*/"ドリームライブパレード- クール／アクティブオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33009_000", /*message*/"ドリームライブパレード- クール／アクティブオンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33010", /*message*/"ドリームライブパレード　ラブライブ！虹ヶ咲学園スクールアイドル同好会 3rd Live! School Idol Festival ～夢の始まり～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33010_000", /*message*/"ドリームライブパレード　ラブライブ！虹ヶ咲学園スクールアイドル同好会 3rd Live! School Idol Festival ～夢の始まり～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");

@@ -32,3 +32,4 @@ INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/30, /*bonus_target_
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004012, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33004013, /*bonus_target_member_group*/1, /*value*/1);
 INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/31, /*bonus_target_member_group*/3, /*value*/2);
+INSERT INTO `m_tower_bonus_group` VALUES (/*tower_period_id*/33010014, /*bonus_target_member_group*/3, /*value*/1);

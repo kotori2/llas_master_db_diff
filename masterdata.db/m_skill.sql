@@ -6233,6 +6233,11 @@ INSERT INTO `m_skill` VALUES (/*id*/50082901, /*evaluation_param*/0, /*skill_tar
 INSERT INTO `m_skill` VALUES (/*id*/50083001, /*evaluation_param*/0, /*skill_target_master_id1*/58, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50028301, /*skill_effect_master_id2*/"");
 INSERT INTO `m_skill` VALUES (/*id*/50083101, /*evaluation_param*/0, /*skill_target_master_id1*/1, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50028401, /*skill_effect_master_id2*/"");
 INSERT INTO `m_skill` VALUES (/*id*/50083501, /*evaluation_param*/0, /*skill_target_master_id1*/73, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50001801, /*skill_effect_master_id2*/"");
+INSERT INTO `m_skill` VALUES (/*id*/50083601, /*evaluation_param*/0, /*skill_target_master_id1*/29, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50005701, /*skill_effect_master_id2*/"");
+INSERT INTO `m_skill` VALUES (/*id*/50084101, /*evaluation_param*/0, /*skill_target_master_id1*/58, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50028801, /*skill_effect_master_id2*/"");
+INSERT INTO `m_skill` VALUES (/*id*/50084401, /*evaluation_param*/0, /*skill_target_master_id1*/40, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50006801, /*skill_effect_master_id2*/"");
+INSERT INTO `m_skill` VALUES (/*id*/50084501, /*evaluation_param*/0, /*skill_target_master_id1*/40, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50013301, /*skill_effect_master_id2*/"");
+INSERT INTO `m_skill` VALUES (/*id*/50084601, /*evaluation_param*/0, /*skill_target_master_id1*/40, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/50014401, /*skill_effect_master_id2*/"");
 INSERT INTO `m_skill` VALUES (/*id*/60000000, /*evaluation_param*/0, /*skill_target_master_id1*/58, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/60000000, /*skill_effect_master_id2*/"");
 INSERT INTO `m_skill` VALUES (/*id*/60000001, /*evaluation_param*/0, /*skill_target_master_id1*/58, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/60000001, /*skill_effect_master_id2*/"");
 INSERT INTO `m_skill` VALUES (/*id*/60000002, /*evaluation_param*/0, /*skill_target_master_id1*/58, /*skill_target_master_id2*/"", /*skill_effect_master_id1*/60000002, /*skill_effect_master_id2*/"");
