@@ -1694,6 +1694,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009604", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009701", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009702", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009703", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009801", /*message*/"[Make-up session ABC期間限定課題] 「Make-up session ABC」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");

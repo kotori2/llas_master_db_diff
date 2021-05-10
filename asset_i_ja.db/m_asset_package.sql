@@ -5,7 +5,7 @@ CREATE TABLE m_asset_package(
   PRIMARY KEY (package_key)
 );
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0022/es_0022_07", /*version*/"14fb768a9e39a3d0e1980636d7fb07a6c8557afa", /*pack_num*/82);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"b5706710378595f5b3b1a12f0097530b4fd84d05", /*pack_num*/9269);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"c61409012a6b2259e2cfeb2f04f565c3cda80701", /*pack_num*/9272);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0009/es_0009_01", /*version*/"48ad2008887882c2a5a90239c87519fad7711a89", /*pack_num*/66);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0105/mes_0105_14", /*version*/"b845dfbef492bbec85f6e5a3ecc172f8f82fd355", /*pack_num*/30);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/007/ms_007_01", /*version*/"2d0106de6b8b5d85ac0ac37021b804490165f4ea", /*pack_num*/96);
@@ -3119,6 +3119,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"love:1_30", /*version*/"ca
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:100080040", /*version*/"73cb3b1a57a100e1286d39c7a5a56d2bf7fd9d12", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0007/ss_400073001_01", /*version*/"30b8047da6ec0eca5c5d3bf3301315a41bac5dc8", /*pack_num*/7);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:102040100", /*version*/"95cfe3110e9660b6c5005fdb9a94b639f61bc492", /*pack_num*/3);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:12069", /*version*/"31b36ad229a834d0a130b68c9b751d7a70ab680d", /*pack_num*/2);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MS/007/ms_007_10b", /*version*/"d176e53dbf833f2834bfaf5336c9feb502524732", /*pack_num*/35);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:12003", /*version*/"b7336e0b2774414e45ca721b20f12958f901eb4d", /*pack_num*/2);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0203/mes_0203_08", /*version*/"6bbfab7420f965068ff4d6bec7b194cf7de5f3e2", /*pack_num*/70);
