@@ -1695,6 +1695,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009701", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009702", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009703", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009801", /*message*/"[Make-up session ABC期間限定課題] 「Make-up session ABC」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009901", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 天王寺 璃奈をライブ編成にいれて1回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009902", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 天王寺 璃奈のキズナエピソードを12話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009903", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 天王寺 璃奈のキズナエピソードを21話視聴する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009904", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 「アナログハート」を1回プレイする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3280,6 +3284,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022003_1", /*message*/"す
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_1", /*message*/"怖がりの帰り道");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023001_2", /*message*/"緑の優しさ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"伝説のメイド、降臨！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032002_1", /*message*/"おねがい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一緒にお買い物♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"淑女のように");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"パワースイーツ");
@@ -3392,6 +3397,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"ア
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"癒しの膝枕");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"極楽マッサージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ねむくなっちゃう服");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_1", /*message*/"彼方ちゃんはここで～す");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_2", /*message*/"とろけるような肌触り");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"手と手を取り合って");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"私の大好きなもの☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"まだまだ慣れない");
