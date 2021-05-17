@@ -1699,6 +1699,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009901", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009902", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 天王寺 璃奈のキズナエピソードを12話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009903", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 天王寺 璃奈のキズナエピソードを21話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900009904", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」 TVアニメ第6話再放送記念課題] 「アナログハート」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900010001", /*message*/"[祭花 -saika-期間限定課題] 「祭花 -saika-」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
