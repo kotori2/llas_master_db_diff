@@ -1043,3 +1043,7 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20364/tex_banner_notice_s_20364", /*path*/"pA@");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31017/tex_banner_notice_l_31017", /*path*/"iO?");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Mining/31017/tex_banner_notice_s_31017", /*path*/"(\"P");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30023/tex_banner_notice_l_30023", /*path*/"Z5q");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30023/tex_banner_notice_s_30023", /*path*/".S?");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20367/tex_banner_notice_l_20367", /*path*/"2jl");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20367/tex_banner_notice_s_20367", /*path*/"Opq");

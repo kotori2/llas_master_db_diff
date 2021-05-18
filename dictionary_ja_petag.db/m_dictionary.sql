@@ -318,11 +318,19 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_red_start", /*message*/"<color v
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_sns_coin_icon_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_item_1000_s\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" margin-left=\"30px\" margin-right=\"30px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_android", /*message*/"GooglePlay");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_store_name_empty_ios", /*message*/"AppStore");
-INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※Androidをご利用のみなさまへのご案内");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_android", /*message*/"※Androidをご利用のみなさまへのご案内
+・自動更新の解約は「<:store_name/>」から行うことができます。
+　アプリを削除しても解約されませんのでご注意ください。
+・スクスタパスのご利用開始後の課金決済は、ご利用中のプラットフォームのストアIDにて行われます。
+・スクスタパスの特典内容は、今後追加・変更される場合がございます。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_desc_empty_ios", /*message*/"※iOSをご利用のみなさまへのご案内
 ・有効期間満了の24時間以上前までに解約可能です。
 ・有効期限満了の24時間以上前までに解約しない限り、有効期間は自動更新されます。
-・自動更新時の課金決済は有効期間満了後の24時間以内に行われます。");
+・自動更新時の課金決済は有効期間満了後の24時間以内に行われます。
+・自動更新の解約や再契約は「<:store_name/>」から行うことができます。
+　アプリを削除しても解約されませんのでご注意ください。
+・スクスタパスのご利用開始後の課金決済は、ご利用中のプラットフォームのストアIDにて行われます。
+・スクスタパスの特典内容は、今後追加・変更される場合がございます。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_subscription_help_empty_android", /*message*/"なお、基準日はプラットフォーム基準のタイムゾーン（UTC）で決定されるため、時差による有効期間の差異が発生する場合がございます。
 
 例）契約日時：2021/2/28 15:00 UTC

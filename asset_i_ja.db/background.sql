@@ -8,6 +8,7 @@ CREATE TABLE background(
   PRIMARY KEY (asset_path)
 );
 INSERT INTO `background` VALUES (/*asset_path*/"SI]", /*pack_name*/"uc7q76", /*head*/54023, /*size*/984566, /*key1*/2090161782, /*key2*/1538267059);
+INSERT INTO `background` VALUES (/*asset_path*/"<st", /*pack_name*/"poc8v1", /*head*/51194, /*size*/1048364, /*key1*/-1064964383, /*key2*/965642700);
 INSERT INTO `background` VALUES (/*asset_path*/"}[h", /*pack_name*/"8zpkm2", /*head*/125005, /*size*/814977, /*key1*/594480480, /*key2*/-675075418);
 INSERT INTO `background` VALUES (/*asset_path*/"JwO", /*pack_name*/"cox8v7", /*head*/1988343, /*size*/1437712, /*key1*/1421138423, /*key2*/810545260);
 INSERT INTO `background` VALUES (/*asset_path*/"n_Y", /*pack_name*/"pc4a5s", /*head*/53796, /*size*/1467018, /*key1*/-1533710807, /*key2*/-895372929);
