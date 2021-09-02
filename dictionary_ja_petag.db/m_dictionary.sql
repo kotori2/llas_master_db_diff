@@ -164,6 +164,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2011\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2012\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2013\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2026\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
+INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_gimmick_2027\" height=\"20px\" width=\"20px\" offsetY=\"-2px\"/>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_28_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"28px\" width=\"28px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_32_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"32px\" width=\"32px\" offsetY=\"-9px\" />");
 INSERT INTO `m_dictionary` VALUES (/*id*/"petag_icon_grade_empty", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_grade_01\" height=\"40px\" width=\"40px\" offsetY=\"-9px\" />");

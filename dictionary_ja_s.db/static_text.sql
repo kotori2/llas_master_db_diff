@@ -616,7 +616,6 @@ INSERT INTO `static_text` VALUES (/*textid*/123366149, /*guid*/"540e207a68b81431
 INSERT INTO `static_text` VALUES (/*textid*/1293325040126061548, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/13428249, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"合計ライブパワー");
 INSERT INTO `static_text` VALUES (/*textid*/1450972679, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"合計ライブパワー");
-INSERT INTO `static_text` VALUES (/*textid*/1455800897917331397, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"ライブギミックあり");
 INSERT INTO `static_text` VALUES (/*textid*/1562048438, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"オートプレイ");
 INSERT INTO `static_text` VALUES (/*textid*/1562446115, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"アイテム消費設定");
 INSERT INTO `static_text` VALUES (/*textid*/1709495999, /*guid*/"540e207a68b81431e9e925d0fca2f688", /*message*/"平均アピール");
@@ -954,6 +953,7 @@ INSERT INTO `static_text` VALUES (/*textid*/1125590343, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1210048123, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"推奨ライブパワー");
 INSERT INTO `static_text` VALUES (/*textid*/1231865400, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"カテゴリ");
 INSERT INTO `static_text` VALUES (/*textid*/1250347822, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"初級");
+INSERT INTO `static_text` VALUES (/*textid*/1265401279, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"チャレンジ");
 INSERT INTO `static_text` VALUES (/*textid*/1413155053, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_mv_01\" height=\"1\" width=\"1.6\"/> MV");
 INSERT INTO `static_text` VALUES (/*textid*/1436102526, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"推奨ライブパワー");
 INSERT INTO `static_text` VALUES (/*textid*/1483170528, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"高難易度");
@@ -1401,7 +1401,6 @@ INSERT INTO `static_text` VALUES (/*textid*/114267444588973120, /*guid*/"e6c379b
 INSERT INTO `static_text` VALUES (/*textid*/114767445234626692, /*guid*/"e6c379b9c04314d58be19e5635f6e8c4", /*message*/"このプレイヤーにフレンド申請を送りますか？");
 INSERT INTO `static_text` VALUES (/*textid*/114698427737513166, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"キャンセル");
 INSERT INTO `static_text` VALUES (/*textid*/114840869851263430, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"攻略情報");
-INSERT INTO `static_text` VALUES (/*textid*/2323597735367021634, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"ギミックあり");
 INSERT INTO `static_text` VALUES (/*textid*/244443411321342021, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"ストーリー");
 INSERT INTO `static_text` VALUES (/*textid*/5064870102145420070, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"楽曲ダウンロード");
 INSERT INTO `static_text` VALUES (/*textid*/6118085070429712831, /*guid*/"e6c8ba28bd4f6462c92a94a126bf195c", /*message*/"決定");

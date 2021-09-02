@@ -26,7 +26,7 @@ INSERT INTO `m_dic_str_int` VALUES (/*id*/20, /*text*/"k.communication_ls_705");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/21, /*text*/"k.beginner_challenge_ls_202");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/22, /*text*/"k.eventmining_ls_111");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/23, /*text*/"k.coop_ls_104");
-INSERT INTO `m_dic_str_int` VALUES (/*id*/24, /*text*/"k.live_before_popup_ls_p1101");
+INSERT INTO `m_dic_str_int` VALUES (/*id*/24, /*text*/"k.live_before_popup_ls_p1102");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/25, /*text*/"k.coop_ls_522");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/26, /*text*/"k.coop_ls_523");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/27, /*text*/"k.coop_ls_524");

@@ -29,6 +29,9 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/30020, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/30021, /*banner_image_asset_path*/"/n]", /*start_at*/1617170400, /*end_at*/1893423600, /*display_order*/36);
 INSERT INTO `m_story_event_history` VALUES (/*id*/30022, /*banner_image_asset_path*/"\"ai", /*start_at*/1619762400, /*end_at*/1893423600, /*display_order*/38);
 INSERT INTO `m_story_event_history` VALUES (/*id*/30023, /*banner_image_asset_path*/".S?", /*start_at*/1622440800, /*end_at*/1893423600, /*display_order*/40);
+INSERT INTO `m_story_event_history` VALUES (/*id*/30024, /*banner_image_asset_path*/"Bel", /*start_at*/1625032800, /*end_at*/1893423600, /*display_order*/42);
+INSERT INTO `m_story_event_history` VALUES (/*id*/30025, /*banner_image_asset_path*/"_9f", /*start_at*/1627700400, /*end_at*/1893423600, /*display_order*/44);
+INSERT INTO `m_story_event_history` VALUES (/*id*/30026, /*banner_image_asset_path*/"ozJ", /*start_at*/1630389600, /*end_at*/1893423600, /*display_order*/46);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31001, /*banner_image_asset_path*/"5!v", /*start_at*/1579672800, /*end_at*/1893423600, /*display_order*/7);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31002, /*banner_image_asset_path*/"TkL", /*start_at*/1582178400, /*end_at*/1893423600, /*display_order*/9);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31003, /*banner_image_asset_path*/"cNg", /*start_at*/1584597600, /*end_at*/1893423600, /*display_order*/11);
@@ -46,3 +49,6 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/31014, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/31015, /*banner_image_asset_path*/"dpB", /*start_at*/1615788000, /*end_at*/1893423600, /*display_order*/35);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31016, /*banner_image_asset_path*/"DH'", /*start_at*/1618466400, /*end_at*/1893423600, /*display_order*/37);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31017, /*banner_image_asset_path*/"(\"P", /*start_at*/1621058400, /*end_at*/1893423600, /*display_order*/39);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31018, /*banner_image_asset_path*/"AF~", /*start_at*/1623736800, /*end_at*/1893423600, /*display_order*/41);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31019, /*banner_image_asset_path*/"h0K", /*start_at*/1626328800, /*end_at*/1893423600, /*display_order*/43);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31020, /*banner_image_asset_path*/"5Jr", /*start_at*/1629007200, /*end_at*/1893423600, /*display_order*/45);

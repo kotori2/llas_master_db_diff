@@ -7,8 +7,8 @@ CREATE TABLE live_prop_skeleton(
   key2 INTEGER NOT NULL,
   PRIMARY KEY (asset_path)
 );
-INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"P9&", /*pack_name*/"1nkk4l", /*head*/0, /*size*/45632, /*key1*/780578861, /*key2*/-882578234);
+INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"P9&", /*pack_name*/"er7uu5", /*head*/0, /*size*/45950, /*key1*/-1963596399, /*key2*/1197013742);
 INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"O3i", /*pack_name*/"dityry", /*head*/0, /*size*/388960, /*key1*/179150145, /*key2*/1798094150);
 INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"XZZ", /*pack_name*/"nfk4kr", /*head*/0, /*size*/284130, /*key1*/-761923659, /*key2*/1529203176);
 INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"{`F", /*pack_name*/"yaa3yy", /*head*/0, /*size*/294982, /*key1*/-613712997, /*key2*/-436596053);
-INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"1xX", /*pack_name*/"ngorxm", /*head*/0, /*size*/486992, /*key1*/1220161946, /*key2*/1686696976);
+INSERT INTO `live_prop_skeleton` VALUES (/*asset_path*/"1xX", /*pack_name*/"dbuwzm", /*head*/0, /*size*/487036, /*key1*/1305798690, /*key2*/2028902487);

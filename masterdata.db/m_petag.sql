@@ -153,6 +153,8 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2010_empty", /*petag*/"p
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2011_empty", /*petag*/"petag.petag_icon_gimmick_2011_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2012_empty", /*petag*/"petag.petag_icon_gimmick_2012_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2013_empty", /*petag*/"petag.petag_icon_gimmick_2013_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2026_empty", /*petag*/"petag.petag_icon_gimmick_2026_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gimmick_2027_empty", /*petag*/"petag.petag_icon_gimmick_2027_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_role_1_empty", /*petag*/"petag.petag_icon_role_1_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_role_2_empty", /*petag*/"petag.petag_icon_role_2_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_role_3_empty", /*petag*/"petag.petag_icon_role_3_empty");
@@ -339,7 +341,7 @@ INSERT INTO `m_petag` VALUES (/*id*/"petag_notice_video_precautions", /*petag*/"
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9035_empty", /*petag*/"petag.petag_icon_gacha_ticket_9035_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9035_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9035_32_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9035_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9035_28_empty");
-INSERT INTO `m_petag` VALUES (/*id*/"petag_lesson_menu_campaign_member_guild_item_drop_empty", /*petag*/"petag.petag_lesson_menu_campaign_member_guild_item_drop_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9036_empty", /*petag*/"petag.petag_icon_gacha_ticket_9036_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9036_32_empty", /*petag*/"petag.petag_icon_gacha_ticket_9036_32_empty");
 INSERT INTO `m_petag` VALUES (/*id*/"petag_icon_gacha_ticket_9036_28_empty", /*petag*/"petag.petag_icon_gacha_ticket_9036_28_empty");
+INSERT INTO `m_petag` VALUES (/*id*/"petag_lesson_menu_campaign_member_guild_item_drop_empty", /*petag*/"petag.petag_lesson_menu_campaign_member_guild_item_drop_empty");
