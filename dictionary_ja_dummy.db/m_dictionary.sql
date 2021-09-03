@@ -28,6 +28,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035037_00", /*message*/"伊豆箱
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035055_00", /*message*/"中華飯店");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035062_00", /*message*/"おもちゃ屋店頭(昼晴)  ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035066_00", /*message*/"秋の河原(昼晴) ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035068_01", /*message*/"展望台(夜)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035073_00", /*message*/"夜景の見えるパーティ会場 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035075_00", /*message*/"ゲームイベントスペース");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg03_035076_00", /*message*/"時空の扉研究室");
