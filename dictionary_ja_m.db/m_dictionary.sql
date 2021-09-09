@@ -1934,7 +1934,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012603", /*message*/"[ドリームライブパレード課題] ニジガクのみのライブ編成でライブを10回クリアする※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012604", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012605", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[ドリームライブパレード課題] 日替わり楽曲を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*message*/"[ドリームライブパレード課題] 日替わり楽曲を30回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[ドリームライブパレード課題] A・ZU・NAのみのライブ編成で10回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[ドリームライブパレード課題] QU4RTZのみのライブ編成で10回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[ドリームライブパレード課題] DiverDivaのみのライブ編成で10回クリアする　※スキップチケット対象外");
