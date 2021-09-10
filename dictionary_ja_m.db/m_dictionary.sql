@@ -2514,6 +2514,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400388", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400389", /*message*/"「Queendom」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400390", /*message*/"「Queendom」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400391", /*message*/"「Queendom」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400392", /*message*/"「Toy Doll」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400393", /*message*/"「Toy Doll」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400394", /*message*/"「Toy Doll」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400395", /*message*/"「夜明珠（イエミンジュ）」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400396", /*message*/"「夜明珠（イエミンジュ）」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400397", /*message*/"「夜明珠（イエミンジュ）」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
