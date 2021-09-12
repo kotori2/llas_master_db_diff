@@ -3726,6 +3726,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"愛
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_1", /*message*/"静かな情熱");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301023001_2", /*message*/"花の乙女");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032001_1", /*message*/"こころ凪ぐ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301032002_1", /*message*/"気のせい、気のせい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_1", /*message*/"お洒落は難しい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301033001_2", /*message*/"心も体もリラックス");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301042001_1", /*message*/"最大の理解者");
@@ -3808,6 +3809,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082002_1", /*message*/"ス
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302082003_1", /*message*/"レインボー日本語講座");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_1", /*message*/"みんな幸せに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083001_2", /*message*/"食いしん坊の赤ずきん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"楽しみたくさん山登り！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"はい、お手紙です！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"璃奈ちゃんボード会議！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"アランにお任せ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"お部屋でVR");
