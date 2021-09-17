@@ -1960,6 +1960,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012606", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012607", /*message*/"[ドリームライブパレード課題] A・ZU・NAのみのライブ編成で10回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012608", /*message*/"[ドリームライブパレード課題] QU4RTZのみのライブ編成で10回クリアする　※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012609", /*message*/"[ドリームライブパレード課題] DiverDivaのみのライブ編成で10回クリアする　※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012701", /*message*/"[Sakurauchi Riko Second Solo Concert Album発売記念課題] 「Wake up, Challenger!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012702", /*message*/"[Sakurauchi Riko Second Solo Concert Album発売記念課題] 桜内 梨子が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
