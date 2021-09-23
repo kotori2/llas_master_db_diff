@@ -1964,6 +1964,18 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012701", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012702", /*message*/"[Sakurauchi Riko Second Solo Concert Album発売記念課題] 桜内 梨子が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012801", /*message*/"[Kurosawa Ruby Second Solo Concert Album発売記念課題] 「SKY JOURNEY」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900012802", /*message*/"[Kurosawa Ruby Second Solo Concert Album発売記念課題] 黒澤 ルビィが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013001", /*message*/"[2nd Anniversary スクスタビッグライブ ~ニジガク~課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013002", /*message*/"[2nd Anniversary スクスタビッグライブ ~ニジガク~課題] 「TOKIMEKI Runners 17章Ver.」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013003", /*message*/"[2nd Anniversary スクスタビッグライブ ~ニジガク~課題] 「Love U my friends」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013004", /*message*/"[2nd Anniversary スクスタビッグライブ ~ニジガク~課題] 「L！L！L！ (Love the Life We Live)」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013101", /*message*/"[2nd Anniversary スクスタビッグライブ ~Aqours~課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013102", /*message*/"[2nd Anniversary スクスタビッグライブ ~Aqours~課題] 「未来の僕らは知ってるよ」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013103", /*message*/"[2nd Anniversary スクスタビッグライブ ~Aqours~課題] 「君のこころは輝いてるかい？」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013104", /*message*/"[2nd Anniversary スクスタビッグライブ ~Aqours~課題] 「青空Jumping Heart」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013201", /*message*/"[2nd Anniversary スクスタビッグライブ ~μ&apos;s~課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013202", /*message*/"[2nd Anniversary スクスタビッグライブ ~μ&apos;s~課題] 「それは僕たちの奇跡」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013203", /*message*/"[2nd Anniversary スクスタビッグライブ ~μ&apos;s~課題] 「嵐のなかの恋だから」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900013204", /*message*/"[2nd Anniversary スクスタビッグライブ ~μ&apos;s~課題] 「Snow halation」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
