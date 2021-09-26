@@ -1310,3 +1310,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Even
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32020/tex_banner_notice_s_32020", /*path*/"Bg)");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32021/tex_banner_notice_l_32021", /*path*/"whP");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32021/tex_banner_notice_s_32021", /*path*/"r(}");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Notice/90013/tex_banner_notice_90013_01", /*path*/"E(B");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Notice/90013/tex_banner_notice_90013_02", /*path*/"q53");
