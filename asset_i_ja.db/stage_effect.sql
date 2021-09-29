@@ -67,6 +67,7 @@ INSERT INTO `stage_effect` VALUES (/*asset_path*/"ev(", /*pack_name*/"64xbo9", /
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"CiE", /*pack_name*/"5xu34g", /*head*/0, /*size*/180029, /*key1*/-1452244709, /*key2*/-1095091849);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"D`V", /*pack_name*/"9dgmz0", /*head*/0, /*size*/186117, /*key1*/-2052119903, /*key2*/53982190);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"hRJ", /*pack_name*/"cfnlfi", /*head*/0, /*size*/179790, /*key1*/1457865030, /*key2*/-1302505591);
+INSERT INTO `stage_effect` VALUES (/*asset_path*/"@.{", /*pack_name*/"fl4brg", /*head*/0, /*size*/179882, /*key1*/129251789, /*key2*/1753209840);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"S~e", /*pack_name*/"6gzy07", /*head*/0, /*size*/180610, /*key1*/-846841866, /*key2*/1649019368);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"%8E", /*pack_name*/"p8pz8n", /*head*/0, /*size*/179381, /*key1*/-151293217, /*key2*/-1220621166);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"+-G", /*pack_name*/"8ny99i", /*head*/0, /*size*/186542, /*key1*/2101702866, /*key2*/-28759926);
@@ -153,6 +154,7 @@ INSERT INTO `stage_effect` VALUES (/*asset_path*/":5l", /*pack_name*/"oapyvp", /
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"HfK", /*pack_name*/"hetmjd", /*head*/0, /*size*/324942, /*key1*/191855785, /*key2*/-775657515);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"es2", /*pack_name*/"9uqwla", /*head*/0, /*size*/324442, /*key1*/610964620, /*key2*/1728720429);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"n[O", /*pack_name*/"5whx8f", /*head*/0, /*size*/326161, /*key1*/-594279731, /*key2*/1177316584);
+INSERT INTO `stage_effect` VALUES (/*asset_path*/"2:N", /*pack_name*/"3zwha1", /*head*/0, /*size*/325629, /*key1*/-1336887788, /*key2*/-1772317077);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"--M", /*pack_name*/"5lnoko", /*head*/0, /*size*/327359, /*key1*/175376031, /*key2*/-1524754587);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"u@z", /*pack_name*/"54px96", /*head*/0, /*size*/323648, /*key1*/-908048833, /*key2*/1461125319);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"dBM", /*pack_name*/"nr9e07", /*head*/0, /*size*/325535, /*key1*/232918727, /*key2*/1284685925);
@@ -230,6 +232,7 @@ INSERT INTO `stage_effect` VALUES (/*asset_path*/"3X:", /*pack_name*/"t4yyep", /
 INSERT INTO `stage_effect` VALUES (/*asset_path*/")_s", /*pack_name*/"b2939l", /*head*/0, /*size*/2156881, /*key1*/-1429988132, /*key2*/1225411155);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"y@_", /*pack_name*/"bu1q2r", /*head*/883307, /*size*/2051026, /*key1*/-1220777885, /*key2*/221356007);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"l*;", /*pack_name*/"kvsn1f", /*head*/0, /*size*/3232436, /*key1*/1251480261, /*key2*/1553195878);
+INSERT INTO `stage_effect` VALUES (/*asset_path*/"-]p", /*pack_name*/"r8xnhp", /*head*/0, /*size*/533575, /*key1*/405695861, /*key2*/-230960166);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"5w/", /*pack_name*/"y5u03v", /*head*/0, /*size*/591794, /*key1*/-993540926, /*key2*/-2007353659);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"5&S", /*pack_name*/"x5ryem", /*head*/0, /*size*/689283, /*key1*/606346320, /*key2*/-1455404298);
 INSERT INTO `stage_effect` VALUES (/*asset_path*/"mSA", /*pack_name*/"02tkld", /*head*/0, /*size*/1036819, /*key1*/-476025641, /*key2*/-1343293898);
