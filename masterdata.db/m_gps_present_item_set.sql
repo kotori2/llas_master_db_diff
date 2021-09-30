@@ -15,3 +15,13 @@ INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/5
 INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50007, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
 INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50008, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
 INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50009, /*content_type*/21, /*content_id*/21018, /*content_amount*/1);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/26, /*content_id*/202300200, /*content_amount*/1);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/28, /*content_id*/16001, /*content_amount*/5);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1900, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1910, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1920, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1930, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1940, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1950, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1960, /*content_amount*/10);
+INSERT INTO `m_gps_present_item_set` VALUES (/*gps_present_campaign_master_id*/50013, /*content_type*/12, /*content_id*/1970, /*content_amount*/10);
