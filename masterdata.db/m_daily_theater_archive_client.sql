@@ -622,3 +622,4 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000612, /*year*/2021, /*month*/10, /*day*/6, /*title*/"ほんとは寂しい？", /*published_at*/1633446000);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000613, /*year*/2021, /*month*/10, /*day*/7, /*title*/"さあご一緒に！", /*published_at*/1633532400);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000614, /*year*/2021, /*month*/10, /*day*/8, /*title*/"真実はふたつ！", /*published_at*/1633618800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000615, /*year*/2021, /*month*/10, /*day*/9, /*title*/"QU4RTZは元気いっぱい！", /*published_at*/1633705200);
