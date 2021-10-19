@@ -359,6 +359,13 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0049/es_0049_04", /*p
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0049/es_0049_05", /*pack_name*/"ce6pgl", /*head*/0, /*size*/5668, /*key1*/-1863628396, /*key2*/773920309);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0049/es_0049_06", /*pack_name*/"j4hm46", /*head*/0, /*size*/4847, /*key1*/-1220414177, /*key2*/812910526);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0049/es_0049_07", /*pack_name*/"oanomq", /*head*/0, /*size*/5188, /*key1*/-1631922527, /*key2*/-1851875086);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_01", /*pack_name*/"u6v6yt", /*head*/0, /*size*/4597, /*key1*/-1434466874, /*key2*/-1329130947);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_02", /*pack_name*/"4d4iwo", /*head*/0, /*size*/6942, /*key1*/-579053668, /*key2*/408785540);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_03", /*pack_name*/"5atak6", /*head*/0, /*size*/5144, /*key1*/851384560, /*key2*/1952183896);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_04", /*pack_name*/"bydojr", /*head*/0, /*size*/4666, /*key1*/-948944505, /*key2*/-899492611);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_05", /*pack_name*/"e0bwzq", /*head*/0, /*size*/4596, /*key1*/-1975600192, /*key2*/1285364764);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_06", /*pack_name*/"ujg9qp", /*head*/0, /*size*/3861, /*key1*/758542582, /*key2*/-568420154);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/0050/es_0050_07", /*pack_name*/"jszdrj", /*head*/0, /*size*/5261, /*key1*/-1648522841, /*key2*/1827920823);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/9201/es_9201_01", /*pack_name*/"gkhdlq", /*head*/0, /*size*/3192, /*key1*/1777005446, /*key2*/-187167948);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/9201/es_9201_02", /*pack_name*/"v6qzll", /*head*/0, /*size*/6756, /*key1*/1202135964, /*key2*/-474517744);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/ES/9201/es_9201_03", /*pack_name*/"tkyzck", /*head*/0, /*size*/4427, /*key1*/-1957024489, /*key2*/1015258651);
@@ -1370,6 +1377,7 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400022001_01"
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400022002_01", /*pack_name*/"nd49kl", /*head*/0, /*size*/3157, /*key1*/820855938, /*key2*/287753723);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400022003_01", /*pack_name*/"0nzqom", /*head*/0, /*size*/4133, /*key1*/-817672488, /*key2*/-301536009);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400022004_01", /*pack_name*/"jrtnfw", /*head*/0, /*size*/3379, /*key1*/1770746215, /*key2*/485082067);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400022005_01", /*pack_name*/"8fmcov", /*head*/0, /*size*/3181, /*key1*/-243965966, /*key2*/-800625225);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400023001_01", /*pack_name*/"za0uq3", /*head*/0, /*size*/4404, /*key1*/465287721, /*key2*/-1805626738);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400023001_02", /*pack_name*/"feidpv", /*head*/0, /*size*/904, /*key1*/1657549480, /*key2*/1937177641);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0002/ss_400023002_01", /*pack_name*/"t1y09w", /*head*/0, /*size*/6884, /*key1*/1643311912, /*key2*/172440145);
@@ -1467,6 +1475,8 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0005/ss_400053003_01"
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0005/ss_400053003_02", /*pack_name*/"h15dsn", /*head*/0, /*size*/978, /*key1*/1754156287, /*key2*/-1557147323);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0005/ss_400053004_01", /*pack_name*/"8ricf4", /*head*/0, /*size*/4227, /*key1*/1499394811, /*key2*/1470037027);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0005/ss_400053004_02", /*pack_name*/"lyvxwc", /*head*/0, /*size*/813, /*key1*/-1048736379, /*key2*/512163069);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0005/ss_400053005_01", /*pack_name*/"yr6gmn", /*head*/0, /*size*/5076, /*key1*/734421975, /*key2*/-1783720501);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0005/ss_400053005_02", /*pack_name*/"jv3q9a", /*head*/0, /*size*/996, /*key1*/2124209888, /*key2*/646299785);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0006/ss_100061001_01", /*pack_name*/"ug9sdt", /*head*/0, /*size*/2463, /*key1*/-621120357, /*key2*/-1021067744);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0006/ss_100061002_01", /*pack_name*/"gstc6n", /*head*/0, /*size*/1993, /*key1*/835037677, /*key2*/1703395642);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0006/ss_100062001_01", /*pack_name*/"amxf7t", /*head*/0, /*size*/3138, /*key1*/-1711132719, /*key2*/398552035);
@@ -1645,6 +1655,8 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0102/ss_401023004_01"
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0102/ss_401023004_02", /*pack_name*/"jp3i9l", /*head*/0, /*size*/981, /*key1*/-866981839, /*key2*/120395818);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0102/ss_401023005_01", /*pack_name*/"7zuayg", /*head*/0, /*size*/4109, /*key1*/-1810252681, /*key2*/-2138709509);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0102/ss_401023005_02", /*pack_name*/"c0sn2p", /*head*/0, /*size*/868, /*key1*/228325987, /*key2*/-1099486123);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0102/ss_401023006_01", /*pack_name*/"8gs3hd", /*head*/0, /*size*/4235, /*key1*/532030528, /*key2*/1697874562);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0102/ss_401023006_02", /*pack_name*/"7s5vgq", /*head*/0, /*size*/1037, /*key1*/-693029047, /*key2*/-1889251636);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0103/ss_101031001_01", /*pack_name*/"0521h1", /*head*/0, /*size*/2233, /*key1*/1017692290, /*key2*/889367189);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0103/ss_101031002_01", /*pack_name*/"zqos4y", /*head*/0, /*size*/2291, /*key1*/-1328589130, /*key2*/-748342315);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0103/ss_101032001_01", /*pack_name*/"hh3ove", /*head*/0, /*size*/4330, /*key1*/-1003219025, /*key2*/-1774981219);
@@ -1812,6 +1824,7 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401082002_01"
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401082003_01", /*pack_name*/"ue3t1n", /*head*/0, /*size*/3145, /*key1*/-463683440, /*key2*/803399178);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401082004_01", /*pack_name*/"usoqzo", /*head*/0, /*size*/5496, /*key1*/-66709781, /*key2*/-1834543734);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401082005_01", /*pack_name*/"uc2bfj", /*head*/0, /*size*/3687, /*key1*/-814114153, /*key2*/629740871);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401082006_01", /*pack_name*/"g0xk5k", /*head*/0, /*size*/3801, /*key1*/-1854843330, /*key2*/518696848);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401083001_01", /*pack_name*/"25o1xw", /*head*/0, /*size*/8806, /*key1*/-1402485698, /*key2*/1627345893);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401083001_02", /*pack_name*/"o1md1w", /*head*/0, /*size*/1080, /*key1*/1273603977, /*key2*/-801268815);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0108/ss_401083002_01", /*pack_name*/"ccnks1", /*head*/0, /*size*/7291, /*key1*/-2008488149, /*key2*/-1582304990);
@@ -1978,6 +1991,7 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402052001_01"
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402052002_01", /*pack_name*/"hnyy4d", /*head*/0, /*size*/3625, /*key1*/1110752648, /*key2*/-1635470146);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402052003_01", /*pack_name*/"x5tdz8", /*head*/0, /*size*/4603, /*key1*/635426590, /*key2*/-1027533557);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402052004_01", /*pack_name*/"d5s7pr", /*head*/0, /*size*/3496, /*key1*/-2024478690, /*key2*/-2092634263);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402052005_01", /*pack_name*/"9gdnk7", /*head*/0, /*size*/3493, /*key1*/-920461353, /*key2*/-777487976);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402053001_01", /*pack_name*/"b18wur", /*head*/0, /*size*/5067, /*key1*/532350906, /*key2*/-1510606899);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402053001_02", /*pack_name*/"jswpst", /*head*/0, /*size*/1372, /*key1*/392625150, /*key2*/-1459414012);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0205/ss_402053002_01", /*pack_name*/"0xr48b", /*head*/0, /*size*/4127, /*key1*/-1353481076, /*key2*/-1356660499);
@@ -2108,6 +2122,8 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0210/ss_302102001_01"
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0210/ss_302103001_01", /*pack_name*/"1blwja", /*head*/0, /*size*/4549, /*key1*/-1780500550, /*key2*/663596669);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0210/ss_302103001_02", /*pack_name*/"aln2nw", /*head*/0, /*size*/822, /*key1*/1026792515, /*key2*/-13238067);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0210/ss_402102001_01", /*pack_name*/"cgs2xs", /*head*/0, /*size*/4647, /*key1*/-36874157, /*key2*/-293539299);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0210/ss_402103001_01", /*pack_name*/"omcgdg", /*head*/0, /*size*/4519, /*key1*/-592112726, /*key2*/-1922421291);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0210/ss_402103001_02", /*pack_name*/"v8wswg", /*head*/0, /*size*/1004, /*key1*/312948265, /*key2*/1828215600);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0211/ss_102111001_01", /*pack_name*/"8u2fxm", /*head*/0, /*size*/1891, /*key1*/1811382338, /*key2*/1976337573);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0211/ss_102111002_01", /*pack_name*/"od2380", /*head*/0, /*size*/1811, /*key1*/-2062171071, /*key2*/1912798683);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Scripts/SS/0211/ss_102112001_01", /*pack_name*/"pab42n", /*head*/0, /*size*/3586, /*key1*/-396076519, /*key2*/935166604);

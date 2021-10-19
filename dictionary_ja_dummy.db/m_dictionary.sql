@@ -5,6 +5,7 @@ CREATE TABLE m_dictionary(
 );
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001003_00", /*message*/"音ノ木坂学院　中庭(昼晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001005_00", /*message*/"音ノ木坂学院　通学路(坂の上) ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001006_02", /*message*/"音ノ木坂学院　廊下(昼・消灯) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_003001_00", /*message*/"神田明神(昼) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_013002_00", /*message*/"浦の星女学院　通学路バス停前(朝晴) ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_021004_10", /*message*/"虹ヶ咲学園　部室(雨・消灯)");
@@ -336,6 +337,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_04", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_05", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_06", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30027_07", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_01", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_02", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_03", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_04", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_05", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_06", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30028_07", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001", /*message*/"イベントルール 1/6");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_001_2", /*message*/"イベントルール 1/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_rule_title_002", /*message*/"イベントルール 2/6");

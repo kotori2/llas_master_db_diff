@@ -630,3 +630,6 @@ INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theat
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000620, /*year*/2021, /*month*/10, /*day*/14, /*title*/"秋の夜長にご注意を", /*published_at*/1634137200);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000621, /*year*/2021, /*month*/10, /*day*/15, /*title*/"お稽古のお供", /*published_at*/1634223600);
 INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000622, /*year*/2021, /*month*/10, /*day*/16, /*title*/"熱さに変えて！", /*published_at*/1634310000);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000623, /*year*/2021, /*month*/10, /*day*/17, /*title*/"全力全開！", /*published_at*/1634396400);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000624, /*year*/2021, /*month*/10, /*day*/18, /*title*/"同じくらい！", /*published_at*/1634482800);
+INSERT INTO `m_daily_theater_archive_client` VALUES (/*lang*/"ja", /*daily_theater_id*/1000625, /*year*/2021, /*month*/10, /*day*/19, /*title*/"わかちあえる幸せ", /*published_at*/1634569200);
