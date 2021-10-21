@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"d13546957c53f56a7255fa537ff06d03c40e3ecb", /*hash*/"4f1cf7ea7c36c43b6c4e0e22d1e7eaa07c5c1716", /*size*/9386618);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"bcffae307e60ba18ea3ba465fc574d9bf89cc45a", /*hash*/"599753cd1abe26200e72c799e5e5ed0e2578de5a", /*size*/9386623);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"7dc989bc7f13d677c4fe2fef8875736b3f0db159", /*hash*/"b45647de766a3111f374f33c205ed74e35ba9f16", /*size*/173424);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_v.db", /*keys*/"5eb0270c852907ea73623cb8deb3c11203f7fd07", /*hash*/"66c8efb43cfcb23bba637efbf86cd70fbff4b2af", /*size*/808);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"9b775eca33f59e20d75881776ac3d75e48b3a4f6", /*hash*/"e1b646ed691078348e85c18863ad38212925225f", /*size*/6029);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"cd53a31a
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"a37b945e8c8bc8a9e8cbc1e4384bf5b7ccdadf7b", /*hash*/"f6eaf954a3daa54d357202f65771f196531f5787", /*size*/10325);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"1e215bc1f41ace1fe4f49398c4ed1b0e5351f9e1", /*hash*/"9faea3002727b8028232d8f67f0188b2a5103106", /*size*/85017);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"6577685360c898dccb2f96929877ac345b35d1dd", /*hash*/"cc58b4cd1361b2520fc42b2ea6e6658539b0efc7", /*size*/38120);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"1f2f471f10cf2113613f2120243e60691fef9aa5", /*hash*/"203744f187c3221e6b36174a8c29234ac430f32f", /*size*/11525067);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"1f2f471f10cf2113613f2120243e60691fef9aa5", /*hash*/"d8e38715fabc341eaf5f4de02416b38deea93663", /*size*/11523055);
