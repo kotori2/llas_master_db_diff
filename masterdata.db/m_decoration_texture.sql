@@ -1355,3 +1355,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Location/50013/tex_banner_notice_l_50013", /*path*/"yKd");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Location/50013/tex_banner_notice_s_50013", /*path*/"lcW");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Location/50013/tex_banner_notice_kv_50013", /*path*/"H&L");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10116/tex_banner_notice_l_10116", /*path*/"3>Q");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10116/tex_banner_notice_s_10116", /*path*/"rno");
