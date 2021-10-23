@@ -40,3 +40,4 @@ INSERT INTO `m_live_daily` VALUES (/*id*/27, /*live_id*/12031, /*limit_count*/5,
 INSERT INTO `m_live_daily` VALUES (/*id*/28, /*live_id*/12034, /*limit_count*/6, /*max_limit_count_recover*/0, /*appeal_text*/"", /*weekday*/"", /*start_at*/1627624800, /*end_at*/1630389600);
 INSERT INTO `m_live_daily` VALUES (/*id*/29, /*live_id*/11014, /*limit_count*/6, /*max_limit_count_recover*/0, /*appeal_text*/"", /*weekday*/"", /*start_at*/1628229600, /*end_at*/1630389600);
 INSERT INTO `m_live_daily` VALUES (/*id*/30, /*live_id*/10003, /*limit_count*/6, /*max_limit_count_recover*/0, /*appeal_text*/"", /*weekday*/"", /*start_at*/1628834400, /*end_at*/1630389600);
+INSERT INTO `m_live_daily` VALUES (/*id*/31, /*live_id*/12074, /*limit_count*/3, /*max_limit_count_recover*/0, /*appeal_text*/"", /*weekday*/"", /*start_at*/1634968800, /*end_at*/1636092000);
