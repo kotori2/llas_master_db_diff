@@ -56,8 +56,6 @@ INSERT INTO `m_movie` VALUES (/*pavement*/"#Ig", /*pack_name*/"k49qfj");
 INSERT INTO `m_movie` VALUES (/*pavement*/"%}\", /*pack_name*/"2ztarr");
 INSERT INTO `m_movie` VALUES (/*pavement*/"Vd=", /*pack_name*/"csw1f8");
 INSERT INTO `m_movie` VALUES (/*pavement*/"{<I", /*pack_name*/"o9q4hx");
-INSERT INTO `m_movie` VALUES (/*pavement*/"0-9", /*pack_name*/"yj4yab");
-INSERT INTO `m_movie` VALUES (/*pavement*/"R&2", /*pack_name*/"ko7kqj");
 INSERT INTO `m_movie` VALUES (/*pavement*/"?39", /*pack_name*/"sfeofg");
 INSERT INTO `m_movie` VALUES (/*pavement*/"X9X", /*pack_name*/"txefmk");
 INSERT INTO `m_movie` VALUES (/*pavement*/"F;w", /*pack_name*/"d2skaz");
