@@ -34,6 +34,8 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/30025, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/30026, /*banner_image_asset_path*/"ozJ", /*start_at*/1630389600, /*end_at*/1893423600, /*display_order*/46);
 INSERT INTO `m_story_event_history` VALUES (/*id*/30027, /*banner_image_asset_path*/"*;j", /*start_at*/1632578400, /*end_at*/1893423600, /*display_order*/48);
 INSERT INTO `m_story_event_history` VALUES (/*id*/30028, /*banner_image_asset_path*/"P0~", /*start_at*/1635746400, /*end_at*/1893423600, /*display_order*/50);
+INSERT INTO `m_story_event_history` VALUES (/*id*/30029, /*banner_image_asset_path*/"kR0", /*start_at*/1638252000, /*end_at*/1893423600, /*display_order*/52);
+INSERT INTO `m_story_event_history` VALUES (/*id*/30030, /*banner_image_asset_path*/"b6:", /*start_at*/1640757600, /*end_at*/1893423600, /*display_order*/54);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31001, /*banner_image_asset_path*/"5!v", /*start_at*/1579672800, /*end_at*/1893423600, /*display_order*/7);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31002, /*banner_image_asset_path*/"TkL", /*start_at*/1582178400, /*end_at*/1893423600, /*display_order*/9);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31003, /*banner_image_asset_path*/"cNg", /*start_at*/1584597600, /*end_at*/1893423600, /*display_order*/11);
@@ -57,3 +59,5 @@ INSERT INTO `m_story_event_history` VALUES (/*id*/31020, /*banner_image_asset_pa
 INSERT INTO `m_story_event_history` VALUES (/*id*/31021, /*banner_image_asset_path*/"(P]", /*start_at*/1631599200, /*end_at*/1893423600, /*display_order*/47);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31022, /*banner_image_asset_path*/"JSj", /*start_at*/1634277600, /*end_at*/1893423600, /*display_order*/49);
 INSERT INTO `m_story_event_history` VALUES (/*id*/31023, /*banner_image_asset_path*/"E*\", /*start_at*/1636956000, /*end_at*/1893423600, /*display_order*/51);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31024, /*banner_image_asset_path*/"A$2", /*start_at*/1639548000, /*end_at*/1893423600, /*display_order*/53);
+INSERT INTO `m_story_event_history` VALUES (/*id*/31025, /*banner_image_asset_path*/"AKd", /*start_at*/1642226400, /*end_at*/1893423600, /*display_order*/55);
