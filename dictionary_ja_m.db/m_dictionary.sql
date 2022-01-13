@@ -2132,6 +2132,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014304", /*message*/"[ビッグライブ課題] 「Margaret」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014401", /*message*/"[Kurosawa Dia Second Solo Concert Album発売記念課題] 「Step! ZERO to ONE」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014402", /*message*/"[Kurosawa Dia Second Solo Concert Album発売記念課題] 黒澤 ダイヤが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014501", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014502", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014503", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2185,6 +2188,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33016_000", /*message*/"ドリームライブパレード～SPタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017", /*message*/"ドリームライブパレード～ガードタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33017_000", /*message*/"ドリームライブパレード～ガードタイプオンステージ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"ドリームライブパレード～ボルテージタイプオンステージ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"ドリームライブパレード～ボルテージタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"スクスタ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"スクスタ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
@@ -3958,6 +3963,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103002_2", /*message*/"フ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"リーダーの素質");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012002_1", /*message*/"レッツエンジョイ夢の国");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012003_1", /*message*/"一番かわいい雪だるま！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012004_1", /*message*/"もっと、もっと！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_1", /*message*/"動物と穂乃果");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013001_2", /*message*/"我が家が竜宮城！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300013002_1", /*message*/"甘い昼下がり");
@@ -4119,6 +4125,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"お
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"エレクトロニックアイドル");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"ボードの向こうの素顔");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_2", /*message*/"一緒に、ね？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_1", /*message*/"この「ぽかぽか」はどこから？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093003_2", /*message*/"ねこさんのお庭へようこそ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"ぎこちないながらも、まっすぐに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"美味しい笑顔");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"静謐な空気のなかで");
