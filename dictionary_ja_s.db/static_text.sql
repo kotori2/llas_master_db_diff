@@ -714,8 +714,8 @@ INSERT INTO `static_text` VALUES (/*textid*/114665960052507814, /*guid*/"63c858b
 INSERT INTO `static_text` VALUES (/*textid*/114680540122377276, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"利用規約");
 INSERT INTO `static_text` VALUES (/*textid*/114743245777391874, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/114814518619594464, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"資金決済法に基づく表示");
-INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
-©KLabGames ©SUNRISE ©bushiroad");
+INSERT INTO `static_text` VALUES (/*textid*/114950088311426864, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©2020 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
+©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/114975660973232210, /*guid*/"63c858bdade92400e8c0c94cf77fb37d", /*message*/"最初");
 INSERT INTO `static_text` VALUES (/*textid*/2114035015707683791, /*guid*/"655528915c659400c9fbfd97ededcd22", /*message*/"平均ボルテージ：");
 INSERT INTO `static_text` VALUES (/*textid*/3897628058791381417, /*guid*/"65b0de8c910534a4d8efb0502559163c", /*message*/"→");
@@ -995,8 +995,8 @@ INSERT INTO `static_text` VALUES (/*textid*/114486966215429020, /*guid*/"9ccccd7
 INSERT INTO `static_text` VALUES (/*textid*/114600365312073510, /*guid*/"9ccccd7540af36342abcd09d821b8c90", /*message*/"獲得中の宝箱");
 INSERT INTO `static_text` VALUES (/*textid*/5834563959136224094, /*guid*/"9ccccd7540af36342abcd09d821b8c90", /*message*/"Sランククリアに
 必要なボルテージ");
-INSERT INTO `static_text` VALUES (/*textid*/4607570606196336910, /*guid*/"9ce9e12f5bd334327a4f0526eb951557", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
-©KLabGames ©SUNRISE ©bushiroad");
+INSERT INTO `static_text` VALUES (/*textid*/4607570606196336910, /*guid*/"9ce9e12f5bd334327a4f0526eb951557", /*message*/"©2013 プロジェクトラブライブ！ ©2017 プロジェクトラブライブ！サンシャイン!! ©2020 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
+©SUNRISE ©bushiroad");
 INSERT INTO `static_text` VALUES (/*textid*/7281490888707406567, /*guid*/"9ce9e12f5bd334327a4f0526eb951557", /*message*/"PAGETOP");
 INSERT INTO `static_text` VALUES (/*textid*/1505850606147792620, /*guid*/"9d1c06a7c43f03940b5b5e456d29024b", /*message*/"取得済み");
 INSERT INTO `static_text` VALUES (/*textid*/114116196804730194, /*guid*/"9f07f403e72134c38836a9536f9e4ecf", /*message*/"次のLv.まであと");
@@ -1171,7 +1171,7 @@ INSERT INTO `static_text` VALUES (/*textid*/114897882138701740, /*guid*/"b8698c8
 INSERT INTO `static_text` VALUES (/*textid*/3167216122293789974, /*guid*/"bd2741b17090b164e9bf3b4b93d860b1", /*message*/"キャンセル");
 INSERT INTO `static_text` VALUES (/*textid*/114048792798655480, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"PAGETOP");
 INSERT INTO `static_text` VALUES (/*textid*/114135996666178534, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"資金決済法に基づく表示");
-INSERT INTO `static_text` VALUES (/*textid*/114421245094430818, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"c2013 プロジェクトライブライブ！c2017 プロジェクトライブライブ！サンシャイン！！<br/>cKLabGames cSUNRISE cbushiroad All Rights Reserved.");
+INSERT INTO `static_text` VALUES (/*textid*/114421245094430818, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"c2013 プロジェクトライブライブ！c2017 プロジェクトライブライブ！サンシャイン！！<br/>cSUNRISE cbushiroad All Rights Reserved.");
 INSERT INTO `static_text` VALUES (/*textid*/114448133669492304, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"プライバシーポリシー");
 INSERT INTO `static_text` VALUES (/*textid*/114494512506793486, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"特定商取引法に基づく表示");
 INSERT INTO `static_text` VALUES (/*textid*/114600456571456122, /*guid*/"bddf854c7e715414b89d503bd798ed8f", /*message*/"資金決済法に基づく表示");
