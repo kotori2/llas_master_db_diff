@@ -2176,6 +2176,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014603", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014604", /*message*/"[ビッグライブ課題] 「I&apos;m Still...」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014701", /*message*/"[Matsuura Kanan Second Solo Concert Album発売記念課題] 「HAPPY PARTY TRAIN」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014702", /*message*/"[Matsuura Kanan Second Solo Concert Album発売記念課題] 松浦 果南が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2233,6 +2236,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33018_000", /*message*/"ドリームライブパレード～ボルテージタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019", /*message*/"スクスタ Special Dream Live Parade 2021");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33019_000", /*message*/"スクスタ Special Dream Live Parade 2021");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"ドリームライブパレード～スキルタイプオンステージ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"ドリームライブパレード～スキルタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -4036,6 +4041,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042001_1", /*message*/"パ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042002_1", /*message*/"閃きとセンス");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042003_1", /*message*/"ぽかぽかの手");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"隠し事はできないね");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"ほうっておけない幼馴染");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"綺麗な心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"ひとつひとつ、積み重ね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"好きでいる幸せ");
@@ -4182,6 +4188,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302102001_1", /*message*/"ぎ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_1", /*message*/"美味しい笑顔");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302103001_2", /*message*/"静謐な空気のなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302112001_1", /*message*/"リクエスト");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_1", /*message*/"遊園地デート");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302113001_2", /*message*/"ランジュのスペシャルルーム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012001_1", /*message*/"イベント、再び！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012002_1", /*message*/"やったー！　海未ちゃん大好き！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400012003_1", /*message*/"以心伝心？");
