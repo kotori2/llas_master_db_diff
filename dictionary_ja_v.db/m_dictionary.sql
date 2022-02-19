@@ -17,5 +17,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50014_1", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50014_2", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  2022　なんば店　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50015_1", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  2022　お台場店　peat2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50015_2", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  2022　なんば店　peat2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50016_1", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  2022　お台場店　peat3");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50016_2", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  2022　なんば店　peat3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20086305", /*message*/"基本スタミナが3.2%増加
 対象:同属性");
