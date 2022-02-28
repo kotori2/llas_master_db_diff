@@ -2199,6 +2199,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014702", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014901", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014902", /*message*/"[ビッグライブ課題] 「Snow halation」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014903", /*message*/"[ビッグライブ課題] 「Fantastic Departure!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014904", /*message*/"[ビッグライブ課題] 「Cheer for you!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
