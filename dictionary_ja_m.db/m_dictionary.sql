@@ -2220,6 +2220,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014903", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900014904", /*message*/"[ビッグライブ課題] 「Cheer for you!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015001", /*message*/"[Kunikida Hanamaru Second Solo Concert Album発売記念課題] 「未体験HORIZON」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015002", /*message*/"[Kunikida Hanamaru Second Solo Concert Album発売記念課題] 国木田 花丸が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -4098,6 +4101,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042004_1", /*message*/"隠
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300042005_1", /*message*/"ほうっておけない幼馴染");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_1", /*message*/"綺麗な心");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043001_2", /*message*/"ひとつひとつ、積み重ね");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_1", /*message*/"花畑のあなた");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300043002_2", /*message*/"大胆って難しい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052001_1", /*message*/"好きでいる幸せ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300052002_1", /*message*/"美味しい夢");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"ラーメンのお好みは？");
@@ -4161,6 +4166,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_1", /*message*/"あ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301053002_2", /*message*/"だったらいいな");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062001_1", /*message*/"白の裏側");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062002_1", /*message*/"漆黒の闇はアイデンティティ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301062003_1", /*message*/"最強のチーム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"ヨハネの人間界活動記録");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"堕天使の威厳");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063002_1", /*message*/"あなたも私のリトルデーモン");
