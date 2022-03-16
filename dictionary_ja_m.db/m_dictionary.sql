@@ -2223,6 +2223,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015002", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015101", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015102", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015103", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015201", /*message*/"[2.5 Anniversaryプロローグ課題] 合宿を10回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015202", /*message*/"[2.5 Anniversaryプロローグ課題] 合宿を20回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015203", /*message*/"[2.5 Anniversaryプロローグ課題] 合宿を30回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015204", /*message*/"[2.5 Anniversaryプロローグ課題] 「僕らは今のなかで」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015205", /*message*/"[2.5 Anniversaryプロローグ課題] 「青空Jumping Heart」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015206", /*message*/"[2.5 Anniversaryプロローグ課題] 「虹色Passions！」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
