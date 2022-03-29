@@ -12,7 +12,7 @@ INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_co
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_facial", /*pack_name*/"br3i18", /*head*/0, /*size*/10620, /*key1*/480124395, /*key2*/-2009110711);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_preset", /*pack_name*/"br3i18", /*head*/10620, /*size*/1546, /*key1*/1767625149, /*key2*/-1100016797);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_constants", /*pack_name*/"s2wvq8", /*head*/4236704, /*size*/424, /*key1*/-1076448259, /*key2*/-711846942);
-INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_sound_constants", /*pack_name*/"g3f48h", /*head*/0, /*size*/5753, /*key1*/780690821, /*key2*/1443901874);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_sound_constants", /*pack_name*/"y8lrpp", /*head*/0, /*size*/5799, /*key1*/-1969185950, /*key2*/1374758561);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_unique_dress", /*pack_name*/"xxpd3z", /*head*/8085, /*size*/2525, /*key1*/1149128864, /*key2*/-1062180470);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Macro/llas_macro", /*pack_name*/"s2wvq8", /*head*/4236704, /*size*/0, /*key1*/1563031034, /*key2*/-847995044);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"Macro/llas_voice_effect", /*pack_name*/"s2wvq8", /*head*/4236489, /*size*/215, /*key1*/-1475540312, /*key2*/155817432);
