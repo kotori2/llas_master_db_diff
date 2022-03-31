@@ -2252,6 +2252,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015206", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015301", /*message*/"[2.5 Anniversary課題] μ&apos;sのみのライブ編成でライブを3回クリアする※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015302", /*message*/"[2.5 Anniversary課題] Aqoursのみのライブ編成でライブを3回クリアする※スキップチケット対象外");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015303", /*message*/"[2.5 Anniversary課題] ニジガクのみのライブ編成でライブを3回クリアする※スキップチケット対象外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015401", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015402", /*message*/"[ビッグライブ課題] 「Oh,Love＆Peace!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015403", /*message*/"[ビッグライブ課題] 「Landing action Yeah!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*message*/"[ビッグライブ課題] 「L！L！L！ (Love the Life We Live)」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
