@@ -6,6 +6,8 @@ CREATE TABLE m_live_movie(
   PRIMARY KEY (live_id, codec),
   FOREIGN KEY (live_id) REFERENCES m_live(live_id)
 );
+INSERT INTO `m_live_movie` VALUES (/*live_id*/12100, /*codec*/"h264", /*movie_asset_path*/"40j", /*stage_background_asset_path*/"I=u");
+INSERT INTO `m_live_movie` VALUES (/*live_id*/12100, /*codec*/"prime", /*movie_asset_path*/"yq?", /*stage_background_asset_path*/"I=u");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92999, /*codec*/"h264", /*movie_asset_path*/"uD5", /*stage_background_asset_path*/"Bl7");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92999, /*codec*/"prime", /*movie_asset_path*/"}qi", /*stage_background_asset_path*/"Bl7");
 INSERT INTO `m_live_movie` VALUES (/*live_id*/92998, /*codec*/"h264", /*movie_asset_path*/"Bs}", /*stage_background_asset_path*/"Bl7");
