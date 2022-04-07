@@ -1674,6 +1674,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002712", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002713", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002714", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002715", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002801", /*message*/"「Just Believe!!! （12人ver.）」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002802", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002803", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002804", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002805", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401002806", /*message*/"期間中3回ログインボーナスを受け取る");
@@ -2499,7 +2502,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900005", /*message*/"キズナエピソードを50話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900006", /*message*/"キズナエピソードを100話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900007", /*message*/"キズナエピソードを150話視聴する");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301000001", /*message*/"スクフェスID連携を行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100001", /*message*/"プレイヤーランクを5にする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100002", /*message*/"プレイヤーランクを10にする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301100003", /*message*/"プレイヤーランクを15にする");
@@ -3837,7 +3839,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310200023", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"キズナLv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"アクセサリー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"キャンペーン");
-INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_12", /*message*/"ID連携");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_13", /*message*/"ライブ編成");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_16", /*message*/"コンプリート課題");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_18", /*message*/"ライブ");

@@ -115,7 +115,7 @@ No. 1
 Processed personal data: IP address, UUID (universal unique identifier) , and Instance IDs
 Purpose: to identify you as a game user and provide you our Game Services
 No. 2
-Processed personal data: Game Center ID, Google ID, SIFID, or Facebook ID
+Processed personal data: Game Center ID, Google ID or Facebook ID
 Purpose: to enable you to save and continue your games within your profile across multiple devices
 No. 3
 Processed personal data: IP address, your country (no other geographical information will be included), and other similar technologies
@@ -597,7 +597,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"apple_privacy_policy", /*message*/"プ
 取得方法：	本アプリ上において、お客様による生年月日のご入力により取得します。
 
 （３）本アプリのサービス提供のうち、端末間でのデータ連携機能のため
-取得する利用者情報：	お客様の操作に応じ、Game Center ID (TOKEN)またはスクフェスID (登録いただいているメールアドレス)
+取得する利用者情報：	お客様の操作に応じ、Game Center ID (TOKEN)
 取得方法：	本アプリ上において、お客様によるデータ連携操作が行われた際に取得します。
 
 （４）広告効果測定のため
