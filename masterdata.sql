@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"1afcae5a0f335dc8ec9daa1a85beb543b9f8483a", /*hash*/"d13626e013934906b6d487d01865bd1b6f232a76", /*size*/9941373);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"abb51c70a102f4b97b00372d12323c249b98cab1", /*hash*/"6cc21d9a86dda6a9098dbf7f110fbb8bc79a1939", /*size*/9941619);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"4823e024c5e8b2fd9877502e534686432e2808cb", /*hash*/"6de48342ccf473ee43399521ec02edaa2a4dea92", /*size*/1517583);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"5633b37c91e935b22f33c9a53b14aa2600771564", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"6b002b166fe6d0208fd7263548053315751ddd36", /*hash*/"6bf92a8d1489ca402a6dab54a8e3b33b1e6b152f", /*size*/190249);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"b657
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"a1bf9da44c52ecbaf3d1fe3cef28da080bcffcf9", /*hash*/"5f02e019393cbd028b697d78f43422de04c5ff53", /*size*/10418);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"93dc4d688cc32c67cb3595c626f85342abe04578", /*hash*/"28f6906f39e479441dce90695b016ff10fa0b644", /*size*/38254);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"c7635d888da2a5dfb673a2c36af9e75921ab5c5c", /*hash*/"8a90cd07dd0b65f988b238654b85ba9d8bec9865", /*size*/82574);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"b9c4689d7f28f3bf00f81484a38c34694244c3c2", /*hash*/"d006da318c6176229d8ae43393a03a85fa807400", /*size*/13289728);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"4b2279ba7758e76e832b90e4120c9b19d28ae3de", /*hash*/"f41122b3ab933aef8c3f71f67728542dc72fff35", /*size*/13291292);
