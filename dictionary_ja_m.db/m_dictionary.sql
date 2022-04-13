@@ -1768,7 +1768,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000605", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000701", /*message*/"[CYaRon！ First LOVELIVE! 課題] 高海 千歌が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000702", /*message*/"[CYaRon！ First LOVELIVE! 課題] 渡辺 曜が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000703", /*message*/"[CYaRon！ First LOVELIVE! 課題] 黒澤 ルビィが含まれるSP特技を20回使う");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] 「元気全開DAY!DAY!DAY!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000704", /*message*/"[CYaRon！ First LOVELIVE! 課題] 「元気全開DAY！DAY！DAY！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000705", /*message*/"[CYaRon！ First LOVELIVE! 課題] 「Braveheart Coaster」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000801", /*message*/"[AZALEA First LOVELIVE! 課題] 松浦 果南が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000802", /*message*/"[AZALEA First LOVELIVE! 課題] 黒澤 ダイヤが含まれるSP特技を20回使う");
@@ -1789,7 +1789,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000911", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900000912", /*message*/"[Sing &amp; Smile!! 発売記念！] 天王寺 璃奈が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001001", /*message*/"[スクフェスシリーズ感謝祭 2020] 「KOKORO Magic “A to Z”」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001101", /*message*/"[ハーフアニバーサリー記念！] 「NO EXIT ORION」を5回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001102", /*message*/"[ハーフアニバーサリー記念！] 「元気全開DAY!DAY!DAY!」を5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001102", /*message*/"[ハーフアニバーサリー記念！] 「元気全開DAY！DAY！DAY！」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001103", /*message*/"[ハーフアニバーサリー記念！] 「夢への一歩」を5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001104", /*message*/"[ハーフアニバーサリー記念！]Step1 期間中1回ログインボーナスを受け取る");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900001105", /*message*/"[ハーフアニバーサリー記念！]Step2 期間中2回ログインボーナスを受け取る");
@@ -2274,6 +2274,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015404", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015501", /*message*/"[夢が僕らの太陽さ配信記念課題] 「夢が僕らの太陽さ」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015601", /*message*/"[Eutopia配信記念課題] 「Eutopia」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015701", /*message*/"[Colorful Dreams! Colorful Smiles!配信記念課題] 「Colorful Dreams! Colorful Smiles!」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2568,9 +2571,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400049", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400050", /*message*/"「青空Jumping Heart」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400051", /*message*/"「青空Jumping Heart」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400052", /*message*/"「青空Jumping Heart」を100回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400053", /*message*/"「元気全開DAY!DAY!DAY!」を10回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400054", /*message*/"「元気全開DAY!DAY!DAY!」を50回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400055", /*message*/"「元気全開DAY!DAY!DAY!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400053", /*message*/"「元気全開DAY！DAY！DAY！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400054", /*message*/"「元気全開DAY！DAY！DAY！」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400055", /*message*/"「元気全開DAY！DAY！DAY！」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400056", /*message*/"「Strawberry Trapper」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400057", /*message*/"「Strawberry Trapper」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400058", /*message*/"「Strawberry Trapper」を100回クリアする");
@@ -4177,6 +4180,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_1", /*message*/"ラ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053001_2", /*message*/"かわいくなりたい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_1", /*message*/"心を満たす食事");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053002_2", /*message*/"ラーメンパワー！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_1", /*message*/"キャットハットトラップ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300053003_2", /*message*/"いざ行かん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062001_1", /*message*/"にこちゃんはにこちゃん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300062002_1", /*message*/"いつだって、私らしく");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"ときめく靴音");
@@ -4293,6 +4298,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_2", /*message*/"と
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"手と手を取り合って");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"私の大好きなもの☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"まだまだ慣れない");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072004_1", /*message*/"A・ZU・NAの日常");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"氷の絆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"熱血MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073002_1", /*message*/"もっと、遠くまで");
