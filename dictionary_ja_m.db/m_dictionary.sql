@@ -2277,6 +2277,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015701", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015901", /*message*/"[LoveLive! Sunshine!! Watanabe You Second Solo Concert Album発売記念課題] 「恋になりたいAQUARIUM」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015902", /*message*/"[LoveLive! Sunshine!! Watanabe You Second Solo Concert Album発売記念課題] 渡辺 曜が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
