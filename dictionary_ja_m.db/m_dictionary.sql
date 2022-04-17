@@ -2279,6 +2279,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015802", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015901", /*message*/"[LoveLive! Sunshine!! Watanabe You Second Solo Concert Album発売記念課題] 「恋になりたいAQUARIUM」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900015902", /*message*/"[LoveLive! Sunshine!! Watanabe You Second Solo Concert Album発売記念課題] 渡辺 曜が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900016001", /*message*/"[NEO SKY NEO MAP アニメ挿入曲放映記念課題] 「NEO SKY, NEO MAP!」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900016101", /*message*/"[ENJOY IT！配信記念課題] 「ENJOY IT！」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2960,6 +2962,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400475", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400476", /*message*/"「Eutopia」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400477", /*message*/"「Eutopia」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400478", /*message*/"「Eutopia」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400479", /*message*/"「ENJOY IT！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400480", /*message*/"「ENJOY IT！」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400481", /*message*/"「ENJOY IT！」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -4843,6 +4848,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"朝香果林 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"上原歩夢 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"中須かすみ 新衣装解放特訓セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"桜坂しずく 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"獲得したアイテムを使って<color value=\"#ffa800\">特訓</color>することで
 新衣装の獲得、スクールアイドルの覚醒などが行えます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"特訓アイテム獲得");
@@ -4865,6 +4871,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　いつもエマにお世話をしてもらっている果林。このままではいけないと思い、自立しようとする果林だったが……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"　ある日の部活終わり、あなたはふと歩夢に「歩夢はこれから先どんなスクールアイドルになりたいか？」と聞く。そして以前同じ質問をしたときのことを思い出す……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"　あなたとのお出かけに持っていくコッペパンの、新作レシピが思いつかないかすみは悩んでいた……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"　しずくからあるお願いをされたあなた。お願いの内容は「バレーボールの練習」……！？　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"どんな思い出も……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"負けないぞ！　一年生トリオ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"あの子のために！");
@@ -4880,6 +4887,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"持ちつ持たれつ……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"なりたい私");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"心からの感謝を、あなたに");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"応援があれば！　なんだって！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"みんなで叶える物語");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新生徒会長の無理難題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目指せスクフェス！
