@@ -2332,6 +2332,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017101", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017201", /*message*/"[La Bella Patria配信記念課題] 「La Bella Patria」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017301", /*message*/"[ツナガルコネクト配信記念課題] 「ツナガルコネクト」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017401", /*message*/"[Infinity！Our wings!!配信記念課題] 「Infinity！Our wings!!」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017501", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017502", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -4328,6 +4331,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082002_1", /*message*/"サ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301082003_1", /*message*/"二人の負けず嫌い");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_1", /*message*/"シャイニーなステージ、作りましょ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083001_2", /*message*/"ダンスダンス！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_1", /*message*/"淑女の嗜み？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301083002_2", /*message*/"熱くさせて！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301092001_1", /*message*/"あの夏の約束");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"デートのお誘い？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"恥ずかしくて死んじゃいます");
@@ -4373,6 +4378,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072001_1", /*message*/"手
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072002_1", /*message*/"私の大好きなもの☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072003_1", /*message*/"まだまだ慣れない");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072004_1", /*message*/"A・ZU・NAの日常");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302072005_1", /*message*/"おいしくなって！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_1", /*message*/"氷の絆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073001_2", /*message*/"熱血MC");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302073002_1", /*message*/"もっと、遠くまで");
