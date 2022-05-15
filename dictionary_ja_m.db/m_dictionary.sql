@@ -2335,6 +2335,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017401", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017501", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017502", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017601", /*message*/"[EMOTION配信記念課題] 「EMOTION」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3029,6 +3030,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400487", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400488", /*message*/"「Infinity！Our wings!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400489", /*message*/"「Infinity！Our wings!!」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400490", /*message*/"「Infinity！Our wings!!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400491", /*message*/"「EMOTION」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400492", /*message*/"「EMOTION」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400493", /*message*/"「EMOTION」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -4943,6 +4947,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"朝香果林 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_5", /*message*/"宮下 愛 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_6", /*message*/"近江彼方 新衣装解放特訓セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_7", /*message*/"優木せつ菜 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_message", /*message*/"獲得したアイテムを使って<color value=\"#ffa800\">特訓</color>することで
 新衣装の獲得、スクールアイドルの覚醒などが行えます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_suggestion_title", /*message*/"特訓アイテム獲得");
@@ -4969,6 +4974,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"　果林が読者モデルとして出ている雑誌で「あなたの大切な人との記念写真」という企画をすることになった。その果林の「大切な人」に選ばれたのは……！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_5", /*message*/"　前日の愛のライブの余韻が抜けないあなた。愛のライブではいつも「最高に楽しい」を更新してくれるんだ、と愛に伝えると……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_6", /*message*/"　彼方の家にお呼ばれしたあなた。彼方は今日あなたに極上の眠りを約束すると言っていて……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_7", /*message*/"　部室でスマホを触っていたせつ菜に声をかけたあなた。せつ菜がやっていたのは、仲良し度診断アプリ……！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_1", /*message*/"どんな思い出も……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_10", /*message*/"負けないぞ！　一年生トリオ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_11", /*message*/"あの子のために！");
@@ -4988,6 +4994,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"秘密のスナップ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_5", /*message*/"見たことのない景色");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_6", /*message*/"極上をあなたに！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_7", /*message*/"気になる仲良し度");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_1", /*message*/"みんなで叶える物語");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_10", /*message*/"新生徒会長の無理難題！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_11", /*message*/"目指せスクフェス！
