@@ -2358,6 +2358,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017503", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017601", /*message*/"[EMOTION配信記念課題] 「EMOTION」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017701", /*message*/"[stars we chase配信記念課題] 「stars we chase」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017801", /*message*/"[TOKIMEKI Runners アニメ挿入曲放映記念課題] 「TOKIMEKI Runners」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017901", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017902", /*message*/"[ビッグライブ課題] 「ユメノトビラ」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017903", /*message*/"[ビッグライブ課題] 「君のこころは輝いてるかい？」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*message*/"[ビッグライブ課題] 「虹色Passions！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
