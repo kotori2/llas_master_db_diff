@@ -1417,6 +1417,7 @@ INSERT INTO `metapack` VALUES (/*metapack_name*/"xdxkj0", /*file_size*/84708, /*
 INSERT INTO `metapack` VALUES (/*metapack_name*/"eywood", /*file_size*/1196032, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"09o26j", /*file_size*/296960, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"11u3en", /*file_size*/151918, /*category*/2);
+INSERT INTO `metapack` VALUES (/*metapack_name*/"ce9nhz", /*file_size*/832000, /*category*/1);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"s8fads", /*file_size*/145446, /*category*/4);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"ua76aw", /*file_size*/129828, /*category*/2);
 INSERT INTO `metapack` VALUES (/*metapack_name*/"bku8va", /*file_size*/3854848, /*category*/1);
