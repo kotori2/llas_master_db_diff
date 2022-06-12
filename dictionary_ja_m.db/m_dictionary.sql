@@ -2380,6 +2380,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900017904", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018001", /*message*/"[Love U my friends アニメ挿入曲放映記念課題] 「Love U my friends」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018101", /*message*/"[LoveLive! Sunshine!! Ohara Mari Second Solo Concert Album発売記念課題] 「Hop? Stop? Nonstop!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018102", /*message*/"[LoveLive! Sunshine!! Ohara Mari Second Solo Concert Album発売記念課題] 小原 鞠莉が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018201", /*message*/"[未来ハーモニー アニメ挿入曲放映記念課題] 「未来ハーモニー」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -5018,6 +5019,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_9
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900001_9", /*message*/"朝香果林 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_1", /*message*/"上原歩夢 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_10", /*message*/"三船栞子 新衣装解放特訓セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_12", /*message*/"ミア・テイラー 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_2", /*message*/"中須かすみ 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_3", /*message*/"桜坂しずく 新衣装解放特訓セット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_cell_first_reward_name_900002_4", /*message*/"朝香果林 新衣装解放特訓セット");
@@ -5048,6 +5050,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_8", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900001_9", /*message*/"　いつもエマにお世話をしてもらっている果林。このままではいけないと思い、自立しようとする果林だったが……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*message*/"　ある日の部活終わり、あなたはふと歩夢に「歩夢はこれから先どんなスクールアイドルになりたいか？」と聞く。そして以前同じ質問をしたときのことを思い出す……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*message*/"　栞子と二人でファミレスに来たあなた。そこで栞子がドリンクバーでオリジナルドリンクを作ってくれた。栞子にとってファミレスのオリジナルドリンクには思い入れがあるようで……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"　新曲を作っているミア。次のミアの新曲か？とあなたが尋ねるも違うという。ミアが作っている曲はお姉さんの曲……！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"　あなたとのお出かけに持っていくコッペパンの、新作レシピが思いつかないかすみは悩んでいた……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"　しずくからあるお願いをされたあなた。お願いの内容は「バレーボールの練習」……！？　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"　果林が読者モデルとして出ている雑誌で「あなたの大切な人との記念写真」という企画をすることになった。その果林の「大切な人」に選ばれたのは……！");
@@ -5071,6 +5074,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_8", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900001_9", /*message*/"持ちつ持たれつ……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*message*/"なりたい私");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"あなたのイメージ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"キミのおかげ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"心からの感謝を、あなたに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"応援があれば！　なんだって！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"秘密のスナップ");
