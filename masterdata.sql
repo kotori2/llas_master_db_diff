@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"5d625592d37fa5d52be6d99c46047b24da2ae8c3", /*hash*/"86ea0f13c35f0d18bf1795856db9bdd621cf7161", /*size*/10281639);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"fb1d1f6a7a35c4d548c2bcbc8f1a0e3e5df6fd0b", /*hash*/"a1114e45dd20b49f9c887acec16364817a605738", /*size*/10281748);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"60d1addef99ac4d8b7c26c5ff0553581cf5bbae1", /*hash*/"ae6f7101158c26e0957126fe4aed272c15359f73", /*size*/1596488);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"54672e2df55ab3c9bd87894f71c76ae544896743", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"0e024542b8d8036ac7d11dcd012a73d1164d8914", /*hash*/"6b2cfdd430628db388043c9df922b76b01c519b1", /*size*/199014);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"fd04
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"d4fd58abe509f5f766a9a1b5fc0d65c449cbc5a3", /*hash*/"073c99732bec7f09dbb6edfd7843e53f47c72014", /*size*/10448);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"2d8aa2c9c91ed6bdcd0a4176bf3aae52adee8308", /*hash*/"f181e55704263f03824235f7ca89c526cbdd6ed6", /*size*/38385);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"c7635d888da2a5dfb673a2c36af9e75921ab5c5c", /*hash*/"4179f96f039712f6206fbb1f37aa36fd9e781889", /*size*/82574);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"298bc2141c22b0077bdf487013678ae5fdc80516", /*hash*/"e7e43c58e9a3da4208bf6be322fabd513df9770d", /*size*/14070016);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"7f482f9dd4eb0796b8b14d7c42f9e79837f3ba1d", /*hash*/"6551706e9bcd7b4003e07feae168ca1f17504dae", /*size*/14069560);
