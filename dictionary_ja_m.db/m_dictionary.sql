@@ -2404,6 +2404,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018401", /*message*/"[Future Parade配信記念課題] 「Future Parade」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018601", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「夢が僕らの太陽さ」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018602", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「Eutopia」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018603", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「Colorful Dreams! Colorful Smiles!」を1回クリアする");
@@ -3119,6 +3120,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400496", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400497", /*message*/"「A song for You! You? You!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400498", /*message*/"「A song for You! You? You!!」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400499", /*message*/"「A song for You! You? You!!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400500", /*message*/"「Future Parade」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400501", /*message*/"「Future Parade」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message*/"「Future Parade」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -5099,6 +5103,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_1", /*mes
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_10", /*message*/"　栞子と二人でファミレスに来たあなた。そこで栞子がドリンクバーでオリジナルドリンクを作ってくれた。栞子にとってファミレスのオリジナルドリンクには思い入れがあるようで……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_11", /*message*/"　新曲を作っているミア。次のミアの新曲か？とあなたが尋ねるも違うという。ミアが作っている曲はお姉さんの曲……！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_12", /*message*/"　ある日のショッピングモール、ランジュとあなたはお買い物に来ていた。ランジュは同好会メンバーへのプレゼントを探しているようで…");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_13", /*message*/"　音楽科の課外授業である「スクールコンサート」の練習をしているあなた。ただそんな最近のあなたを見て、歩夢は少し心配しているようで……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_2", /*message*/"　あなたとのお出かけに持っていくコッペパンの、新作レシピが思いつかないかすみは悩んでいた……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_3", /*message*/"　しずくからあるお願いをされたあなた。お願いの内容は「バレーボールの練習」……！？　");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_summary_900002_4", /*message*/"　果林が読者モデルとして出ている雑誌で「あなたの大切な人との記念写真」という企画をすることになった。その果林の「大切な人」に選ばれたのは……！");
@@ -5124,6 +5129,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_1", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_10", /*message*/"あなたのイメージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_11", /*message*/"キミのおかげ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_12", /*message*/"ランジュは「特別」！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_13", /*message*/"あなたを応援したい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_2", /*message*/"心からの感謝を、あなたに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_3", /*message*/"応援があれば！　なんだって！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_linkage_title_900002_4", /*message*/"秘密のスナップ");
