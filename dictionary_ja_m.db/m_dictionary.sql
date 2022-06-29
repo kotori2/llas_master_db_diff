@@ -2640,6 +2640,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800033", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800034", /*message*/"ストーリー37章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800035", /*message*/"ストーリー38章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800036", /*message*/"ストーリー39章をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800037", /*message*/"ストーリー40章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"キズナエピソードを1話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"キズナエピソードを5話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"キズナエピソードを10話視聴する");
@@ -3126,6 +3127,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400502", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400503", /*message*/"「なんどだって約束！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400504", /*message*/"「なんどだって約束！」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400505", /*message*/"「なんどだって約束！」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400506", /*message*/"「Aqours☆HEROES」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400507", /*message*/"「Aqours☆HEROES」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400508", /*message*/"「Aqours☆HEROES」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -5217,6 +5221,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_37", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_38", /*message*/"聞かせて！　ニジガク！　後編");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_39", /*message*/"PVが動かしたキモチ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_4", /*message*/"only our shine・後編");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_40", /*message*/"西へ向かえば");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;sの秘密を探れ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"勝負の行方");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -5256,6 +5261,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_37", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_38", /*message*/"第38章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_39", /*message*/"第39章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_4", /*message*/"第4章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_40", /*message*/"第40章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"第6章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"第7章");
@@ -5639,6 +5645,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_8", /*message*/"�
 　曜と善子が担当する屋台メニューの試作の手伝いに調理室に向かうと、中からものすごい悲鳴が聞こえてきた！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_3_9", /*message*/"　善子考案の個性的なメニューも人並みに収まり一安心のあなた。
 　次のお手伝いはルビィと花丸が担当する沼津の観光案内。花丸の知識の深さに驚くあなたは……。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_1", /*message*/"　沼津でのライブを控えたAqoursは、来てくれるみんなへ向けた冊子作りをはじめていて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_10", /*message*/"　薫子に話を聞いてもらい、少し落ち着いたあなた。仮眠を取り、ついに沼津到着！　シャワーを浴び朝食を摂れば、ライブのことで頭がいっぱい！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_2", /*message*/"　なんだか最近もやもやとしているあなた。寝付きが悪くて寝坊をしてしまう。起こしに来てくれた歩夢と一緒に登校すると……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_3", /*message*/"　ある日の放課後、彼方から試食をしてもらいたいと頼まれたあなた。彼方が用意してくれたものは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_4", /*message*/"　いよいよ今週末はAqoursのライブ！　朝はどこに集まろうかと話しているところへ薫子が現れて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_5", /*message*/"　いよいよ沼津へ出発する夜。薫子は栞子と寮メンバーを乗せてあなたと歩夢の住むマンションへ。ここからひとりずつ迎えに行こう！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_6", /*message*/"　休憩のため寄ったサービスエリア。みんな夜のサービスエリアに興味津々。一体どんなものがあるのかな？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_7", /*message*/"　サービスエリアをたっぷり満喫して出発した同好会のみんな。車内では、テーマトークに花が咲いて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_8", /*message*/"　時間は深夜。楽しそうにおしゃべりをしていたメンバーもみんな眠りについている。あなたはひとり、どうにも眠れないままでいる。すると薫子がそれに気付き……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_40_9", /*message*/"　もやもやする心を薫子に見抜かれたあなた。薫子は自分の経験をあなたに語ってくれた。それを聞いたあなたの胸に浮かぶ想いは……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"　Aqoursの全てを詳細に記録しているダイヤを見て、自分もあんな風に虹ヶ咲のみんなを支えたいと思うあなた。
 　充実した時間はあっという間に過ぎ、
 サマーフェスティバルまで残り１週間となった。");
@@ -6080,6 +6096,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_6", /*message*/"輝
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_7", /*message*/"早朝トレーニング！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_8", /*message*/"ドキドキ！試食大会");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_3_9", /*message*/"沼津ヒストリー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_1", /*message*/"おもてなしは念入りに！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_10", /*message*/"沼津到着！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_2", /*message*/"眩しい朝");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_3", /*message*/"幸せレシピメイキング！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_4", /*message*/"薫子の秘策");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_5", /*message*/"マイクロバスに乗り込んで");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_6", /*message*/"ワクワクのサービスエリア！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_7", /*message*/"夜更けのテーマトーク！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_8", /*message*/"薫子のはじまり");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_40_9", /*message*/"朝もやの中に立つ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"高まる期待");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"別れの朝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"お祭りを創るもの");
