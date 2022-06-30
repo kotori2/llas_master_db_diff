@@ -2405,6 +2405,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018301", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018401", /*message*/"[Future Parade配信記念課題] 「Future Parade」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018501", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018502", /*message*/"[ビッグライブ課題] 「No brand girls」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018503", /*message*/"[ビッグライブ課題] 「MY舞☆TONIGHT」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018504", /*message*/"[ビッグライブ課題] 「夢への一歩」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018601", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「夢が僕らの太陽さ」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018602", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「Eutopia」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018603", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「Colorful Dreams! Colorful Smiles!」を1回クリアする");

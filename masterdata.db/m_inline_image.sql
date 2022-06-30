@@ -20,6 +20,7 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32027/tex_event_logo_32027", /*path*/"\%d");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32028/tex_event_logo_32028", /*path*/"I9Z");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32029/tex_event_logo_32029", /*path*/".!K");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Event/Coop/32030/tex_event_logo_32030", /*path*/"SwE");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Icon/tex_commmon_strategy_attribute_1", /*path*/"KG");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Icon/tex_commmon_strategy_attribute_2", /*path*/"6+");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/Icon/tex_commmon_strategy_attribute_3", /*path*/"zD");
