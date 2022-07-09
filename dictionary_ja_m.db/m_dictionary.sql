@@ -2434,6 +2434,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018607", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018608", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「stars we chase」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018609", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「虹色Passions！」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018610", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「NEO SKY, NEO MAP!」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018701", /*message*/"[LoveLive! Sunshine!! Tsushima Yoshiko Second Solo Concert Album発売記念課題] 「コワレヤスキ」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018702", /*message*/"[LoveLive! Sunshine!! Tsushima Yoshiko Second Solo Concert Album発売記念課題] 津島 善子が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
