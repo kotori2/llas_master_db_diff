@@ -2436,6 +2436,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018609", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018610", /*message*/"[「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ楽曲振り返り課題] 「NEO SKY, NEO MAP!」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018701", /*message*/"[LoveLive! Sunshine!! Tsushima Yoshiko Second Solo Concert Album発売記念課題] 「コワレヤスキ」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018702", /*message*/"[LoveLive! Sunshine!! Tsushima Yoshiko Second Solo Concert Album発売記念課題] 津島 善子が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018801", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018802", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2497,6 +2500,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33020_000", /*message*/"ドリームライブパレード～スキルタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"ドリームライブパレード- 1年生オンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"ドリームライブパレード- 1年生オンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"ドリームライブパレード- 2年生オンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"ドリームライブパレード- 2年生オンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -4443,6 +4448,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082002_1", /*message*/"図
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300082003_1", /*message*/"大好き！　スクールアイドル！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_1", /*message*/"やきもち？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083001_2", /*message*/"ふわふわなきもち");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083002_1", /*message*/"夏に舞う雪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300083002_2", /*message*/"Popping street!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092001_1", /*message*/"秘密の努力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300092002_1", /*message*/"クッキング矢澤");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300093001_1", /*message*/"ラブニコ弁当♡");
@@ -4523,6 +4530,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"か
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"あなただから甘えたくて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_2", /*message*/"いつもと違うわたし");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032001_1", /*message*/"お芝居を愛してる！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302032002_1", /*message*/"勉強熱心！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_1", /*message*/"大切な時間");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302033001_2", /*message*/"魂のきらめき");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042001_1", /*message*/"平和的で刺激的");
