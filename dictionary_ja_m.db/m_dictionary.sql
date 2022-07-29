@@ -4086,6 +4086,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300020", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300021", /*message*/"「ダイアモンド」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300022", /*message*/"「あなたの理想のヒロイン」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message*/"「Starlight」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"「Angelic Angel」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「恋になりたいAQUARIUM」の難易度［チャレンジ］をSランクでクリアする");
@@ -4278,6 +4279,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"夢
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_2", /*message*/"あなたの天使になりたい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_1", /*message*/"知らない道、知らない場所");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_2", /*message*/"藤波の花は盛りになりにけり");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_1", /*message*/"優しいお姉ちゃん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073003_2", /*message*/"希パワー最大注入♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082001_1", /*message*/"秘密の早朝特訓！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200082002_1", /*message*/"日の射す教室で");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200083001_1", /*message*/"あなたと一緒の歌");
@@ -4297,6 +4300,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_1", /*message*/"海
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013001_2", /*message*/"会いたかった！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_1", /*message*/"目指せ、ホームラン！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201013002_2", /*message*/"お花いっぱいの庭園で……");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201022001_1", /*message*/"スランプの解決方法");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_1", /*message*/"あなたの声をずっと聞いていたい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023001_2", /*message*/"大人の女性になれてる？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201023002_1", /*message*/"決めポーズ考案会");
@@ -4395,6 +4399,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_1", /*message*/"笑
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083001_2", /*message*/"一緒におどろう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_1", /*message*/"駄菓子屋さんへGO！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083002_2", /*message*/"陽だまりの逢瀬");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_1", /*message*/"エマのラジオ体操");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202083003_2", /*message*/"はじける人魚姫");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202092001_1", /*message*/"前のめり野球観戦");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_1", /*message*/"自然体で、あなたと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093001_2", /*message*/"今までと、今");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202093002_1", /*message*/"あなたと練習");
