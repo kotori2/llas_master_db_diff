@@ -2461,6 +2461,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018802", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018803", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018901", /*message*/"[LoveLive! Sunshine!! Takami Chika Third Solo Concert Album発売記念課題] 「青空Jumping Heart」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900018902", /*message*/"[LoveLive! Sunshine!! Takami Chika Third Solo Concert Album発売記念課題] 高海 千歌が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019001", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019002", /*message*/"[ビッグライブ課題] 「A song for You! You? You!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019003", /*message*/"[ビッグライブ課題] 「トリコリコPLEASE!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019004", /*message*/"[ビッグライブ課題] 「La Bella Patria」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
