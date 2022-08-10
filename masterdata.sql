@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"daea8fadbab80594ff3f417d1a15dc74615c43b2", /*hash*/"c6932bb8376a36f212322a72210ea8196f31854f", /*size*/10540927);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"fe8c2012eab562caeeb1126ef3264a6c1fb96814", /*hash*/"e224fb1f4a204d104a4f5544dde4c60837b39078", /*size*/10540928);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"71b13008ab82ced35b8451240b3ee8c0706a47a9", /*hash*/"8745ba004bdfa5011f1aae59283139715f5a53b2", /*size*/1655820);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"7c359d748b8d7a0b8c599ce77ece90b74a73994c", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"21c29df84e14db69d2f4f23f205165e0e1808279", /*hash*/"42444698f435d84a4e9625f1dd5c3f091c445c99", /*size*/206957);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"3341
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"2d36b9973edb3854aefea67f9f57fab870f28e47", /*hash*/"8899cf98f7a0f14184337654f29f491b80cedeb5", /*size*/10560);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"2d8aa2c9c91ed6bdcd0a4176bf3aae52adee8308", /*hash*/"7723717b3527729ca3d2ed3f61322cf0abb68c13", /*size*/38385);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"2f6d09dc981a7d0a4fca42f8020f3e45ccb9243f", /*hash*/"b628a6d0c2f171fc326a0fb9ab3898a864542f67", /*size*/84008);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"0f4b5921f83d1cebe04a9af5aa85a8d8daaae9b5", /*hash*/"94db388de400d0dd364160fe4787eed5fb18a25b", /*size*/14591783);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"ef35252771ac3ff4ca5f5c1ef5df28e0599b77b4", /*hash*/"e0e7987a00934719971a3a7bd33e54616ab0f0a7", /*size*/14592706);
