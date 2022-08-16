@@ -3238,6 +3238,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400541", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400542", /*message*/"「ツナガルコネクト」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400543", /*message*/"「ツナガルコネクト」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400544", /*message*/"「ツナガルコネクト」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400545", /*message*/"「Make-up session ABC」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400546", /*message*/"「Make-up session ABC」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400547", /*message*/"「Make-up session ABC」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
