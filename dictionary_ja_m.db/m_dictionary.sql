@@ -4177,6 +4177,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400004", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message*/"「Love U my friends」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"「虹色Passions！」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"「NEO SKY, NEO MAP!」の難易度［チャレンジ］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"「LOVELESS WORLD」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"キズナLv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"アクセサリー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"キャンペーン");
