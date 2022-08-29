@@ -4347,6 +4347,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_1", /*message*/"あ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043001_2", /*message*/"キリリと凛と！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_1", /*message*/"ヘアアレンジに挑戦！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043002_2", /*message*/"安らぎの場所");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043003_1", /*message*/"体力作り、プラス……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200043003_2", /*message*/"ここで一番……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052001_1", /*message*/"かわいいあの子をゲットしたい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200052002_1", /*message*/"雪の日のテンション");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200053001_1", /*message*/"遊園地デート、行っくにゃ〜！");
@@ -4414,6 +4416,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_1", /*message*/"二
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053003_2", /*message*/"魔法少女曜ちゃん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062001_1", /*message*/"混沌を見つめる水晶");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062002_1", /*message*/"リトルデーモンになるために");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201062003_1", /*message*/"お楽しみ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"堕天使様の優雅な休日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"トモダチ堕天使");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"あなたが選んだ服");
@@ -4461,7 +4464,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_1", /*message*/"素
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043001_2", /*message*/"お仕置きされたい？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043002_1", /*message*/"足湯でリラックス！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043002_2", /*message*/"私のことを");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043003_1", /*message*/"サマーリップの夢");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202043003_2", /*message*/"水鉢の世界");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202052001_1", /*message*/"新しいボード作ろう");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202052002_1", /*message*/"お手のもの！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_1", /*message*/"夜に包まれて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053001_2", /*message*/"メッセージ☆ステージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202053002_1", /*message*/"君と1日中");
