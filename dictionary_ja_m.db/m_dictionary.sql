@@ -2519,6 +2519,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019202", /*message*/"[ビッグライブ課題] 「Dancing stars on me!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019203", /*message*/"[ビッグライブ課題] 「KOKORO Magic “A to Z”」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019204", /*message*/"[ビッグライブ課題] 「Eternal Light」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019301", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2582,6 +2585,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33024_000", /*message*/"ドリームライブパレード- 1年生オンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025", /*message*/"ドリームライブパレード- 2年生オンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33025_000", /*message*/"ドリームライブパレード- 2年生オンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027", /*message*/"ドリームライブパレード　～3rd Anniversary 第一弾～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33027_000", /*message*/"ドリームライブパレード　～3rd Anniversary 第一弾～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -3284,6 +3289,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400550", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400551", /*message*/"「祭花 -saika-」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400552", /*message*/"「祭花 -saika-」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message*/"「祭花 -saika-」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"「コットンキャンディえいえいおー！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"「コットンキャンディえいえいおー！」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"「コットンキャンディえいえいおー！」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
