@@ -3300,6 +3300,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400553", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400554", /*message*/"「コットンキャンディえいえいおー！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400555", /*message*/"「コットンキャンディえいえいおー！」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message*/"「コットンキャンディえいえいおー！」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"「Sweet Eyes」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"「Sweet Eyes」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"「Sweet Eyes」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
