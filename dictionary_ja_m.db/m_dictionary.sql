@@ -4597,6 +4597,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_1", /*message*/"と
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063001_2", /*message*/"衣装作りのポイント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_1", /*message*/"笑顔が見たいから");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063002_2", /*message*/"夢中にさせて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_1", /*message*/"やればできる！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300063003_2", /*message*/"ゲームの世界にご案内");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072001_1", /*message*/"なんでもお見通し！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072002_1", /*message*/"思い出写真");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300072003_1", /*message*/"巫女舞");
@@ -4708,6 +4710,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302053001_2", /*message*/"ラ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062001_1", /*message*/"Dreaming☆Calling");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062002_1", /*message*/"アルバムの意味");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062003_1", /*message*/"癒しの膝枕");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302062004_1", /*message*/"いつだって幸せに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_1", /*message*/"極楽マッサージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063001_2", /*message*/"ねむくなっちゃう服");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302063002_1", /*message*/"彼方ちゃんはここで～す");
