@@ -21,5 +21,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50016_1", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50016_2", /*message*/"ニジガクODAIBAゲーマーズTシャツおでかけプレゼント  2022　なんば店　peat3");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50020", /*message*/"沼津地元愛まつり開催記念キャンペーンおでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50021", /*message*/"アスルクラロ沼津コラボ試合開催記念キャンペーンおでかけプレゼント");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50022", /*message*/"スクフェスシリーズ感謝祭2022 in お台場開催記念おでかけプレゼント");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50023", /*message*/"スクフェスシリーズ感謝祭2022 in 沼津開催記念おでかけプレゼント");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50024", /*message*/"スクフェスシリーズ感謝祭2022 in 原宿開催記念おでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20086305", /*message*/"基本スタミナが3.2%増加
 対象:同属性");
