@@ -2548,9 +2548,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019303", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019401", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019402", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019403", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019501", /*message*/"[Sakurauchi Riko 3rd Solo Concert Album発売記念課題] 「Wake up, Challenger!!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019502", /*message*/"[Sakurauchi Riko 3rd Solo Concert Album発売記念課題] 桜内 梨子が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019601", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019701", /*message*/"[Kurosawa Ruby 3rd Solo Concert Album発売記念課題] 「SKY JOURNEY」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019702", /*message*/"[Kurosawa Ruby 3rd Solo Concert Album発売記念課題] 黒澤 ルビィが含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3327,6 +3331,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400556", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400557", /*message*/"「Sweet Eyes」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400558", /*message*/"「Sweet Eyes」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400559", /*message*/"「Sweet Eyes」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400560", /*message*/"「繚乱！ビクトリーロード（type A）」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400561", /*message*/"「繚乱！ビクトリーロード（type A）」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400562", /*message*/"「繚乱！ビクトリーロード（type A）」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400563", /*message*/"「繚乱！ビクトリーロード（type B）」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400564", /*message*/"「繚乱！ビクトリーロード（type B）」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400565", /*message*/"「繚乱！ビクトリーロード（type B）」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
