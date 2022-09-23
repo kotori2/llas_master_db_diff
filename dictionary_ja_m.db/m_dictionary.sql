@@ -2555,6 +2555,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019602", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019603", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019701", /*message*/"[Kurosawa Ruby 3rd Solo Concert Album発売記念課題] 「SKY JOURNEY」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019702", /*message*/"[Kurosawa Ruby 3rd Solo Concert Album発売記念課題] 黒澤 ルビィが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019801", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019802", /*message*/"[ビッグライブ課題] 「僕らは今のなかで」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019803", /*message*/"[ビッグライブ課題] 「恋になりたいAQUARIUM」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019804", /*message*/"[ビッグライブ課題] 「Just Believe!!! (12人Ver.)」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
