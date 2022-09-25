@@ -3356,6 +3356,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400571", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400572", /*message*/"「SENTIMENTAL StepS」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400573", /*message*/"「SENTIMENTAL StepS」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400574", /*message*/"「SENTIMENTAL StepS」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400575", /*message*/"「SUNNY DAY SONG」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400576", /*message*/"「SUNNY DAY SONG」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400577", /*message*/"「SUNNY DAY SONG」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
