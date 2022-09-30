@@ -2562,6 +2562,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019804", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019901", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019902", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900019903", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020001", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020002", /*message*/"[ビッグライブ課題] 「きっと青春が聞こえる」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020003", /*message*/"[ビッグライブ課題] 「Step! ZERO to ONE」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020004", /*message*/"[ビッグライブ課題] 「Love U my friends」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
