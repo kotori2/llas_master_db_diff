@@ -4292,6 +4292,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300022", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message*/"「Starlight」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"「Angelic Angel」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"「未熟DREAMER」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"「めっちゃGoing!!」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「恋になりたいAQUARIUM」の難易度［チャレンジ］をSランクでクリアする");
