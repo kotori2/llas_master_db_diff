@@ -94,6 +94,7 @@ INSERT INTO `static_text` VALUES (/*textid*/114048164941611648, /*guid*/"170afc2
 INSERT INTO `static_text` VALUES (/*textid*/114212647112875686, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"このアイテムを使用して合宿を開始しますか？");
 INSERT INTO `static_text` VALUES (/*textid*/114860716841669988, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"キャンセル");
 INSERT INTO `static_text` VALUES (/*textid*/5849111119244762042, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"リーダーのひらめき確率上昇");
+INSERT INTO `static_text` VALUES (/*textid*/8755141388048270077, /*guid*/"170afc2311f46462f8bb5973a245af10", /*message*/"※所持数が3つに満たない合宿アイテムは、使用個数分の効果しか適用されません");
 INSERT INTO `static_text` VALUES (/*textid*/1359835400925590393, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"フレンド");
 INSERT INTO `static_text` VALUES (/*textid*/3678103908526161194, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"申請済");
 INSERT INTO `static_text` VALUES (/*textid*/7310389578982375555, /*guid*/"172e8a3b3f3ea48c8865d7eb57e33b88", /*message*/"フレンド申請");
@@ -564,6 +565,7 @@ INSERT INTO `static_text` VALUES (/*textid*/9120550365180952042, /*guid*/"4a5144
 INSERT INTO `static_text` VALUES (/*textid*/934652764954146669, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ON");
 INSERT INTO `static_text` VALUES (/*textid*/971375389761678469, /*guid*/"4a51441cd0dcb4bdca49375a8778426a", /*message*/"ライブ継続モード");
 INSERT INTO `static_text` VALUES (/*textid*/114722923884924688, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"合宿アイテムは各カテゴリで1つずつ選択することができます");
+INSERT INTO `static_text` VALUES (/*textid*/2563485565736250908, /*guid*/"4b2fa590375c84f459cc72519d1cd1b0", /*message*/"※まとめて合宿を行う場合、選択したアイテムを最大3つまで一度に使用します");
 INSERT INTO `static_text` VALUES (/*textid*/105956881, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"ライブ編成");
 INSERT INTO `static_text` VALUES (/*textid*/1133286620, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"合宿");
 INSERT INTO `static_text` VALUES (/*textid*/1157018873, /*guid*/"4b9fafded94c3364bbab99b356fc600b", /*message*/"チャンネル
@@ -828,10 +830,13 @@ INSERT INTO `static_text` VALUES (/*textid*/15972783, /*guid*/"72820e9010b50044a
 INSERT INTO `static_text` VALUES (/*textid*/1706234450, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"持ち込み合宿アイテム");
 INSERT INTO `static_text` VALUES (/*textid*/1989404676, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"合宿開始");
 INSERT INTO `static_text` VALUES (/*textid*/2000875966, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"選択");
+INSERT INTO `static_text` VALUES (/*textid*/2655451982576605579, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"3回まとめて合宿開始");
 INSERT INTO `static_text` VALUES (/*textid*/399542735, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"未選択");
+INSERT INTO `static_text` VALUES (/*textid*/4066105570498460930, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"3回まとめて合宿開始");
 INSERT INTO `static_text` VALUES (/*textid*/433752975, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"リーダーのひらめき確率上昇");
 INSERT INTO `static_text` VALUES (/*textid*/48425924, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"合宿メニューを選択してください");
 INSERT INTO `static_text` VALUES (/*textid*/509975767, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"おすすめ");
+INSERT INTO `static_text` VALUES (/*textid*/531225023, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"リーダーのひらめき確率上昇");
 INSERT INTO `static_text` VALUES (/*textid*/668647043, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"合宿メニューを選択してください");
 INSERT INTO `static_text` VALUES (/*textid*/700405484, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"一括編成");
 INSERT INTO `static_text` VALUES (/*textid*/826709130, /*guid*/"72820e9010b50044a84fe0147ae65cb3", /*message*/"合宿編成詳細");
@@ -983,6 +988,7 @@ INSERT INTO `static_text` VALUES (/*textid*/1071004183, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1071284091, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/>攻略情報");
 INSERT INTO `static_text` VALUES (/*textid*/1111977771, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_info_02\" height=\"24px\" width=\"24px\" offsetY=\"-5px\"/>攻略情報");
 INSERT INTO `static_text` VALUES (/*textid*/1125590343, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"初級");
+INSERT INTO `static_text` VALUES (/*textid*/1153683683, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/1);
 INSERT INTO `static_text` VALUES (/*textid*/1210048123, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"推奨ライブパワー");
 INSERT INTO `static_text` VALUES (/*textid*/1231865400, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"カテゴリ");
 INSERT INTO `static_text` VALUES (/*textid*/1250347822, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"初級");
@@ -997,9 +1003,14 @@ INSERT INTO `static_text` VALUES (/*textid*/1570552134, /*guid*/"9588a3150a5ef47
 INSERT INTO `static_text` VALUES (/*textid*/1820746902, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"しぼり込み条件に<br/>該当する楽曲はありません");
 INSERT INTO `static_text` VALUES (/*textid*/1856839970, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"ドロップアイテム");
 INSERT INTO `static_text` VALUES (/*textid*/1928218035, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"推奨スタミナ");
+INSERT INTO `static_text` VALUES (/*textid*/1982103470, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/2);
+INSERT INTO `static_text` VALUES (/*textid*/2010043157, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/3);
 INSERT INTO `static_text` VALUES (/*textid*/2022083394, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"推奨ライブパワー");
+INSERT INTO `static_text` VALUES (/*textid*/2060633311, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/3);
 INSERT INTO `static_text` VALUES (/*textid*/2102072301, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"中級");
 INSERT INTO `static_text` VALUES (/*textid*/2126735738, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"開催中<br/>キャンペーン");
+INSERT INTO `static_text` VALUES (/*textid*/297385078, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/2);
+INSERT INTO `static_text` VALUES (/*textid*/383243139, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/1);
 INSERT INTO `static_text` VALUES (/*textid*/465449570, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"通常楽曲");
 INSERT INTO `static_text` VALUES (/*textid*/4873949135831627112, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"アイテム");
 INSERT INTO `static_text` VALUES (/*textid*/491890691, /*guid*/"9588a3150a5ef47f780bd59018d5e4f1", /*message*/"上級");
