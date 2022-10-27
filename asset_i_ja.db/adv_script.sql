@@ -8,9 +8,9 @@ CREATE TABLE adv_script(
   PRIMARY KEY (asset_path)
 );
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_bg_constants", /*pack_name*/"01jds3", /*head*/0, /*size*/9110, /*key1*/-1200193447, /*key2*/2074043995);
-INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_constants", /*pack_name*/"i9gxpf", /*head*/9061, /*size*/1078, /*key1*/-2105439666, /*key2*/798388266);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_constants", /*pack_name*/"162uhp", /*head*/0, /*size*/1131, /*key1*/-1827039488, /*key2*/-669747847);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_facial", /*pack_name*/"2fx0lj", /*head*/0, /*size*/10761, /*key1*/-507189963, /*key2*/1754721760);
-INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_preset", /*pack_name*/"i9gxpf", /*head*/10139, /*size*/1564, /*key1*/-1245685595, /*key2*/-1166375121);
+INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_character_preset", /*pack_name*/"162uhp", /*head*/1131, /*size*/1580, /*key1*/733876447, /*key2*/329978274);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_constants", /*pack_name*/"s2wvq8", /*head*/4236704, /*size*/424, /*key1*/-1076448259, /*key2*/-711846942);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_sound_constants", /*pack_name*/"os9huz", /*head*/0, /*size*/6063, /*key1*/1703095311, /*key2*/1331800275);
 INSERT INTO `adv_script` VALUES (/*asset_path*/"ConstantValues/llas_unique_dress", /*pack_name*/"xxpd3z", /*head*/8085, /*size*/2525, /*key1*/1149128864, /*key2*/-1062180470);
