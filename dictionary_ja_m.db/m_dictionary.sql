@@ -3408,6 +3408,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400580", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400581", /*message*/"「POWER SPOT!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400582", /*message*/"「POWER SPOT!!」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400583", /*message*/"「POWER SPOT!!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400584", /*message*/"「Shiny Racers」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400585", /*message*/"「Shiny Racers」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400586", /*message*/"「Shiny Racers」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -4327,6 +4330,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400005", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400006", /*message*/"「虹色Passions！」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400007", /*message*/"「NEO SKY, NEO MAP!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400008", /*message*/"「LOVELESS WORLD」の難易度［チャレンジ］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400009", /*message*/"「MY舞☆TONIGHT」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_1", /*message*/"キズナLv.");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_10", /*message*/"アクセサリー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"mission_name_11", /*message*/"キャンペーン");
