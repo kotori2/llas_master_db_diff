@@ -3438,6 +3438,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400589", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400590", /*message*/"「Happy Nyan! Days」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400591", /*message*/"「Happy Nyan! Days」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400592", /*message*/"「Happy Nyan! Days」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400593", /*message*/"「JIMO-AI Dash!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400594", /*message*/"「JIMO-AI Dash!」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400595", /*message*/"「JIMO-AI Dash!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400596", /*message*/"「Fantastic Departure!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400597", /*message*/"「Fantastic Departure!」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400598", /*message*/"「Fantastic Departure!」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
