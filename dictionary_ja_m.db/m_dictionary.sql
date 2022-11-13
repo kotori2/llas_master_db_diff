@@ -2623,6 +2623,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020201", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020202", /*message*/"[ビッグライブ課題] 「PSYCHIC FIRE」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020203", /*message*/"[ビッグライブ課題] 「未来の僕らは知ってるよ」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020204", /*message*/"[ビッグライブ課題] 「やがてひとつの物語」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020301", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2695,6 +2698,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33029_000", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030", /*message*/"ドリームライブパレード　～3rd Anniversary Next TOKIMEKI！～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33030_000", /*message*/"ドリームライブパレード　～3rd Anniversary Next TOKIMEKI！～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33031", /*message*/"ドリームライブパレード- μ&apos;sオンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032", /*message*/"ドリームライブパレード- Aqoursオンステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33032_000", /*message*/"ドリームライブパレード- Aqoursオンステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -4725,6 +4730,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300023002_2", /*message*/"雪
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032001_1", /*message*/"伝説のメイド、降臨！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032002_1", /*message*/"おねがい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032003_1", /*message*/"ちょっと一休み");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300032004_1", /*message*/"運命の出会い！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一緒にお買い物♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"淑女のように");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033002_1", /*message*/"夏の縁側");
@@ -4860,6 +4866,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042002_1", /*message*/"引
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302042003_1", /*message*/"待ち合わせには少し早く");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_1", /*message*/"目は口ほどに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043001_2", /*message*/"釘付けにしちゃうわよ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043002_1", /*message*/"そこにいてよね");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302043002_2", /*message*/"眩いステージ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052001_1", /*message*/"もんじゃだけに");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052002_1", /*message*/"引っ張り愛");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302052003_1", /*message*/"イメージチェンジ！？");
