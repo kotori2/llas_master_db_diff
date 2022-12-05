@@ -4418,6 +4418,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300023", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300024", /*message*/"「Angelic Angel」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300025", /*message*/"「未熟DREAMER」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message*/"「めっちゃGoing!!」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"「Jump up HIGH!!」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"「眠れる森に行きたいな」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"「Braveheart Coaster」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
