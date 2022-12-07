@@ -1954,6 +1954,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003512", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003513", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003514", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003515", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003601", /*message*/"「Hurray Hurray」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003602", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003603", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003604", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003605", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003606", /*message*/"期間中3回ログインボーナスを受け取る");
@@ -3507,6 +3510,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400610", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400611", /*message*/"「Twinkle Town」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400612", /*message*/"「Twinkle Town」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400613", /*message*/"「Twinkle Town」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400614", /*message*/"「New Romantic Sailors」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400615", /*message*/"「New Romantic Sailors」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400616", /*message*/"「New Romantic Sailors」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -4421,6 +4427,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300026", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300027", /*message*/"「Jump up HIGH!!」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300028", /*message*/"「眠れる森に行きたいな」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300029", /*message*/"「Braveheart Coaster」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message*/"「New Romantic Sailors」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「恋になりたいAQUARIUM」の難易度［チャレンジ］をSランクでクリアする");

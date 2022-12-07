@@ -25,5 +25,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50022", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50023", /*message*/"スクフェスシリーズ感謝祭2022 in 沼津開催記念おでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50024", /*message*/"スクフェスシリーズ感謝祭2022 in 原宿開催記念おでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50025", /*message*/"スクフェスシリーズ感謝祭2022開催記念おでかけプレゼント");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_present_message_50027", /*message*/"東京タワー×スクフェスシリーズ感謝祭アフターパーティーおでかけプレゼント");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20086305", /*message*/"基本スタミナが3.2%増加
 対象:同属性");
