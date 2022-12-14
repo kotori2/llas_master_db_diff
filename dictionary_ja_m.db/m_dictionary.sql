@@ -2671,6 +2671,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020502", /*message*/"[ビッグライブ課題] 「もぎゅっと“love”で接近中!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020503", /*message*/"[ビッグライブ課題] 「元気全開DAY！DAY！DAY！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020504", /*message*/"[ビッグライブ課題] 「Beautiful Moonlight」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020601", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020602", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020603", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
