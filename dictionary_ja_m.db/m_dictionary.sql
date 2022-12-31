@@ -2700,6 +2700,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020704", /*message*/"[期間限定課題] 「SENTIMENTAL StepS」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020705", /*message*/"[期間限定課題] 「JIMO-AI Dash!」を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020706", /*message*/"[期間限定課題] 「EMOTION」を1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020801", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020802", /*message*/"[ビッグライブ課題] 「Angelic Angel」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*message*/"[ビッグライブ課題] 「BANZAI! digital trippers」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[ビッグライブ課題] 「ENJOY IT！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901", /*message*/"[Kurosawa Dia 3rd Solo Concert Album発売記念課題] 「Step! ZERO to ONE」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902", /*message*/"[Kurosawa Dia 3rd Solo Concert Album発売記念課題] 黒澤 ダイヤが含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
