@@ -2718,6 +2718,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020803", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020804", /*message*/"[ビッグライブ課題] 「ENJOY IT！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020901", /*message*/"[Kurosawa Dia 3rd Solo Concert Album発売記念課題] 「Step! ZERO to ONE」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900020902", /*message*/"[Kurosawa Dia 3rd Solo Concert Album発売記念課題] 黒澤 ダイヤが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021001", /*message*/"[UNIT LIVE! ～R3BIRTH R3VOLUTION～ 開催記念課題] 三船 栞子が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021002", /*message*/"[UNIT LIVE! ～R3BIRTH R3VOLUTION～ 開催記念課題] ミア・テイラーが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021003", /*message*/"[UNIT LIVE! ～R3BIRTH R3VOLUTION～ 開催記念課題] ショウ・ランジュが含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
