@@ -58,6 +58,7 @@ INSERT INTO `m_tower_period` VALUES (/*id*/33001032, /*tower_id*/33001, /*start_
 INSERT INTO `m_tower_period` VALUES (/*id*/33001036, /*tower_id*/33001, /*start_at*/1665727200, /*end_at*/1666418400);
 INSERT INTO `m_tower_period` VALUES (/*id*/33001037, /*tower_id*/33001, /*start_at*/1668405600, /*end_at*/1669096800);
 INSERT INTO `m_tower_period` VALUES (/*id*/33001038, /*tower_id*/33001, /*start_at*/1670997600, /*end_at*/1671688800);
+INSERT INTO `m_tower_period` VALUES (/*id*/33001039, /*tower_id*/33001, /*start_at*/1673676000, /*end_at*/1674367200);
 INSERT INTO `m_tower_period` VALUES (/*id*/33002012, /*tower_id*/33002, /*start_at*/1618380000, /*end_at*/1619071200);
 INSERT INTO `m_tower_period` VALUES (/*id*/33002013, /*tower_id*/33002, /*start_at*/1619676000, /*end_at*/1621663200);
 INSERT INTO `m_tower_period` VALUES (/*id*/33002015, /*tower_id*/33002, /*start_at*/1623650400, /*end_at*/1624341600);
