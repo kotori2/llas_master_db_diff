@@ -2747,6 +2747,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021003", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021101", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021102", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021103", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021201", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021202", /*message*/"[ビッグライブ課題] 「KiRa-KiRa Sensation!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021203", /*message*/"[ビッグライブ課題] 「君の瞳を巡る冒険」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021204", /*message*/"[ビッグライブ課題] 「My Own Fairy-Tale」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021301", /*message*/"[UNIT LIVE! ～A・ZU・NA LAGOON～ 開催記念課題] 上原 歩夢が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021302", /*message*/"[UNIT LIVE! ～A・ZU・NA LAGOON～ 開催記念課題] 桜坂 しずくが含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021303", /*message*/"[UNIT LIVE! ～A・ZU・NA LAGOON～ 開催記念課題] 優木 せつ菜が含まれるSP特技を20回使う");
