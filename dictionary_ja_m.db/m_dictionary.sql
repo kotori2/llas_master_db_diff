@@ -2024,6 +2024,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003712", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003713", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003714", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003715", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003801", /*message*/"「ダイヤモンドプリンセスの憂鬱」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003802", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003803", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003804", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003805", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003806", /*message*/"期間中3回ログインボーナスを受け取る");
