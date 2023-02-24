@@ -3686,6 +3686,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400652", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400653", /*message*/"「フォルクロア ～歓喜の歌～」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400654", /*message*/"「フォルクロア ～歓喜の歌～」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400655", /*message*/"「フォルクロア ～歓喜の歌～」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400656", /*message*/"「Shadow Effect」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400657", /*message*/"「Shadow Effect」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message*/"「Shadow Effect」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"「Fly into the sky」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"「Fly into the sky」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"「Fly into the sky」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");

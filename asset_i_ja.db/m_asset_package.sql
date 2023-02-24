@@ -5,7 +5,7 @@ CREATE TABLE m_asset_package(
   PRIMARY KEY (package_key)
 );
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MES/0109/mes_0109_20", /*version*/"2a61c82cb5fdaddeb3b51f29c5dbbb0e8ff26621", /*pack_num*/16);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"411a506921a58804308966115ac7f9986a29bec3", /*pack_num*/13304);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"e275c903209d941c1863d9de6befe82213966b26", /*pack_num*/13308);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0003/mes_0003_24", /*version*/"b00d4777ef27200146ed05d9a29c57aa546c7b9b", /*pack_num*/42);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:102040072", /*version*/"0914babb4eaf4fcb80dbb0226d38fda4db9c8ea6", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MES/0103/mes_0103_26", /*version*/"1566db7c307eef49e58a93bdd6637dcb800d8635", /*pack_num*/28);
@@ -6868,6 +6868,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"love:205_50", /*version*/"
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:102050102", /*version*/"13b6c5a47e8925ca541d56a4081c388216c6c017", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0207/ss_402072001_01", /*version*/"295d6c90da687cac7edf10c2535e8fd387a13e5d", /*pack_num*/9);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0203/ss_302032002_01", /*version*/"a50d0747890136c2ec43a03ab9c9885c617642e9", /*pack_num*/9);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"music:12125", /*version*/"c322de51f597ac3740aff7cc515a73fd0f82bf54", /*pack_num*/2);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:101050081", /*version*/"69d9b83c4e861fe30353cd4dcee684d2092ce21d", /*pack_num*/3);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:ES/0056/es_0056_01", /*version*/"26e05b83a4bcd616271a5158d554e2a948793a43", /*pack_num*/16);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:MES/0211/mes_0211_03", /*version*/"ca81c3fd1f223f37fc9c3969b04bb13b2dcf3e87", /*pack_num*/15);
