@@ -4808,6 +4808,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063001_2", /*message*/"素
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063002_1", /*message*/"大切な、めぐりあわせ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200063002_2", /*message*/"ここは魔法図書館");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200072001_1", /*message*/"希先生の勉強会");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200072002_1", /*message*/"悩ましい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_1", /*message*/"夢中になって♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073001_2", /*message*/"あなたの天使になりたい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_200073002_1", /*message*/"知らない道、知らない場所");
@@ -4859,6 +4860,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_1", /*message*/"ダ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043001_2", /*message*/"キュートにキメて！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_1", /*message*/"弾けろ！　その魂！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043002_2", /*message*/"マジカル・ダイヤ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043003_1", /*message*/"あなたへ贈るメロディ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201043003_2", /*message*/"アートに沈んで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201052001_1", /*message*/"うちっちー？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201052002_1", /*message*/"この時間が幸せ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201053001_1", /*message*/"海色デート☆");
@@ -4875,6 +4878,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_1", /*message*/"堕
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063001_2", /*message*/"トモダチ堕天使");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_1", /*message*/"あなたが選んだ服");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063002_2", /*message*/"天使ヨハネ、降臨！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063003_1", /*message*/"ムーンナイトゴンドラ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201063003_2", /*message*/"NEWヨハネ爆誕！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201072001_1", /*message*/"仲良しへの一歩");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201072002_1", /*message*/"待つ時間も楽しんで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_201073001_1", /*message*/"甘いのはスイーツだけ？");
@@ -4979,6 +4984,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202103003_2", /*message*/"飛
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202113001_1", /*message*/"ランジュのスペシャルドリンク");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202113001_2", /*message*/"ワールドイズマイン");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202122001_1", /*message*/"なかよし試合観戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202122002_1", /*message*/"眠気も吹き飛ぶ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202123001_1", /*message*/"鬼コーチ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_202123001_2", /*message*/"摩天楼の下で");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300012001_1", /*message*/"リーダーの素質");
