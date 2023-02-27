@@ -3050,6 +3050,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800041", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800042", /*message*/"ストーリー45章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800043", /*message*/"ストーリー46章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800044", /*message*/"ストーリー47章をクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300800045", /*message*/"ストーリー48章をクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900001", /*message*/"キズナエピソードを1話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900002", /*message*/"キズナエピソードを5話視聴する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300900003", /*message*/"キズナエピソードを10話視聴する");
@@ -3692,6 +3693,15 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400658", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400659", /*message*/"「Fly into the sky」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400660", /*message*/"「Fly into the sky」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400661", /*message*/"「Fly into the sky」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400662", /*message*/"「ダイヤモンドプリンセスの憂鬱」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400663", /*message*/"「ダイヤモンドプリンセスの憂鬱」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400664", /*message*/"「ダイヤモンドプリンセスの憂鬱」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400665", /*message*/"「Perfect SEKAI」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400666", /*message*/"「Perfect SEKAI」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message*/"「Perfect SEKAI」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"「DREAMY COLOR」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"「DREAMY COLOR」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"「DREAMY COLOR」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -6020,6 +6030,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_44", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_45", /*message*/"４８時間の応援歌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_46", /*message*/"差し伸べて、応える");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_47", /*message*/"ニジガクを選ぶ理由");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_48", /*message*/"他学科授業体験プログラム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_5", /*message*/"μ&apos;sの秘密を探れ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_6", /*message*/"勝負の行方");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_description_7", /*message*/"TOKIMEKI Runners");
@@ -6067,6 +6078,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_44", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_45", /*message*/"第45章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_46", /*message*/"第46章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_47", /*message*/"第47章");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_48", /*message*/"第48章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_5", /*message*/"第5章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_6", /*message*/"第6章");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_chapter_title_7", /*message*/"第7章");
@@ -6534,6 +6546,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_6", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_7", /*message*/"　そろそろニジガクのおすすめポイントも溜まってきた。栞子に提出する前に、一旦立ち止まってみたら……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_8", /*message*/"　生徒会業務のお手伝いで生徒会室に赴いたせつ菜とあなた。でもそこには誰もいなくて……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_47_9", /*message*/"　この数日、いろいろと学園の良いところを探して、ニジガクって本当にすてきな場所だと改めて実感する同好会メンバー。これならニジガクに入学したいと思ってもらえるパンフレットが作れると思うよ、と盛り上がり……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_1", /*message*/"　学園案内パンフレットに足りない要素は、それぞれの学科がどんな授業をするかの具体的な情報だと気付いたあなた。それを言うと栞子は閃いたようで……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_10", /*message*/"　それぞれに他学科授業体験プログラムを楽しんでいる同好会メンバー。とくに愛は全制覇を狙っている。そんな中、美里さんが入院したと聞いた愛は……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_2", /*message*/"　「他学科授業体験プログラム」を提案した栞子。この案を通すための要望書を作ることに。気になる体験プログラムの内容は……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_3", /*message*/"　同好会へ行く途中、部室棟の前でクラスメイトとなにやら話し込むしずくを見かけて……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_4", /*message*/"　国際交流学科の体験プログラムを申し込んだかすみと璃奈。行く前に少しでも英語が得意になりたくてミアにお願いしたら……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_5", /*message*/"　ミアに教えを乞うたかすみと璃奈。その教えを胸に、今日はいよいよ国際交流学科での体験プログラムへ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_6", /*message*/"　国際交流学科での体験プログラムを経験して、いかにしずくがすごいかがわかったかすみたち。しずくがなぜこの学科を選んだのか、理由が気になって……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_7", /*message*/"　とある午前中の授業風景。最近、モデル活動で忙しくしている果林はなんだか眠そうで……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_8", /*message*/"　今日はライフデザイン学科での体験プログラムが行われる日。この日ライフデザイン学科にきたのは……？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_48_9", /*message*/"　ライフデザイン学科の体験プログラムは古着のリメイク。プログラムに参加したエマとランジュが果林、彼方と共に作り上げた衣装は……？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_summary_4_1", /*message*/"　Aqoursの全てを詳細に記録しているダイヤを見て、自分もあんな風に虹ヶ咲のみんなを支えたいと思うあなた。
 　充実した時間はあっという間に過ぎ、
 サマーフェスティバルまで残り１週間となった。");
@@ -7055,6 +7077,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_6", /*message*/"�
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_7", /*message*/"知れば知るほど？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_8", /*message*/"一段、一段、ゆっくりと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_47_9", /*message*/"パンフレットが見えてきた！？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_1", /*message*/"未体験を体験したい！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_10", /*message*/"本当の体験");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_2", /*message*/"おもしろさを知りたい！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_3", /*message*/"その瞳の輝く理由");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_4", /*message*/"裏技を教えて！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_5", /*message*/"国際交流学科を体験！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_6", /*message*/"私の未来を託す選択");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_7", /*message*/"選択させて！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_8", /*message*/"ライフデザイン学科へGO!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_48_9", /*message*/"まっすぐに続く道");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_1", /*message*/"高まる期待");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_10", /*message*/"別れの朝");
 INSERT INTO `m_dictionary` VALUES (/*id*/"story_main_title_4_2", /*message*/"お祭りを創るもの");
