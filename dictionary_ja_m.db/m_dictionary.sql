@@ -2796,6 +2796,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021502", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021503", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021601", /*message*/"[UNIT LIVE! ～DiverDiva GALactic Trip～ 開催記念課題] 朝香 果林が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021602", /*message*/"[UNIT LIVE! ～DiverDiva GALactic Trip～ 開催記念課題] 宮下 愛が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021701", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021702", /*message*/"[ビッグライブ課題] 「Love marginal」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021703", /*message*/"[ビッグライブ課題] 「Future Flight」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021704", /*message*/"[ビッグライブ課題] 「NEO SKY, NEO MAP!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
