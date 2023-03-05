@@ -2926,6 +2926,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33035", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33035_000", /*message*/"ドリームライブパレード～ガードタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036", /*message*/"ドリームライブパレード- ALL STAR -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33036_000", /*message*/"ドリームライブパレード- ALL STAR -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037", /*message*/"ドリームライブパレード- 3.5 Anniversary 1st diary -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33037_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 1st diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
