@@ -2814,6 +2814,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021703", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021704", /*message*/"[ビッグライブ課題] 「NEO SKY, NEO MAP!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021801", /*message*/"[LoveLive! Sunshine!! Kunikida Hanamaru 3rd Solo Concert Album発売記念課題] 「未体験HORIZON」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021802", /*message*/"[LoveLive! Sunshine!! Kunikida Hanamaru 3rd Solo Concert Album発売記念課題] 国木田 花丸が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] スクールアイドルを1回覚醒させる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] スクールアイドルを5回覚醒させる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] スクールアイドルを10回覚醒させる");
