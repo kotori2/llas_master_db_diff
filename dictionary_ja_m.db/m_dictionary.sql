@@ -2059,6 +2059,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003812", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003813", /*message*/"衣装を1着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003814", /*message*/"衣装を2着獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003815", /*message*/"衣装を3着獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003901", /*message*/"「知らないLove＊教えてLove」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003902", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003903", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003904", /*message*/"スクールアイドルを1人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003905", /*message*/"スクールアイドルを2人指定レベル(R:40 SR:60 UR:80)まで上げる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401003906", /*message*/"期間中3回ログインボーナスを受け取る");
@@ -2817,6 +2820,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021802", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021901", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021902", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900021903", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022001", /*message*/"[UNIT LIVE! ～QU4RTZ Fluffy Magic～  開催記念課題] 中須 かすみが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022002", /*message*/"[UNIT LIVE! ～QU4RTZ Fluffy Magic～  開催記念課題] 近江 彼方が含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022003", /*message*/"[UNIT LIVE! ～QU4RTZ Fluffy Magic～  開催記念課題] エマ・ヴェルデが含まれるSP特技を20回使う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022004", /*message*/"[UNIT LIVE! ～QU4RTZ Fluffy Magic～  開催記念課題] 天王寺 璃奈が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022101", /*message*/"[3.5Anniversary] スクールアイドルを1回覚醒させる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022102", /*message*/"[3.5Anniversary] スクールアイドルを5回覚醒させる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022103", /*message*/"[3.5Anniversary] スクールアイドルを10回覚醒させる");
@@ -3756,6 +3763,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400667", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400668", /*message*/"「DREAMY COLOR」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400669", /*message*/"「DREAMY COLOR」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message*/"「DREAMY COLOR」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"「無敵級*ビリーバー」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"「無敵級*ビリーバー」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"「無敵級*ビリーバー」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
