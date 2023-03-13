@@ -5142,6 +5142,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_1", /*message*/"あ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013001_2", /*message*/"ライオン怪獣ちかちー！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_1", /*message*/"ほかほかお布団の誘惑");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013002_2", /*message*/"幸せのおすそわけ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_1", /*message*/"思い浮かべて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301013003_2", /*message*/"IN TO THE WORLD");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022001_1", /*message*/"靴とばししようよ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022002_1", /*message*/"秘密の花園？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301022003_1", /*message*/"愛しのあなた");
@@ -5261,6 +5263,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_1", /*message*/"楽
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302083002_2", /*message*/"はい、お手紙です！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092001_1", /*message*/"璃奈ちゃんボード会議！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092002_1", /*message*/"アランにお任せ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302092003_1", /*message*/"はんぺんのために！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_1", /*message*/"お部屋でVR");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093001_2", /*message*/"エレクトロニックアイドル");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302093002_1", /*message*/"ボードの向こうの素顔");
