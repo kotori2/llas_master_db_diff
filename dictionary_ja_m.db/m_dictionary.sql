@@ -3771,6 +3771,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400670", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400671", /*message*/"「無敵級*ビリーバー」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400672", /*message*/"「無敵級*ビリーバー」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400673", /*message*/"「無敵級*ビリーバー」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400674", /*message*/"「もっとね！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400675", /*message*/"「もっとね！」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400676", /*message*/"「もっとね！」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
