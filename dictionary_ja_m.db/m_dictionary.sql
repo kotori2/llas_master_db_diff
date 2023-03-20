@@ -2877,6 +2877,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022130", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022201", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022202", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022203", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022301", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022302", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022303", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -4719,6 +4722,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300030", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message*/"「Amazing Travel DNA」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"「CHASE!」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"「Evergreen」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"「ドキピポ☆エモーション」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「恋になりたいAQUARIUM」の難易度［チャレンジ］をSランクでクリアする");
