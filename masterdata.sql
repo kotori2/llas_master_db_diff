@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"61e690b90289272f86386cb627031aa92cdf15c7", /*hash*/"c23a37ad013007ec351a8e646dd953bd13d68613", /*size*/12093914);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"bc0c4dcafdd41572dac00f39089b99efafe092d6", /*hash*/"2b7b978b20ac61b16850fac66922526601bf960e", /*size*/12094023);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"064f25464941716897fa88052d2c6465caf0b726", /*hash*/"5a953c0cb679e8a1063893ffc442c87bd8fb32b8", /*size*/1902094);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"fd4f3fc53825b15e39e3b2270f267e899fd3a92a", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"a3a642bc2f2702a137b9f84723c93b5637451e08", /*hash*/"c34e8faaa0f1d1e50e31ee5c9e8cc9c345dafbd1", /*size*/232980);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"6d15
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"34deae2b6d9461bca187cbdc4598038619f10042", /*hash*/"4bcbde340cd6ba9299c58f140666a8a2ba0566e0", /*size*/10832);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"e6fe292b4c5cb2bfc834b51535433f2474d4c3ed", /*hash*/"2cdf257daa92cf879e3a5d7ff4922192fa0d9b50", /*size*/38428);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"c2225ebec321ed94a2960482ba741d00edf968bc", /*hash*/"e9ca27e4de8d319753b4f893d23efff9cb4e702e", /*size*/86048);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"53df2a4a8ca184ab65941bf4b0ad0c9ebb875a3d", /*hash*/"18b066f747ac698452f360603a4d834c184de78a", /*size*/16934863);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"53df2a4a8ca184ab65941bf4b0ad0c9ebb875a3d", /*hash*/"690e780f5e85ba97f2f8ee409490eb3671253a06", /*size*/16934717);
