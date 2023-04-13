@@ -2902,6 +2902,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022501", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022502", /*message*/"[ビッグライブ課題] 「START:DASH!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022503", /*message*/"[ビッグライブ課題] 「HAPPY PARTY TRAIN」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022504", /*message*/"[ビッグライブ課題] 「Make-up session ABC」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022601", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022602", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022603", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -5273,6 +5276,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_1", /*message*/"デ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093001_2", /*message*/"恥ずかしくて死んじゃいます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_1", /*message*/"キラキラしてる笑顔はだれのもの？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093002_2", /*message*/"もっともっと、一緒にね！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093003_1", /*message*/"想いを形に");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301093003_2", /*message*/"私を呼ぶ声");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012001_1", /*message*/"秘密の友達");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012002_1", /*message*/"ミッドナイト・ガールズトーク");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302012003_1", /*message*/"あなたに食べてほしいの");
@@ -5285,6 +5290,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302013003_2", /*message*/"ガ
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022001_1", /*message*/"特製パンの差し入れ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022002_1", /*message*/"勝ち服ゲット！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022003_1", /*message*/"かすみんはいつでも");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302022004_1", /*message*/"こっち向いてかすみん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_1", /*message*/"最高のプレゼントを求めて");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023001_2", /*message*/"かすみん色に染まって♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_302023002_1", /*message*/"あなただから甘えたくて");
