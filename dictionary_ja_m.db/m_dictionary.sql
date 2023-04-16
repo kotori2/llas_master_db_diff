@@ -2905,6 +2905,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022504", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022601", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022602", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022603", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022701", /*message*/"[LoveLive! Sunshine!! Watanabe You 3rd Solo Concert Album発売記念課題] 「恋になりたいAQUARIUM」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900022702", /*message*/"[LoveLive! Sunshine!! Watanabe You 3rd Solo Concert Album発売記念課題] 渡辺 曜が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -2995,6 +2997,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33039_000", /*message*/"ドリームライブパレード- 3.5 Anniversary 3rd diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040", /*message*/"ドリームライブパレード- 3.5 Anniversary Last diary -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33040_000", /*message*/"ドリームライブパレード- 3.5 Anniversary Last diary -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"ドリームライブパレード～ボルテージタイプオンステージ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"ドリームライブパレード～ボルテージタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -4758,6 +4762,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300031", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300032", /*message*/"「CHASE!」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300033", /*message*/"「Evergreen」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300034", /*message*/"「ドキピポ☆エモーション」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message*/"「恋になりたいAQUARIUM」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「恋になりたいAQUARIUM」の難易度［チャレンジ］をSランクでクリアする");
