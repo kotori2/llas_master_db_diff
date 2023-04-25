@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"7886f244ad546f91a2017df72a596f059a2887c6", /*hash*/"2d5f63c1c3deae7133c3b79b319c1b3770a2e643", /*size*/12257643);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"b584897dd7c1e546e0bfaafcee965ccc64289915", /*hash*/"03106b52e0825cb90610d15e0ec6ccead47d51ed", /*size*/12257918);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"6f8d95580aeff076926f93414d8056be01d738ba", /*hash*/"9d680e738f2b8304fad7b87d314f19977c0b1a75", /*size*/1936959);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"a9f108c9227ea794ef3bf511b817b51e1996bb38", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"59f0563eabcfbea741837a4a0ac2ddb32717c80f", /*hash*/"1e3b1c9ef4efb0a4cdbb7d3a97f614890ef6a150", /*size*/235654);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"66b3
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"34deae2b6d9461bca187cbdc4598038619f10042", /*hash*/"853dc9e2af3619d2cec5371bc64d48b013d8f96b", /*size*/10832);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"e6fe292b4c5cb2bfc834b51535433f2474d4c3ed", /*hash*/"1f26af2511d1edbc635dbc3975e895143fecff3a", /*size*/38428);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"dd50b8c912eba2cca69ae89cdfac61d251242836", /*hash*/"03f380f27ba5b1cdd6109e3dfff7ce63b1915436", /*size*/86999);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"e742602ba3029b3fd69f23b38c002bd0a34976a8", /*hash*/"8d75c39f7158ce481bfa57879add517822c8ff18", /*size*/17252290);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"e742602ba3029b3fd69f23b38c002bd0a34976a8", /*hash*/"7165d69b3fbeccea5c53b881edd00ffd6cc78623", /*size*/17255315);
