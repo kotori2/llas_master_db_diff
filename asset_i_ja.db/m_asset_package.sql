@@ -60,7 +60,7 @@ INSERT INTO `m_asset_package` VALUES (/*package_key*/"voice:101050101", /*versio
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0025/es_0025_01", /*version*/"e6ae6bf6fed0c8c680826bcd0b2fe19cd807bcba", /*pack_num*/80);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:ES/0056/es_0056_02", /*version*/"1aa79e0bc878df9ade507db46109b15177c28846", /*pack_num*/60);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"card:202052001", /*version*/"10a5c418caf32a929c83004dc6448ad5c21a6ee2", /*pack_num*/5);
-INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"70c990d12e4f04b71896a4b1f433d468a45480b2", /*pack_num*/13663);
+INSERT INTO `m_asset_package` VALUES (/*package_key*/"main", /*version*/"a42800e2ab8bbef2fd8278061d87d23eb3dcdc0c", /*pack_num*/13662);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story:SS/0005/ss_400053007_01", /*version*/"2b6145573255eae4222d929c250964d3d48c96de", /*pack_num*/13);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:MS/002/ms_002_07", /*version*/"1b005276d8e4d06a8990b4e1537442619fa89694", /*pack_num*/82);
 INSERT INTO `m_asset_package` VALUES (/*package_key*/"story-voice:SS/0004/ss_400042005_01", /*version*/"e07dfb68484a3059386b0ec4dfa35c4bc9e7622c", /*pack_num*/40);
