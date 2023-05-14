@@ -1,5 +1,5 @@
 CREATE TABLE masterdata(name TEXT NOT NULL, keys TEXT NOT NULL, hash TEXT NOT NULL, size INTEGER NOT NULL);
-INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"6798e6883412333c430805795538e8756157f686", /*hash*/"a7d05654235e6cf397cf63caa7c38a09ba080b9f", /*size*/12380949);
+INSERT INTO `masterdata` VALUES (/*name*/"masterdata.db", /*keys*/"b334dc2737adc231622307d668a05012e4eb385c", /*hash*/"a13c245019bb7cf3d844aa3eae82302313d7723f", /*size*/12381035);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_k.db", /*keys*/"6c318944a1bc2488218a841a744cdf86541d2af2", /*hash*/"88675046d17d9128843c8734d6396572ca74aa6a", /*size*/1965009);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_inline_image.db", /*keys*/"23ffc7eebdf70da52e53c3068726a42e698a80e6", /*hash*/"a9f108c9227ea794ef3bf511b817b51e1996bb38", /*size*/716);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_m.db", /*keys*/"d2b44b30791f6353b67500f9a54edfd687eaad33", /*hash*/"f9d1b54ade3db474ac1d06f38325c9943c58c202", /*size*/239510);
@@ -8,4 +8,4 @@ INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_dummy.db", /*keys*/"95a7
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_petag.db", /*keys*/"34deae2b6d9461bca187cbdc4598038619f10042", /*hash*/"853dc9e2af3619d2cec5371bc64d48b013d8f96b", /*size*/10832);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_ios.db", /*keys*/"e6fe292b4c5cb2bfc834b51535433f2474d4c3ed", /*hash*/"1f26af2511d1edbc635dbc3975e895143fecff3a", /*size*/38428);
 INSERT INTO `masterdata` VALUES (/*name*/"dictionary_ja_s.db", /*keys*/"dd50b8c912eba2cca69ae89cdfac61d251242836", /*hash*/"03f380f27ba5b1cdd6109e3dfff7ce63b1915436", /*size*/86999);
-INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"1e82c91059bc0fef3a1939ed81be4a907ade14ac", /*hash*/"0316bb2dd84a8f789ccb2de7debd31aca5aeda3f", /*size*/17564237);
+INSERT INTO `masterdata` VALUES (/*name*/"asset_i_ja.db", /*keys*/"5effb60aa668fbcba27d6738fb3f03227a491c95", /*hash*/"941f9a764a600ead688f7182fce7dc2f9e45fb79", /*size*/17565442);
