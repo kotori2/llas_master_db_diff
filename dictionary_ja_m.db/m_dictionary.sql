@@ -3924,6 +3924,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400700", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400701", /*message*/"「さようならへさよなら！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400702", /*message*/"「さようならへさよなら！」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400703", /*message*/"「さようならへさよなら！」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400704", /*message*/"「想いよひとつになれ（9人Ver.）」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400705", /*message*/"「想いよひとつになれ（9人Ver.）」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400706", /*message*/"「想いよひとつになれ（9人Ver.）」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
