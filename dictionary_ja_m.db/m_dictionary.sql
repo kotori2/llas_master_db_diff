@@ -2979,6 +2979,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023103", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023104", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「永遠の一瞬」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023105", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「DREAMY COLOR」を3回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*message*/"[ラブライブ！スクフェスシリーズ感謝祭 2023開催記念キャンペーン] 「SUNNY DAY SONG」を3回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
@@ -3072,6 +3075,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33041_000", /*message*/"ドリームライブパレード～ボルテージタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042", /*message*/"ドリームライブパレード～スキルタイプオンステージ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33042_000", /*message*/"ドリームライブパレード～スキルタイプオンステージ～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043", /*message*/"ドリームライブパレード- アンコールステージ -");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_tower_title_33043_000", /*message*/"ドリームライブパレード- アンコールステージ -");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -3944,6 +3949,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400709", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400710", /*message*/"「OUR P13CES!!!」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400711", /*message*/"「OUR P13CES!!!」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400712", /*message*/"「OUR P13CES!!!」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400713", /*message*/"「TOKIMEKI Runners (12人Ver.)」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400714", /*message*/"「TOKIMEKI Runners (12人Ver.)」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400715", /*message*/"「TOKIMEKI Runners (12人Ver.)」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成する");
@@ -4867,6 +4875,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300035", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300036", /*message*/"「I&apos;m Still...」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300037", /*message*/"「Queendom」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300038", /*message*/"「決意の光」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300039", /*message*/"「きっと青春が聞こえる」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300040", /*message*/"「WATER BLUE NEW WORLD」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300041", /*message*/"「Colorful Dreams! Colorful Smiles!」の難易度［上級＋］をSランクでクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310300042", /*message*/"「永遠の一瞬」の難易度［上級＋］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400001", /*message*/"「ユメノトビラ」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400002", /*message*/"「A song for You! You? You!!」の難易度［チャレンジ］をSランクでクリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_310400003", /*message*/"「恋になりたいAQUARIUM」の難易度［チャレンジ］をSランクでクリアする");
