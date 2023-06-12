@@ -2982,6 +2982,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023106", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023201", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023202", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでライブステージを5回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023203", /*message*/"[ドリームライブパレード課題] ドリームライブパレードでPP全員回復を1回使用する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023301", /*message*/"[ビッグライブ課題] ビッグライブで賞を1回獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023302", /*message*/"[ビッグライブ課題] 「smile smile ship Start!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023303", /*message*/"[ビッグライブ課題] 「勇気はどこに？君の胸に！」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023304", /*message*/"[ビッグライブ課題] 「Step! ZERO to ONE」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023401", /*message*/"[LoveLive! Sunshine!! Ohara Mari 3rd Solo Concert Album発売記念課題] 「Hop? Stop? Nonstop!」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_900023402", /*message*/"[LoveLive! Sunshine!! Ohara Mari 3rd Solo Concert Album発売記念課題] 小原 鞠莉が含まれるSP特技を20回使う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_1", /*message*/"第1話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_2", /*message*/"第2話");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_title_3", /*message*/"第3話");
