@@ -267,6 +267,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204302", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204303", /*message*/"イベントルール 3/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204304", /*message*/"イベントルール 4/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204305", /*message*/"イベントルール 5/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204401", /*message*/"イベントルール 1/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204402", /*message*/"イベントルール 2/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204403", /*message*/"イベントルール 3/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204404", /*message*/"イベントルール 4/5");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event_coop_rule_title_3204405", /*message*/"イベントルール 5/5");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_01", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_02", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"event_marathon_story_blank_30002_03", /*message*/"");
